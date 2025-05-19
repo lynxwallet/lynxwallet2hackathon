@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Rahakott"
+  },
+  "extension_description": {
+    "message": "Järgne Lynxile, avasta Web3"
+  },
+  "wallet_balance": {
+    "message": "Saldo"
+  },
+  "token_send": {
+    "message": "Saada"
+  },
+  "token_receive": {
+    "message": "Vastuvõtmine"
+  },
+  "token_buy": {
+    "message": "Vaheta (Osta)"
+  },
+  "token_history": {
+    "message": "Ajalugu"
+  },
+  "gas_free": {
+    "message": "Gaasivaba"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsorlus"
+  },
+  "gas_free_soon": {
+    "message": "Varsti!"
+  },
+  "unknown_chain": {
+    "message": "Tundmatu ahel #$0"
+  },
+  "manage_wallet": {
+    "message": "Halda rahakotti"
+  },
+  "wallet_keys": {
+    "message": "Rahakott ja võtmed"
+  },
+  "connected_dapps": {
+    "message": "Ühendatud Dapp-id"
+  },
+  "password": {
+    "message": "Parool"
+  },
+  "theme": {
+    "message": "Teema"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "about": {
+    "message": "Umbes"
+  },
+  "login_out": {
+    "message": "Logi välja"
+  },
+  "login_out_tip": {
+    "message": "See toiming kustutab teie rahakoti. Palun veenduge, et olete oma konto varundanud enne jätkamist."
+  },
+  "back_up_your_account": {
+    "message": "Varunda oma konto"
+  },
+  "understand_and_continue": {
+    "message": "Ma mõistan, jätka"
+  },
+  "gas_price": {
+    "message": "Gaasi Hind"
+  },
+  "switch_network": {
+    "message": "Vaheta võrku"
+  },
+  "update": {
+    "message": "Uuenda"
+  },
+  "add_network": {
+    "message": "Lisa võrk"
+  },
+  "request_from": {
+    "message": "Päring"
+  },
+  "network": {
+    "message": "Võrk"
+  },
+  "chain_name": {
+    "message": "Ahela nimi"
+  },
+  "chain_id": {
+    "message": "Keti ID"
+  },
+  "symbol": {
+    "message": "Sümbol"
+  },
+  "decimals": {
+    "message": "Kümnendkohad"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "Teie vaikimisi võrk on muutmisel. Jätkake ainult siis, kui usaldate seda võrku."
+  },
+  "update_network_tip": {
+    "message": "Selle toiminguga uuendatakse teie vaikevõrgu seadeid. Pange tähele võimalikke turvariske."
+  },
+  "add_network_tip": {
+    "message": "Lynx ei kinnita kohandatud võrke. Palun olge teadlikud võimalikest riskidest."
+  },
+  "cancel": {
+    "message": "Tühista"
+  },
+  "confirm": {
+    "message": "Kinnita"
+  },
+  "want_connect_wallet": {
+    "message": "Soovib ühenduda teie rahakotiga"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "approve_tip1": {
+    "message": "Luba oma rahakoti aadressile, saldole ja tegevustele juurdepääs"
+  },
+  "approve_tip2": {
+    "message": "Luba kinnitus saata tehingu kinnitusi"
+  },
+  "approve_tip3": {
+    "message": "Ei võimalda vara ülekandmist ilma teie loata"
+  },
+  "connect": {
+    "message": "ühenda"
+  },
+  "export_private_key": {
+    "message": "Ekspordi privaatvõti"
+  },
+  "select_network": {
+    "message": "Vali võrk"
+  },
+  "nfts": {
+    "message": "NFT-d"
+  },
+  "start": {
+    "message": "ALUSTA"
+  },
+  "back": {
+    "message": "Tagasi"
+  },
+  "next": {
+    "message": "Järgmine"
+  },
+  "enter_code": {
+    "message": "Palun sisestage 6-kohaline parool"
+  },
+  "enter_your_code": {
+    "message": "Palun sisestage oma parool"
+  },
+  "enter_code_again": {
+    "message": "Palun sisestage uuesti 6-kohaline parool"
+  },
+  "forget_password": {
+    "message": "Kas unustasite oma parooli?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ei talleta kontode andmeid ega saa teie parooli lähtestada. Saate oma konto taastada, logides uuesti sisse."
+  },
+  "forget_tip2": {
+    "message": "See tegevus kustutab rahakotikonto. Veenduge, et olete oma konto enne jätkamist varundanud."
+  },
+  "verify_password": {
+    "message": "Kinnita parool"
+  },
+  "set_password": {
+    "message": "Määra parool"
+  },
+  "confirm_password": {
+    "message": "Kinnita parool"
+  },
+  "address": {
+    "message": "Aadress"
+  },
+  "receive_tip": {
+    "message": "Kopeeri rahakoti aadress selle rahakoti vahendite saamiseks"
+  },
+  "copied": {
+    "message": "Kopeeritud"
+  },
+  "gas_fee": {
+    "message": "Gaasi tasu"
+  },
+  "fee_settings": {
+    "message": "Tasude Seaded"
+  },
+  "base_fee": {
+    "message": "Põhitasu"
+  },
+  "priority_fee": {
+    "message": "Eelistustasu"
+  },
+  "gas_limit": {
+    "message": "Gaasi limiit"
+  },
+  "normal": {
+    "message": "Normaalne"
+  },
+  "average": {
+    "message": "Keskmine"
+  },
+  "fast": {
+    "message": "Kiire"
+  },
+  "website": {
+    "message": "Veebileht"
+  },
+  "custom": {
+    "message": "Kohandatud"
+  },
+  "transfer_request": {
+    "message": "Ülekande taotlus"
+  },
+  "deploy_contract": {
+    "message": "Lepa leping"
+  },
+  "sender": {
+    "message": "Saatja"
+  },
+  "amount": {
+    "message": "Kogus"
+  },
+  "simulate_transaction": {
+    "message": "Simuleeri tehing"
+  },
+  "transaction": {
+    "message": "Tehing"
+  },
+  "data": {
+    "message": "Andmed"
+  },
+  "insufficient_token_balance": {
+    "message": "Puudulik tokenite saldo"
+  },
+  "required_amount": {
+    "message": "Nõutav summa"
+  },
+  "insufficient_token_tip": {
+    "message": "Teie kontol ei ole piisavalt $0 tokeneid, et tehingut lõpule viia."
+  },
+  "buy": {
+    "message": "Osta"
+  },
+  "insufficient_gas_fee": {
+    "message": "Ebapiisav gaasitasu"
+  },
+  "insufficient_fee_tip": {
+    "message": "Teie kontol ei ole piisavalt $0, et katta võrgutasu."
+  },
+  "required_fee": {
+    "message": "Nõutav tasu"
+  },
+  "session": {
+    "message": "Seanss"
+  },
+  "disconnect_dapp": {
+    "message": "Ühenda Dapp lahti"
+  },
+  "remove_dapp": {
+    "message": "Eemalda Dapp"
+  },
+  "signature_request": {
+    "message": "Allkirjastamise taotlus"
+  },
+  "message": {
+    "message": "Sõnum"
+  },
+  "market_cap": {
+    "message": "Turuväärtus"
+  },
+  "total_supply": {
+    "message": "Kogutoodang"
+  },
+  "volume_24h": {
+    "message": "24h maht"
+  },
+  "max_supply": {
+    "message": "Maksimaalne pakkumine"
+  },
+  "view_on_explorer": {
+    "message": "Vaata Exploreris"
+  },
+  "transactions": {
+    "message": "Tehingud"
+  },
+  "assets": {
+    "message": "Varad"
+  },
+  "tokens": {
+    "message": "Tokenid"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "email": {
+    "message": "E-post"
+  },
+  "phone_number": {
+    "message": "Telefoninumber"
+  },
+  "login_email_tip": {
+    "message": "Sisestage saadetud kinnituskood aadressile"
+  },
+  "resend_code": {
+    "message": "Saada kinnituskood uuesti"
+  },
+  "verify": {
+    "message": "Kinnita"
+  },
+  "create_wallet": {
+    "message": "Loo oma esimene rahakott"
+  },
+  "sign_in": {
+    "message": "Logi sisse"
+  },
+  "create_passkey": {
+    "message": "Loo pääsuvõti"
+  },
+  "have_passkey": {
+    "message": "Mul on Passkey"
+  },
+  "phone_login": {
+    "message": "Telefoniga sisselogimine"
+  },
+  "context_meun_send": {
+    "message": "Saada - Lynx rahakott"
+  },
+  "context_meun_receive": {
+    "message": "Saabumine - Lynx rahakott"
+  },
+  "context_meun_swap": {
+    "message": "Vahetus - Lynx rahakott"
+  },
+  "context_meun_buy": {
+    "message": "Osta - Lynx rahakott"
+  },
+  "selected": {
+    "message": "Valitud"
+  },
+  "search_network_or_chain": {
+    "message": "Otsi võrku või Chain ID"
+  },
+  "all": {
+    "message": "Kõik"
+  },
+  "mainnets": {
+    "message": "Põhivõrgud"
+  },
+  "testnets": {
+    "message": "Testnetid"
+  },
+  "all_networks": {
+    "message": "Kõik Võrgud"
+  },
+  "chain_not_listed": {
+    "message": "Ahelat pole loetletud?"
+  },
+  "oops": {
+    "message": "Ups"
+  },
+  "oops_content": {
+    "message": "Me oleme probleemist teadlikud ja meie meeskond tegeleb sellega. Täname teid kannatlikkuse eest!"
+  },
+  "go_back": {
+    "message": "Mine tagasi"
+  },
+  "saved": {
+    "message": "Salvestatud"
+  },
+  "let_start_celebrate": {
+    "message": "ALUSTAME PIDUTSEMA"
+  },
+  "view_my_assets": {
+    "message": "Vaata minu varasid"
+  },
+  "received": {
+    "message": "Saadud"
+  },
+  "sent": {
+    "message": "Saadetud"
+  },
+  "swap": {
+    "message": "Vahetus"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Ülekanne"
+  },
+  "transaction_details": {
+    "message": "Tehingu üksikasjad"
+  },
+  "transaction_hash": {
+    "message": "Tehingu Hash"
+  },
+  "status": {
+    "message": "Olek"
+  },
+  "timestamp": {
+    "message": "Ajatempel"
+  },
+  "from": {
+    "message": "Alates"
+  },
+  "to": {
+    "message": "Saamiseks"
+  },
+  "value": {
+    "message": "Väärtus"
+  },
+  "transaction_fee": {
+    "message": "Tehingutasu"
+  }
+}

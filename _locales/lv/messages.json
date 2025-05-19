@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Maciņš"
+  },
+  "extension_description": {
+    "message": "Izpēti Web3 ar Lynx"
+  },
+  "wallet_balance": {
+    "message": "Bilance"
+  },
+  "token_send": {
+    "message": "Sūtīt"
+  },
+  "token_receive": {
+    "message": "Saņemt"
+  },
+  "token_buy": {
+    "message": "Mainīt (Pirkt)"
+  },
+  "token_history": {
+    "message": "Vēsture"
+  },
+  "gas_free": {
+    "message": "Bezmaksas gāze"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsoru atbalsts"
+  },
+  "gas_free_soon": {
+    "message": "Drīz!"
+  },
+  "unknown_chain": {
+    "message": "Nezināma ķēde #$0"
+  },
+  "manage_wallet": {
+    "message": "Pārvaldīt maku"
+  },
+  "wallet_keys": {
+    "message": "Maciņš un Atslēgas"
+  },
+  "connected_dapps": {
+    "message": "Savienotās Dapps"
+  },
+  "password": {
+    "message": "Parole"
+  },
+  "theme": {
+    "message": "Tēma"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "about": {
+    "message": "Par"
+  },
+  "login_out": {
+    "message": "Izrakstīties"
+  },
+  "login_out_tip": {
+    "message": "Šī darbība dzēsīs jūsu maku. Lūdzu, pārliecinieties, ka esat dublējuši savu kontu, pirms turpināt."
+  },
+  "back_up_your_account": {
+    "message": "Dublējiet savu kontu"
+  },
+  "understand_and_continue": {
+    "message": "Es saprotu, turpini"
+  },
+  "gas_price": {
+    "message": "Gāzes cena"
+  },
+  "switch_network": {
+    "message": "Pārslēgt tīklu"
+  },
+  "update": {
+    "message": "Atjaunināt"
+  },
+  "add_network": {
+    "message": "Pievienot tīklu"
+  },
+  "request_from": {
+    "message": "Pieprasījums"
+  },
+  "network": {
+    "message": "Tīkls"
+  },
+  "chain_name": {
+    "message": "Ķēdes Nosaukums"
+  },
+  "chain_id": {
+    "message": "Ķēdes ID"
+  },
+  "symbol": {
+    "message": "Simbols"
+  },
+  "decimals": {
+    "message": "Decimāldaļas"
+  },
+  "explorer": {
+    "message": "Izpētītājs"
+  },
+  "switch_network_tip": {
+    "message": "Jūs gatavojaties mainīt noklusējuma tīklu. Turpiniet tikai tad, ja uzticaties šim tīklam."
+  },
+  "update_network_tip": {
+    "message": "Šī darbība atjauninās jūsu noklusējuma tīkla iestatījumus. Lūdzu, esiet uzmanīgi iespējamajiem drošības riskiem."
+  },
+  "add_network_tip": {
+    "message": "Lynx nepārbauda pielāgotus tīklus. Lūdzu, esiet informēti par iespējamajiem riskiem."
+  },
+  "cancel": {
+    "message": "Atcelt"
+  },
+  "confirm": {
+    "message": "Apstiprināt"
+  },
+  "want_connect_wallet": {
+    "message": "Vēlas izveidot savienojumu ar jūsu maku"
+  },
+  "account": {
+    "message": "Konts"
+  },
+  "approve_tip1": {
+    "message": "Atļaut piekļuvi jūsu maka adresei, bilancei un aktivitātēm."
+  },
+  "approve_tip2": {
+    "message": "Atļaut atļauju nosūtīt darījumu apstiprinājumus"
+  },
+  "approve_tip3": {
+    "message": "Neļauj pārsūtīt aktīvus bez jūsu atļaujas"
+  },
+  "connect": {
+    "message": "pievienot"
+  },
+  "export_private_key": {
+    "message": "Eksportēt privāto atslēgu"
+  },
+  "select_network": {
+    "message": "Izvēlieties tīklu"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "SĀKT"
+  },
+  "back": {
+    "message": "Atpakaļ"
+  },
+  "next": {
+    "message": "Nākamais"
+  },
+  "enter_code": {
+    "message": "Lūdzu, ievadiet 6 ciparu paroli"
+  },
+  "enter_your_code": {
+    "message": "Lūdzu, ievadiet savu paroli"
+  },
+  "enter_code_again": {
+    "message": "Lūdzu, ievadiet 6 ciparu paroli vēlreiz"
+  },
+  "forget_password": {
+    "message": "Aizmirsi paroli?"
+  },
+  "forget_tip1": {
+    "message": "Lynx neuzglabā konta datus un nevar atiestatīt jūsu paroli. Jūs varat atjaunot savu kontu, vēlreiz pierakstoties."
+  },
+  "forget_tip2": {
+    "message": "Šī darbība izdzēsīs maka kontu. Lūdzu, pārliecinieties, ka esat dublējis savu kontu pirms turpināt."
+  },
+  "verify_password": {
+    "message": "Verificēt paroli"
+  },
+  "set_password": {
+    "message": "Iestatīt paroli"
+  },
+  "confirm_password": {
+    "message": "Apstipriniet paroli"
+  },
+  "address": {
+    "message": "Adrese"
+  },
+  "receive_tip": {
+    "message": "Nokopējiet maka adresi, lai saņemtu līdzekļus šajā makam."
+  },
+  "copied": {
+    "message": "Kopēts"
+  },
+  "gas_fee": {
+    "message": "Gāzes maksa"
+  },
+  "fee_settings": {
+    "message": "Maksas iestatījumi"
+  },
+  "base_fee": {
+    "message": "Bāzes maksa"
+  },
+  "priority_fee": {
+    "message": "Prioritātes maksa"
+  },
+  "gas_limit": {
+    "message": "Gāzes limits"
+  },
+  "normal": {
+    "message": "Normāls"
+  },
+  "average": {
+    "message": "Vidējais"
+  },
+  "fast": {
+    "message": "Ātrs"
+  },
+  "website": {
+    "message": "Tīmekļa vietne"
+  },
+  "custom": {
+    "message": "Pielāgot"
+  },
+  "transfer_request": {
+    "message": "Pārskaitījuma pieprasījums"
+  },
+  "deploy_contract": {
+    "message": "Izvietot līgumu"
+  },
+  "sender": {
+    "message": "Sūtītājs"
+  },
+  "amount": {
+    "message": "Daudzums"
+  },
+  "simulate_transaction": {
+    "message": "Simulēt darījumu"
+  },
+  "transaction": {
+    "message": "Transakcija"
+  },
+  "data": {
+    "message": "Dati"
+  },
+  "insufficient_token_balance": {
+    "message": "Nepietiekams tokenu atlikums"
+  },
+  "required_amount": {
+    "message": "Nepieciešamā summa"
+  },
+  "insufficient_token_tip": {
+    "message": "Jūsu kontā nav pietiekami daudz $0 tokenu, lai pabeigtu darījumu."
+  },
+  "buy": {
+    "message": "Pirkt"
+  },
+  "insufficient_gas_fee": {
+    "message": "Nepietiekama \"gas\" maksa"
+  },
+  "insufficient_fee_tip": {
+    "message": "Jūsu kontā nav pietiekami daudz $0, lai segtu tīkla maksu."
+  },
+  "required_fee": {
+    "message": "Nepieciešamā maksa"
+  },
+  "session": {
+    "message": "Sesija"
+  },
+  "disconnect_dapp": {
+    "message": "Atvienot Dapp"
+  },
+  "remove_dapp": {
+    "message": "Noņemiet Dapp"
+  },
+  "signature_request": {
+    "message": "Paraksta pieprasījums"
+  },
+  "message": {
+    "message": "Ziņojums"
+  },
+  "market_cap": {
+    "message": "Tirgus kapitalizācija"
+  },
+  "total_supply": {
+    "message": "Kopējais piedāvājums"
+  },
+  "volume_24h": {
+    "message": "Apjoms 24h"
+  },
+  "max_supply": {
+    "message": "Maksimālais piedāvājums"
+  },
+  "view_on_explorer": {
+    "message": "Skatīt pārlūkprogrammā"
+  },
+  "transactions": {
+    "message": "Transakcijas"
+  },
+  "assets": {
+    "message": "Aktīvi"
+  },
+  "tokens": {
+    "message": "Žetoni"
+  },
+  "balance": {
+    "message": "Bilance"
+  },
+  "email": {
+    "message": "E-pasts"
+  },
+  "phone_number": {
+    "message": "Telefona numurs"
+  },
+  "login_email_tip": {
+    "message": "Ievadiet verifikācijas kodu, kas tika nosūtīts uz"
+  },
+  "resend_code": {
+    "message": "Atkārtoti nosūtīt verifikācijas kodu"
+  },
+  "verify": {
+    "message": "Pārbaudīt"
+  },
+  "create_wallet": {
+    "message": "Izveidojiet savu pirmo maku"
+  },
+  "sign_in": {
+    "message": "Pierakstīties"
+  },
+  "create_passkey": {
+    "message": "Izveidojiet piekļuves atslēgu"
+  },
+  "have_passkey": {
+    "message": "Man ir piekļuves atslēga"
+  },
+  "phone_login": {
+    "message": "Tālruņa pieteikšanās"
+  },
+  "context_meun_send": {
+    "message": "Nosūtīt - Lynx maks"
+  },
+  "context_meun_receive": {
+    "message": "Saņemt - Lynx maciņš"
+  },
+  "context_meun_swap": {
+    "message": "Maiņa - Lynx maks"
+  },
+  "context_meun_buy": {
+    "message": "Pērc - Lynx seifs"
+  },
+  "selected": {
+    "message": "Atlasīts"
+  },
+  "search_network_or_chain": {
+    "message": "Meklēt tīklu vai ķēdes ID"
+  },
+  "all": {
+    "message": "Visi"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testneti"
+  },
+  "all_networks": {
+    "message": "Visi tīkli"
+  },
+  "chain_not_listed": {
+    "message": "Ķēde nav uzskaitīta?"
+  },
+  "oops": {
+    "message": "Ups"
+  },
+  "oops_content": {
+    "message": "Mēs esam informēti par problēmu, un mūsu komanda strādā pie tās risināšanas. Paldies par jūsu pacietību!"
+  },
+  "go_back": {
+    "message": "Atpakaļ"
+  },
+  "saved": {
+    "message": "Saglabāts"
+  },
+  "let_start_celebrate": {
+    "message": "SĀKSIM SVINĒT"
+  },
+  "view_my_assets": {
+    "message": "Skatīt manas aktīvus"
+  },
+  "received": {
+    "message": "Saņemts"
+  },
+  "sent": {
+    "message": "Nosūtīts"
+  },
+  "swap": {
+    "message": "Apmaiņa"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Pārskaitījums"
+  },
+  "transaction_details": {
+    "message": "Darījuma detaļas"
+  },
+  "transaction_hash": {
+    "message": "Darījuma hash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Laika zīmogs"
+  },
+  "from": {
+    "message": "No"
+  },
+  "to": {
+    "message": "Uz"
+  },
+  "value": {
+    "message": "Vērtība"
+  },
+  "transaction_fee": {
+    "message": "Transakcijas maksa"
+  }
+}

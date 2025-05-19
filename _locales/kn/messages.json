@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynxನ ಹಣಕಾಸು ಪಡೆಯאָג್ಯ"
+  },
+  "extension_description": {
+    "message": "Lynx ಅನ್ನು ಅನುಸರಿಸಿ, Web3 ಅನ್ನು ಅನ್ವೇಷಿಸಿ"
+  },
+  "wallet_balance": {
+    "message": "ಬಾಕಿ"
+  },
+  "token_send": {
+    "message": "ಹೋಗಿ"
+  },
+  "token_receive": {
+    "message": "ಸ್ವೀಕರಿಸಿ"
+  },
+  "token_buy": {
+    "message": "ಸ್ವಾಪ್ (ಖರೀದಿ)"
+  },
+  "token_history": {
+    "message": "ಇತಿಹಾಸ"
+  },
+  "gas_free": {
+    "message": "ಗ್ಯಾಸ್ನಿಂದ ಮುಕ್ತ"
+  },
+  "gas_free_sponsorship": {
+    "message": "ಪ್ರಾಯೋಜಕತ್ವ"
+  },
+  "gas_free_soon": {
+    "message": "ಶೀಘ್ರದಲ್ಲೇ!"
+  },
+  "unknown_chain": {
+    "message": "ಅಪರಿಚಿತ ಚೈನ್ #$0"
+  },
+  "manage_wallet": {
+    "message": "ವಾಲೆಟ್ ನಿರ್ವಹಿಸಿ"
+  },
+  "wallet_keys": {
+    "message": "ವಾಲೆಟ್ ಮತ್ತು ಕೀಗಳು"
+  },
+  "connected_dapps": {
+    "message": "ಸಂಪರ್ಕಿತ DApps"
+  },
+  "password": {
+    "message": "ಪಾಸ್ವರ್ಡ್"
+  },
+  "theme": {
+    "message": "ಥೀಮ್"
+  },
+  "language": {
+    "message": "ಭಾಷೆ"
+  },
+  "about": {
+    "message": "ಬಗ್ಗೆ"
+  },
+  "login_out": {
+    "message": "ಲಾಗ್ ಔಟ್"
+  },
+  "login_out_tip": {
+    "message": "ಈ ಕ್ರಿಯೆಯು ನಿಮ್ಮ ವಾಲೆಟ್ ಅನ್ನು ಅಳಿಸುತ್ತದೆ. ಮುಂದುವರೆಯುವ ಮೊದಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಿರಿ."
+  },
+  "back_up_your_account": {
+    "message": "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಬ್ಯಾಕ್‌ಅಪ್ ಮಾಡಿ"
+  },
+  "understand_and_continue": {
+    "message": "ನಾನು ಭಾವಿಸುತ್ತೇನೆ, ಮುಂದುವರಿಸಿ"
+  },
+  "gas_price": {
+    "message": "ಗ್ಯಾಸ್ ಬೆಲೆ"
+  },
+  "switch_network": {
+    "message": "ನೆಟ್ವರ್ಕ್ ಬದಲಿಸಿ"
+  },
+  "update": {
+    "message": "ನವೀಕರಣ"
+  },
+  "add_network": {
+    "message": "ನೆಟ್‌ವರ್ಕ್ ಸೇರಿಸಿ"
+  },
+  "request_from": {
+    "message": "Vinanti"
+  },
+  "network": {
+    "message": "ನೆಟ್‌ವರ್ಕ್"
+  },
+  "chain_name": {
+    "message": "ಚೈನ್ ಹೆಸರು"
+  },
+  "chain_id": {
+    "message": "ಚೈನ್ ಐಡಿ"
+  },
+  "symbol": {
+    "message": "ಚಿಹ್ನೆ"
+  },
+  "decimals": {
+    "message": "ದಶಾಂಶಗಳು"
+  },
+  "explorer": {
+    "message": "ಎಕ್ಸ್‌ಪ್ಲೋರರ್"
+  },
+  "switch_network_tip": {
+    "message": "ನೀವು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ನೆಟ್‌ವರ್ಕ್ ಅನ್ನು ಬದಲಾಯಿಸಲು ಹೋಗುತ್ತಿದ್ದೀರಿ. ನೀವು ಈ ನೆಟ್‌ವರ್ಕ್ ಮೇಲೆ ನಂಬಿಕೆ ಇಟ್ಟಿದ್ದರೆ ಮಾತ್ರ ಮುಂದುವರಿಸಿ."
+  },
+  "update_network_tip": {
+    "message": "ಈ ಕ್ರಿಯೆಯು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಜಾಲಾವಳಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನವೀಕರಿಸುತ್ತದೆ. ದಯವಿಟ್ಟು ಸಂಭವನೀಯ ಭದ್ರತಾ ಅಪಾಯಗಳನ್ನು ಗಮನದಲ್ಲಿಡಿ."
+  },
+  "add_network_tip": {
+    "message": "Lynx ಕಸ್ಟಮ್ ನೆಟ್‌ವರ್ಕ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಸಾಧ್ಯವಾದ ಅಪಾಯಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆಯಿಂದಿರಿ."
+  },
+  "cancel": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "confirm": {
+    "message": "ಹೌದು"
+  },
+  "want_connect_wallet": {
+    "message": "ನಿಮ್ಮ ಪರ್ಸ್ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಲು ಬಯಸುತ್ತದೆ"
+  },
+  "account": {
+    "message": "ಖಾತಾ"
+  },
+  "approve_tip1": {
+    "message": "ನಿಮ್ಮ ವಾಲೆಟ್ ವಿಳಾಸ, ಶೇಷ ಮತ್ತು ಚಟುವಟಿಕೆಗೆ ಪ್ರವೇಶವನ್ನು ಅನುಮತಿಸಿ"
+  },
+  "approve_tip2": {
+    "message": "ವಹಿನಿಯನ್ನು ಅಂಗೀಕರಿಸಲು ಅನುಮತಿ ನೀಡು"
+  },
+  "approve_tip3": {
+    "message": "ನಿಮ್ಮ ಅನುಮತಿಯಿಲ್ಲದೆ ಆಸ್ತಿ ವರ್ಗಾಯಿಸಲು ಅನುಮತಿಸುತ್ತದೆ"
+  },
+  "connect": {
+    "message": "ಸಂಪರ್ಕಿಸಿ"
+  },
+  "export_private_key": {
+    "message": "ಖಾಸಗಿ ಕೀಲಿಯನ್ನು ರಫ್ತುಮಾಡಿ"
+  },
+  "select_network": {
+    "message": "ಜಾಲವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "nfts": {
+    "message": "ಎನ್‌ಎಫ್‌ಟಿಗಳು"
+  },
+  "start": {
+    "message": "ಆರಂಭಿಸಿ"
+  },
+  "back": {
+    "message": "ಮತ್ತೆ"
+  },
+  "next": {
+    "message": "ಮುಂದೆ"
+  },
+  "enter_code": {
+    "message": "6 ಅಂಕಿಗಳ ಗುಪ್ತಪದವನ್ನು દાખಲಿಸಿ"
+  },
+  "enter_your_code": {
+    "message": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ"
+  },
+  "enter_code_again": {
+    "message": "ದಯವಿಟ್ಟು 6-ಅಂಕಿಯ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಮರುಪ್ರವೇಶಿಸಿ"
+  },
+  "forget_password": {
+    "message": "ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಮರೆತಿರಾ?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ಖಾತೆ ದತ್ತಾಂಶವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ ಮತ್ತು ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಪುನಃಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ನೀವು ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡುವ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಬಹುದು."
+  },
+  "forget_tip2": {
+    "message": "ಈ ಕ್ರಿಯೆಯಿಂದ ವಾಲೆಟ್ ಖಾತೆ ಅಳಿಸಲಾಗುತ್ತದೆ, ಮುಂದುವರಿಯುವುದಕ್ಕೆ ಮುಂಚೆ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+  },
+  "verify_password": {
+    "message": "ಪಾಸ್ವರ್ಡ್ ಪರಿಶೀಲಿಸಿ"
+  },
+  "set_password": {
+    "message": "ಪಾಸ್ವರ್ಡ್‌ನಯಮಿಸಿ"
+  },
+  "confirm_password": {
+    "message": "ಗುಪ್ತಪದವನ್ನು ದೃಢೀಕರಿಸಿ"
+  },
+  "address": {
+    "message": "ವಿಳಾಸ"
+  },
+  "receive_tip": {
+    "message": "ಈ ವಾಲೆಟ್‌ನಲ್ಲಿ ನಿಧಿಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ವಾಲೆಟ್ ವಿಳಾಸವನ್ನು ನಕಲಿಸಿರಿ"
+  },
+  "copied": {
+    "message": "ನಕಲಿಸಲಾಗಿದೆ"
+  },
+  "gas_fee": {
+    "message": "ಗ್ಯಾಸೋಶ ಪ್ರಮೀಳಣ"
+  },
+  "fee_settings": {
+    "message": "ಶುಲ್ಕ ಸೆಟ್ಟಿಂಗ್ಸ್"
+  },
+  "base_fee": {
+    "message": "ಮೂಲ ಶುಲ್ಕ"
+  },
+  "priority_fee": {
+    "message": "ಆದ್ಯತಾ ಶುಲ್ಕ"
+  },
+  "gas_limit": {
+    "message": "ಗ್ಯಾಸ್ಸ್ ಮಿತಿ"
+  },
+  "normal": {
+    "message": "ಸಾಮಾನ್ಯ"
+  },
+  "average": {
+    "message": "ಸರಾಸರಿ"
+  },
+  "fast": {
+    "message": "ವೇಗವಂತ"
+  },
+  "website": {
+    "message": "ವೆಬ್‌ಸೈಟ್"
+  },
+  "custom": {
+    "message": "ಕಸ್ಟಮ್"
+  },
+  "transfer_request": {
+    "message": "ಹಸ್ತಾಂತರ ವಿನಂತಿ"
+  },
+  "deploy_contract": {
+    "message": "ಒಪ್ಪಂದವನ್ನು ರಖಸ್ತು ಮಾಡಿ"
+  },
+  "sender": {
+    "message": "ಕಳುಹಿಸುವವರು"
+  },
+  "amount": {
+    "message": "ಮೊತ್ತ"
+  },
+  "simulate_transaction": {
+    "message": "ವ್ಯವಹಾರವನ್ನು ಅನುಕರಿಸಿ"
+  },
+  "transaction": {
+    "message": "ವಾಹನ"
+  },
+  "data": {
+    "message": "ಡೇಟಾ"
+  },
+  "insufficient_token_balance": {
+    "message": "ಅಪರ್ಯಾಯ ಟೋಕನ್ ಶಿಲ್ಕು"
+  },
+  "required_amount": {
+    "message": "ಅಗತ್ಯವಿರುವ ಮೊತ್ತ"
+  },
+  "insufficient_token_tip": {
+    "message": "ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ವ್ಯವಹಾರವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು کافی $0 ಟೊಕನ್‌ಗಳಿಲ್ಲ."
+  },
+  "buy": {
+    "message": "ಖರೀದಿ"
+  },
+  "insufficient_gas_fee": {
+    "message": "ಅಪರ್ಯಾಪ್ತ ಗ್ಯಾಸ್ ಶುಲ್ಕ"
+  },
+  "insufficient_fee_tip": {
+    "message": "ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿ ನೆಟ್‌ವೆರ್ಕ್ ಶುಲ್ಕವನ್ನು ಮುಚ್ಚಲು ಪರ್ಯಾಯ $0 ಹೆಚ್ಚಿಲ್ಲ."
+  },
+  "required_fee": {
+    "message": "ಅಗತ್ಯ ಶುಲ್ಕ"
+  },
+  "session": {
+    "message": "ಸೆಷನ್"
+  },
+  "disconnect_dapp": {
+    "message": "ಡ್ಯಾಪ್ ಸಂಪರ್ಕ ಕಳಚಿ"
+  },
+  "remove_dapp": {
+    "message": "ಡ್ಯಾಪ್ ತೆಗೆದುಹಾಕಿ"
+  },
+  "signature_request": {
+    "message": "ಸರನಾಮೆ ವಿನಂತಿ"
+  },
+  "message": {
+    "message": "ಸಂದೇಶ"
+  },
+  "market_cap": {
+    "message": "ಬಜಾರ ಮೌಲ್ಯ"
+  },
+  "total_supply": {
+    "message": "ಒಟ್ಟು ಪೂರೈಕೆ"
+  },
+  "volume_24h": {
+    "message": "२४ ಗಂಟೆಗಳ ವ್ಯವಹಾರ ಸಂಖ್ಯಾ"
+  },
+  "max_supply": {
+    "message": "ಗರಿಷ್ಠ ಸರಬರಾಜು"
+  },
+  "view_on_explorer": {
+    "message": "ಎಕ್ಸ್‌ಪ್ಲೋರರ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ"
+  },
+  "transactions": {
+    "message": "ವ್ಯವಹಾರಗಳು"
+  },
+  "assets": {
+    "message": "ಆಸ್ತಿ"
+  },
+  "tokens": {
+    "message": "ಟೋಕೆನ್ಸ್"
+  },
+  "balance": {
+    "message": "ಬ್ಯಾಲೆನ್ಸ್"
+  },
+  "email": {
+    "message": "ಇಮೇಲ್"
+  },
+  "phone_number": {
+    "message": "ಫೋನ್ ಸಂಖ್ಯೆ"
+  },
+  "login_email_tip": {
+    "message": "ಕಳುಹಿಸಿದ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ"
+  },
+  "resend_code": {
+    "message": "ದೃಢೀಕರಣ ಕೋಡ್ ಮರುಕಳಿಸಿ"
+  },
+  "verify": {
+    "message": "ಪರಿಶೀಲಿಸಿ"
+  },
+  "create_wallet": {
+    "message": "ನಿಮ್ಮ ಮೊದಲ Wallet ಅನ್ನು ರಚಿಸಿ"
+  },
+  "sign_in": {
+    "message": "ಸೈನ್ ಇನ್"
+  },
+  "create_passkey": {
+    "message": "ಪಾಸ್‌ಕಿ ರಚಿಸಿ"
+  },
+  "have_passkey": {
+    "message": "ನನಗೊಂದು Passkey ಇದೆ"
+  },
+  "phone_login": {
+    "message": "ಫೋನ್ ಲಾಗಿನ್"
+  },
+  "context_meun_send": {
+    "message": "ಪೊರೆಯಿರಿ - Lynx ವಾಲೆಟ್"
+  },
+  "context_meun_receive": {
+    "message": "ಸ್ವೀಕರಿಸಿ - Lynx ವಾಲೆಟ್"
+  },
+  "context_meun_swap": {
+    "message": "ಸ್ವಾಪ್ - Lynx ಧನಕೋಶ"
+  },
+  "context_meun_buy": {
+    "message": "ಖರೀದಿ - Lynx ವಾಲೆಟ್"
+  },
+  "selected": {
+    "message": "ಆಯ್ದದ್ದು"
+  },
+  "search_network_or_chain": {
+    "message": "ನಟ್‌ವರ್ಕ್ ಅನ್ನು ಹುಡುಕಿ ಅಥವಾ ಚೈನ್ ID"
+  },
+  "all": {
+    "message": "ಎಲ್ಲಾ"
+  },
+  "mainnets": {
+    "message": "ಮೇನ್‌ನೆಟ್‌ಗಳು"
+  },
+  "testnets": {
+    "message": "ಪರೀಕ್ಷಾ ಜಾಲಗಳು"
+  },
+  "all_networks": {
+    "message": "ಎಲ್ಲಾ ನೆಟ್‌ವರ್ಕ್‌ಗಳು"
+  },
+  "chain_not_listed": {
+    "message": "ಶ್ರೇಣಿಬದ್ಧವಾಗಿಲ್ಲವೇ?"
+  },
+  "oops": {
+    "message": "ಅಯ್ಯೋ"
+  },
+  "oops_content": {
+    "message": "ನಾವು ಸಮಸ್ಯೆಯನ್ನು ಅರಿತಿದ್ದೇವೆ ಮತ್ತು ನಮ್ಮ ತಂಡ ಅದರಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ. ನಿಮ್ಮ ಶ್ರದ್ಧೆಗೆ ಧನ್ಯವಾದಗಳು!"
+  },
+  "go_back": {
+    "message": "ಹಿಂದಿರುಗಿ"
+  },
+  "saved": {
+    "message": "ಉಳಿಸಲಾಗಿದೆ"
+  },
+  "let_start_celebrate": {
+    "message": "ಆಚರಣೆ ಆರಂಭಿಸೋಣ"
+  },
+  "view_my_assets": {
+    "message": "ನನ್ನ ಆಸ್ತಿಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "received": {
+    "message": "ಸ್ವೀಕರಿಸಲಾಗಿದೆ"
+  },
+  "sent": {
+    "message": "ಕಳುಹಿಸಲಾಗಿದೆ"
+  },
+  "swap": {
+    "message": "ಪರಿವರ್ತನೆ"
+  },
+  "fiat": {
+    "message": "ಫಿಯಾಟ್"
+  },
+  "transfer": {
+    "message": "ಹಸ್ತಾಂತರ "
+  },
+  "transaction_details": {
+    "message": "ವಹಿವಾಟಿನ ವಿವರಗಳು"
+  },
+  "transaction_hash": {
+    "message": "ವಹಿವಾಟು ಹ್ಯಾಶ್"
+  },
+  "status": {
+    "message": "ಸ್ಥಿತಿ"
+  },
+  "timestamp": {
+    "message": "ಟೈಮ್ ಸ್ಟ್ಯಾಂಪ್"
+  },
+  "from": {
+    "message": "ನಿಂದ"
+  },
+  "to": {
+    "message": "ಗೆ"
+  },
+  "value": {
+    "message": "ಮೌಲ್ಯ"
+  },
+  "transaction_fee": {
+    "message": "ವ್ಯವಹಾರ ಶುಲ್ಕ"
+  }
+}

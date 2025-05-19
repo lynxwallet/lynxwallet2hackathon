@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "ติดตาม Lynx สำรวจ Web3"
+  },
+  "wallet_balance": {
+    "message": "ยอดคงเหลือ"
+  },
+  "token_send": {
+    "message": "ส่ง"
+  },
+  "token_receive": {
+    "message": "รับ"
+  },
+  "token_buy": {
+    "message": "สวอป (ซื้อ)"
+  },
+  "token_history": {
+    "message": "ประวัติ"
+  },
+  "gas_free": {
+    "message": "ไม่มีค่าธรรมเนียม Gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "การสนับสนุน"
+  },
+  "gas_free_soon": {
+    "message": "เร็วๆนี้!"
+  },
+  "unknown_chain": {
+    "message": "เครือข่ายที่ไม่รู้จัก #$0"
+  },
+  "manage_wallet": {
+    "message": "จัดการกระเป๋าสตางค์"
+  },
+  "wallet_keys": {
+    "message": "กระเป๋าเงิน & คีย์"
+  },
+  "connected_dapps": {
+    "message": "แอปพลิเคชันแบบกระจายอำนาจที่เชื่อมต่อแล้ว"
+  },
+  "password": {
+    "message": "รหัสผ่าน"
+  },
+  "theme": {
+    "message": "ธีม"
+  },
+  "language": {
+    "message": "ภาษา"
+  },
+  "about": {
+    "message": "เกี่ยวกับ"
+  },
+  "login_out": {
+    "message": "ออกจากระบบ"
+  },
+  "login_out_tip": {
+    "message": "การดำเนินการนี้จะลบวอลเล็ทของคุณ โปรดตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลบัญชีของคุณแล้วก่อนดำเนินการต่อ"
+  },
+  "back_up_your_account": {
+    "message": "สำรองบัญชีของคุณ"
+  },
+  "understand_and_continue": {
+    "message": "ฉันเข้าใจแล้ว, ทำต่อไป"
+  },
+  "gas_price": {
+    "message": "ราคาแก๊ส"
+  },
+  "switch_network": {
+    "message": "สลับเครือข่าย"
+  },
+  "update": {
+    "message": "อัปเดต"
+  },
+  "add_network": {
+    "message": "เพิ่มเครือข่าย"
+  },
+  "request_from": {
+    "message": "คำร้อง"
+  },
+  "network": {
+    "message": "เครือข่าย"
+  },
+  "chain_name": {
+    "message": "ชื่อเชน"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "สัญลักษณ์"
+  },
+  "decimals": {
+    "message": "ทศนิยม"
+  },
+  "explorer": {
+    "message": "ตัวสำรวจ"
+  },
+  "switch_network_tip": {
+    "message": "คุณกำลังจะเปลี่ยนเครือข่ายเริ่มต้นของคุณ ดำเนินการต่อหากคุณเชื่อถือเครือข่ายนี้เท่านั้น"
+  },
+  "update_network_tip": {
+    "message": "การดำเนินการนี้จะอัปเดตการตั้งค่าเครือข่ายเริ่มต้นของคุณ โปรดระวังถึงความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้น"
+  },
+  "add_network_tip": {
+    "message": "Lynx ไม่ได้ตรวจสอบเครือข่ายที่กำหนดเอง โปรดตระหนักถึงความเสี่ยงที่อาจเกิดขึ้น"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "confirm": {
+    "message": "ยืนยัน"
+  },
+  "want_connect_wallet": {
+    "message": "ต้องการเชื่อมต่อกับกระเป๋าสตางค์ของคุณ"
+  },
+  "account": {
+    "message": "บัญชี"
+  },
+  "approve_tip1": {
+    "message": "อนุญาตให้เข้าถึงที่อยู่กระเป๋าเงิน ยอดคงเหลือ และกิจกรรมของคุณ"
+  },
+  "approve_tip2": {
+    "message": "อนุญาตสิทธิ์ในการส่งการอนุมัติธุรกรรม"
+  },
+  "approve_tip3": {
+    "message": "ไม่อนุญาตให้โอนทรัพย์สินโดยไม่ได้รับอนุญาตจากคุณ"
+  },
+  "connect": {
+    "message": "เชื่อมต่อ"
+  },
+  "export_private_key": {
+    "message": "ส่งออกรหัสส่วนตัว"
+  },
+  "select_network": {
+    "message": "เลือกเครือข่าย"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "เริ่มต้น"
+  },
+  "back": {
+    "message": "กลับ"
+  },
+  "next": {
+    "message": "ถัดไป"
+  },
+  "enter_code": {
+    "message": "กรุณาใส่รหัสผ่าน 6 หลัก"
+  },
+  "enter_your_code": {
+    "message": "กรุณาใส่รหัสผ่านของคุณ"
+  },
+  "enter_code_again": {
+    "message": "กรุณาใส่รหัสผ่าน 6 หลักอีกครั้ง"
+  },
+  "forget_password": {
+    "message": "ลืมรหัสผ่านของคุณใช่ไหม?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ไม่ได้จัดเก็บข้อมูลบัญชีและไม่สามารถรีเซ็ตรหัสผ่านของคุณได้ คุณสามารถกู้คืนบัญชีของคุณโดยการลงชื่อเข้าใช้อีกครั้ง"
+  },
+  "forget_tip2": {
+    "message": "การดำเนินการนี้จะลบบัญชีกระเป๋าเงิน โปรดตรวจสอบว่าคุณได้สำรองบัญชีของคุณก่อนดำเนินการต่อ"
+  },
+  "verify_password": {
+    "message": "ยืนยันรหัสผ่าน"
+  },
+  "set_password": {
+    "message": "ตั้งรหัสผ่าน"
+  },
+  "confirm_password": {
+    "message": "ยืนยันรหัสผ่าน"
+  },
+  "address": {
+    "message": "ที่อยู่"
+  },
+  "receive_tip": {
+    "message": "คัดลอกที่อยู่กระเป๋าเงินเพื่อรับเงินในกระเป๋านี้"
+  },
+  "copied": {
+    "message": "คัดลอกแล้ว"
+  },
+  "gas_fee": {
+    "message": "ค่าธรรมเนียมก๊าซ"
+  },
+  "fee_settings": {
+    "message": "การตั้งค่าธรรมเนียม"
+  },
+  "base_fee": {
+    "message": "ค่าธรรมเนียมพื้นฐาน"
+  },
+  "priority_fee": {
+    "message": "ค่าธรรมเนียมลำดับความสำคัญ"
+  },
+  "gas_limit": {
+    "message": "ขีดจำกัดแก๊ส"
+  },
+  "normal": {
+    "message": "ปกติ"
+  },
+  "average": {
+    "message": "เฉลี่ย"
+  },
+  "fast": {
+    "message": "เร็ว"
+  },
+  "website": {
+    "message": "เว็บไซต์"
+  },
+  "custom": {
+    "message": "กำหนดเอง"
+  },
+  "transfer_request": {
+    "message": "คำขอโอน"
+  },
+  "deploy_contract": {
+    "message": "ปรับใช้คอนแทรค"
+  },
+  "sender": {
+    "message": "ผู้ส่ง"
+  },
+  "amount": {
+    "message": "จำนวน"
+  },
+  "simulate_transaction": {
+    "message": "จำลองการทำธุรกรรม"
+  },
+  "transaction": {
+    "message": "ธุรกรรม"
+  },
+  "data": {
+    "message": "ข้อมูล"
+  },
+  "insufficient_token_balance": {
+    "message": "ยอดคงเหลือโทเค็นไม่เพียงพอ"
+  },
+  "required_amount": {
+    "message": "จำนวนที่ต้องการ"
+  },
+  "insufficient_token_tip": {
+    "message": "บัญชีของคุณมีโทเค็น $0 ไม่เพียงพอที่จะดำเนินการธุรกรรมให้เสร็จสิ้น"
+  },
+  "buy": {
+    "message": "ซื้อ"
+  },
+  "insufficient_gas_fee": {
+    "message": "ค่าธรรมเนียมแก๊สไม่เพียงพอ"
+  },
+  "insufficient_fee_tip": {
+    "message": "บัญชีของคุณมี $0 ไม่เพียงพอที่จะครอบคลุมค่าธรรมเนียมเครือข่าย"
+  },
+  "required_fee": {
+    "message": "ค่าธรรมเนียมที่จำเป็น"
+  },
+  "session": {
+    "message": "เซสชั่น"
+  },
+  "disconnect_dapp": {
+    "message": "ยกเลิกการเชื่อมต่อ Dapp"
+  },
+  "remove_dapp": {
+    "message": "ลบ Dapp"
+  },
+  "signature_request": {
+    "message": "คำขอลายเซ็น"
+  },
+  "message": {
+    "message": "ข้อความ"
+  },
+  "market_cap": {
+    "message": "มูลค่าตลาด"
+  },
+  "total_supply": {
+    "message": "อุปทานทั้งหมด"
+  },
+  "volume_24h": {
+    "message": "ปริมาณ 24 ชม."
+  },
+  "max_supply": {
+    "message": "อุปทานสูงสุด"
+  },
+  "view_on_explorer": {
+    "message": "ดูบน Explorer"
+  },
+  "transactions": {
+    "message": "ธุรกรรม"
+  },
+  "assets": {
+    "message": "สินทรัพย์"
+  },
+  "tokens": {
+    "message": "โทเค็น"
+  },
+  "balance": {
+    "message": "ยอดคงเหลือ"
+  },
+  "email": {
+    "message": "อีเมล"
+  },
+  "phone_number": {
+    "message": "หมายเลขโทรศัพท์"
+  },
+  "login_email_tip": {
+    "message": "กรุณาใส่รหัสยืนยันที่ส่งไปยัง"
+  },
+  "resend_code": {
+    "message": "ส่งรหัสยืนยันใหม่"
+  },
+  "verify": {
+    "message": "ยืนยัน"
+  },
+  "create_wallet": {
+    "message": "สร้างวอลเล็ตแรกของคุณ"
+  },
+  "sign_in": {
+    "message": "ลงชื่อเข้าใช้"
+  },
+  "create_passkey": {
+    "message": "สร้างรหัสผ่าน"
+  },
+  "have_passkey": {
+    "message": "ฉันมีรหัสผ่าน"
+  },
+  "phone_login": {
+    "message": "เข้าสู่ระบบด้วยโทรศัพท์มือถือ"
+  },
+  "context_meun_send": {
+    "message": "ส่ง - กระเป๋าเงิน Lynx"
+  },
+  "context_meun_receive": {
+    "message": "รับ - กระเป๋าเงิน Lynx"
+  },
+  "context_meun_swap": {
+    "message": "สวอป - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "ซื้อ - กระเป๋าเงิน Lynx"
+  },
+  "selected": {
+    "message": "ที่เลือก"
+  },
+  "search_network_or_chain": {
+    "message": "ค้นหาเครือข่ายหรือ Chain ID"
+  },
+  "all": {
+    "message": "ทั้งหมด"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "เครือข่ายทดสอบ"
+  },
+  "all_networks": {
+    "message": "ทุกเครือข่าย"
+  },
+  "chain_not_listed": {
+    "message": "ไม่มีรายการเชนใช่หรือไม่?"
+  },
+  "oops": {
+    "message": "อ๊ะ"
+  },
+  "oops_content": {
+    "message": "เราได้รับทราบปัญหาแล้วและทีมงานของเรากำลังแก้ไข ขอบคุณสำหรับความอดทน!"
+  },
+  "go_back": {
+    "message": "ย้อนกลับ"
+  },
+  "saved": {
+    "message": "บันทึกแล้ว"
+  },
+  "let_start_celebrate": {
+    "message": "มาเริ่มฉลองกันเถอะ"
+  },
+  "view_my_assets": {
+    "message": "ดูสินทรัพย์ของฉัน"
+  },
+  "received": {
+    "message": "ได้รับแล้ว"
+  },
+  "sent": {
+    "message": "ส่ง"
+  },
+  "swap": {
+    "message": "แลกเปลี่ยน"
+  },
+  "fiat": {
+    "message": "เงินเฟียต"
+  },
+  "transfer": {
+    "message": "โอน"
+  },
+  "transaction_details": {
+    "message": "รายละเอียดธุรกรรม"
+  },
+  "transaction_hash": {
+    "message": "แฮชการทำธุรกรรม"
+  },
+  "status": {
+    "message": "สถานะ"
+  },
+  "timestamp": {
+    "message": "ประทับเวลา"
+  },
+  "from": {
+    "message": "จาก"
+  },
+  "to": {
+    "message": "ถึง"
+  },
+  "value": {
+    "message": "ค่า"
+  },
+  "transaction_fee": {
+    "message": "ค่าธรรมเนียมการทำธุรกรรม"
+  }
+}

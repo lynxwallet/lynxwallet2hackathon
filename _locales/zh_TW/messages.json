@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx 錢包"
+  },
+  "extension_description": {
+    "message": "追隨 Lynx，探索 Web3。"
+  },
+  "wallet_balance": {
+    "message": "餘額"
+  },
+  "token_send": {
+    "message": "發送"
+  },
+  "token_receive": {
+    "message": "接收"
+  },
+  "token_buy": {
+    "message": "兌換（購買）"
+  },
+  "token_history": {
+    "message": "歷史"
+  },
+  "gas_free": {
+    "message": "免Gas费"
+  },
+  "gas_free_sponsorship": {
+    "message": "贊助"
+  },
+  "gas_free_soon": {
+    "message": "很快！"
+  },
+  "unknown_chain": {
+    "message": "未知的鏈 #$0"
+  },
+  "manage_wallet": {
+    "message": "管理錢包"
+  },
+  "wallet_keys": {
+    "message": "錢包與私鑰"
+  },
+  "connected_dapps": {
+    "message": "連接的DApps"
+  },
+  "password": {
+    "message": "密碼"
+  },
+  "theme": {
+    "message": "主題"
+  },
+  "language": {
+    "message": "語言"
+  },
+  "about": {
+    "message": "關於"
+  },
+  "login_out": {
+    "message": "登出"
+  },
+  "login_out_tip": {
+    "message": "此操作將刪除您的錢包。請確保在繼續之前已備份您的帳戶。"
+  },
+  "back_up_your_account": {
+    "message": "備份您的帳戶"
+  },
+  "understand_and_continue": {
+    "message": "我明白，繼續"
+  },
+  "gas_price": {
+    "message": "Gas 價格"
+  },
+  "switch_network": {
+    "message": "切換網路"
+  },
+  "update": {
+    "message": "更新"
+  },
+  "add_network": {
+    "message": "添加網絡"
+  },
+  "request_from": {
+    "message": "請求"
+  },
+  "network": {
+    "message": "網絡"
+  },
+  "chain_name": {
+    "message": "鏈名稱"
+  },
+  "chain_id": {
+    "message": "鏈 ID"
+  },
+  "symbol": {
+    "message": "符號"
+  },
+  "decimals": {
+    "message": "小數位數"
+  },
+  "explorer": {
+    "message": "瀏覽器"
+  },
+  "switch_network_tip": {
+    "message": "您即將變更您的預設網路。僅在您信任此網路時繼續進行。"
+  },
+  "update_network_tip": {
+    "message": "此操作將更新您的默認網路設定。請注意可能的安全風險。"
+  },
+  "add_network_tip": {
+    "message": "Lynx 不會驗證自定義網路。請注意潛在風險。"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "confirm": {
+    "message": "確認"
+  },
+  "want_connect_wallet": {
+    "message": "想連接到您的錢包"
+  },
+  "account": {
+    "message": "帳戶"
+  },
+  "approve_tip1": {
+    "message": "允許訪問您的錢包地址、餘額和活動"
+  },
+  "approve_tip2": {
+    "message": "允許發送交易批准的權限"
+  },
+  "approve_tip3": {
+    "message": "未經您的允許，不允許轉移資產。"
+  },
+  "connect": {
+    "message": "連接"
+  },
+  "export_private_key": {
+    "message": "匯出私鑰"
+  },
+  "select_network": {
+    "message": "選擇網絡"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "開始"
+  },
+  "back": {
+    "message": "返回"
+  },
+  "next": {
+    "message": "下一個"
+  },
+  "enter_code": {
+    "message": "請輸入6位數密碼"
+  },
+  "enter_your_code": {
+    "message": "請輸入您的密碼"
+  },
+  "enter_code_again": {
+    "message": "請重新輸入6位數密碼"
+  },
+  "forget_password": {
+    "message": "忘記密碼了嗎？"
+  },
+  "forget_tip1": {
+    "message": "Lynx 不儲存帳戶資料，因此無法重設您的密碼。您可以通過重新登入來恢復您的帳戶。"
+  },
+  "forget_tip2": {
+    "message": "此操作將刪除錢包帳戶，請確保在繼續之前已經備份帳戶。"
+  },
+  "verify_password": {
+    "message": "驗證密碼"
+  },
+  "set_password": {
+    "message": "設置密碼"
+  },
+  "confirm_password": {
+    "message": "確認密碼"
+  },
+  "address": {
+    "message": "地址"
+  },
+  "receive_tip": {
+    "message": "複製錢包地址以在此錢包接收資金"
+  },
+  "copied": {
+    "message": "已複製"
+  },
+  "gas_fee": {
+    "message": "Gas 費用"
+  },
+  "fee_settings": {
+    "message": "手續費設定"
+  },
+  "base_fee": {
+    "message": "基礎費用"
+  },
+  "priority_fee": {
+    "message": "優先費用"
+  },
+  "gas_limit": {
+    "message": "Gas 上限"
+  },
+  "normal": {
+    "message": "正常"
+  },
+  "average": {
+    "message": "平均"
+  },
+  "fast": {
+    "message": "快"
+  },
+  "website": {
+    "message": "網站"
+  },
+  "custom": {
+    "message": "自訂"
+  },
+  "transfer_request": {
+    "message": "轉賬請求"
+  },
+  "deploy_contract": {
+    "message": "部署合約"
+  },
+  "sender": {
+    "message": "發送者"
+  },
+  "amount": {
+    "message": "金額"
+  },
+  "simulate_transaction": {
+    "message": "模擬交易"
+  },
+  "transaction": {
+    "message": "交易"
+  },
+  "data": {
+    "message": "資料"
+  },
+  "insufficient_token_balance": {
+    "message": "代幣餘額不足"
+  },
+  "required_amount": {
+    "message": "所需數量"
+  },
+  "insufficient_token_tip": {
+    "message": "您的帳戶沒有足夠的$0代幣來完成交易。"
+  },
+  "buy": {
+    "message": "購買"
+  },
+  "insufficient_gas_fee": {
+    "message": "燃料費不足"
+  },
+  "insufficient_fee_tip": {
+    "message": "您的帳戶沒有足夠的 $0 來支付網絡費用。"
+  },
+  "required_fee": {
+    "message": "所需費用"
+  },
+  "session": {
+    "message": "會話"
+  },
+  "disconnect_dapp": {
+    "message": "解除連接 Dapp"
+  },
+  "remove_dapp": {
+    "message": "移除Dapp"
+  },
+  "signature_request": {
+    "message": "簽名請求"
+  },
+  "message": {
+    "message": "訊息"
+  },
+  "market_cap": {
+    "message": "市值"
+  },
+  "total_supply": {
+    "message": "總供應量"
+  },
+  "volume_24h": {
+    "message": "24小時交易量"
+  },
+  "max_supply": {
+    "message": "最大供應量"
+  },
+  "view_on_explorer": {
+    "message": "在區塊瀏覽器上查看"
+  },
+  "transactions": {
+    "message": "交易"
+  },
+  "assets": {
+    "message": "資產"
+  },
+  "tokens": {
+    "message": "代币"
+  },
+  "balance": {
+    "message": "餘額"
+  },
+  "email": {
+    "message": "電子郵件"
+  },
+  "phone_number": {
+    "message": "電話號碼"
+  },
+  "login_email_tip": {
+    "message": "輸入發送到的驗證碼"
+  },
+  "resend_code": {
+    "message": "重發驗證碼"
+  },
+  "verify": {
+    "message": "驗證"
+  },
+  "create_wallet": {
+    "message": "創建您的第一個錢包"
+  },
+  "sign_in": {
+    "message": "登入"
+  },
+  "create_passkey": {
+    "message": "建立通行密鑰"
+  },
+  "have_passkey": {
+    "message": "我有一把通行密钥"
+  },
+  "phone_login": {
+    "message": "手機登入"
+  },
+  "context_meun_send": {
+    "message": "發送 - Lynx 錢包"
+  },
+  "context_meun_receive": {
+    "message": "接收 - Lynx 錢包"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx 錢包"
+  },
+  "context_meun_buy": {
+    "message": "購買 - Lynx 錢包"
+  },
+  "selected": {
+    "message": "已選擇"
+  },
+  "search_network_or_chain": {
+    "message": "搜索網絡或鏈ID"
+  },
+  "all": {
+    "message": "全部"
+  },
+  "mainnets": {
+    "message": "主網"
+  },
+  "testnets": {
+    "message": "測試網"
+  },
+  "all_networks": {
+    "message": "所有網絡"
+  },
+  "chain_not_listed": {
+    "message": "鏈條未列出？"
+  },
+  "oops": {
+    "message": "哎呀"
+  },
+  "oops_content": {
+    "message": "我們已經注意到這個問題，我們的團隊正在處理。感謝您的耐心等待！"
+  },
+  "go_back": {
+    "message": "返回"
+  },
+  "saved": {
+    "message": "已保存"
+  },
+  "let_start_celebrate": {
+    "message": "開始慶祝吧"
+  },
+  "view_my_assets": {
+    "message": "查看我的資產"
+  },
+  "received": {
+    "message": "已收到"
+  },
+  "sent": {
+    "message": "已發送"
+  },
+  "swap": {
+    "message": "交換"
+  },
+  "fiat": {
+    "message": "法幣"
+  },
+  "transfer": {
+    "message": "轉帳"
+  },
+  "transaction_details": {
+    "message": "交易詳情"
+  },
+  "transaction_hash": {
+    "message": "交易哈希"
+  },
+  "status": {
+    "message": "狀態"
+  },
+  "timestamp": {
+    "message": "時間戳"
+  },
+  "from": {
+    "message": "從"
+  },
+  "to": {
+    "message": "至"
+  },
+  "value": {
+    "message": "價值"
+  },
+  "transaction_fee": {
+    "message": "交易手續費"
+  }
+}

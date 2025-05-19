@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "关注 Lynx，探索 Web3"
+  },
+  "wallet_balance": {
+    "message": "余额"
+  },
+  "token_send": {
+    "message": "发送"
+  },
+  "token_receive": {
+    "message": "接收"
+  },
+  "token_buy": {
+    "message": "交换（购买）"
+  },
+  "token_history": {
+    "message": "历史"
+  },
+  "gas_free": {
+    "message": "无Gas费用"
+  },
+  "gas_free_sponsorship": {
+    "message": "赞助"
+  },
+  "gas_free_soon": {
+    "message": "很快！"
+  },
+  "unknown_chain": {
+    "message": "Unknown chain #$0"
+  },
+  "manage_wallet": {
+    "message": "管理钱包"
+  },
+  "wallet_keys": {
+    "message": "钱包和密钥"
+  },
+  "connected_dapps": {
+    "message": "已连接的DApps"
+  },
+  "password": {
+    "message": "密码"
+  },
+  "theme": {
+    "message": "主题"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "about": {
+    "message": "关于"
+  },
+  "login_out": {
+    "message": "退出"
+  },
+  "login_out_tip": {
+    "message": "此操作将删除您的钱包。请确保在继续之前备份您的账户。"
+  },
+  "back_up_your_account": {
+    "message": "备份您的帐户"
+  },
+  "understand_and_continue": {
+    "message": "了解，请继续。"
+  },
+  "gas_price": {
+    "message": "Gas Price"
+  },
+  "switch_network": {
+    "message": "切换网络"
+  },
+  "update": {
+    "message": "更新"
+  },
+  "add_network": {
+    "message": "添加网络"
+  },
+  "request_from": {
+    "message": "请求"
+  },
+  "network": {
+    "message": "网络"
+  },
+  "chain_name": {
+    "message": "链名称"
+  },
+  "chain_id": {
+    "message": "链 ID"
+  },
+  "symbol": {
+    "message": "符号"
+  },
+  "decimals": {
+    "message": "小数位数"
+  },
+  "explorer": {
+    "message": "浏览器"
+  },
+  "switch_network_tip": {
+    "message": "您即将更改您的默认网络。仅在您信任该网络时继续。"
+  },
+  "update_network_tip": {
+    "message": "此操作将更新您的默认网络设置。请注意潜在的安全风险。"
+  },
+  "add_network_tip": {
+    "message": "Lynx does not verify custom networks. Please be aware of potential risks."
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "confirm": {
+    "message": "确认"
+  },
+  "want_connect_wallet": {
+    "message": "想要连接到您的钱包"
+  },
+  "account": {
+    "message": "账户"
+  },
+  "approve_tip1": {
+    "message": "允许访问您的钱包地址、余额和活动"
+  },
+  "approve_tip2": {
+    "message": "允许发送交易批准请求"
+  },
+  "approve_tip3": {
+    "message": "不允许在未获您许可的情况下转移资产"
+  },
+  "connect": {
+    "message": "连接"
+  },
+  "export_private_key": {
+    "message": "导出私钥"
+  },
+  "select_network": {
+    "message": "选择网络"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "开始"
+  },
+  "back": {
+    "message": "返回"
+  },
+  "next": {
+    "message": "下一个"
+  },
+  "enter_code": {
+    "message": "请输入6位密码"
+  },
+  "enter_your_code": {
+    "message": "请输入您的密码"
+  },
+  "enter_code_again": {
+    "message": "请重新输入6位密码"
+  },
+  "forget_password": {
+    "message": "忘记密码？"
+  },
+  "forget_tip1": {
+    "message": "Lynx does not store account data and cannot reset your password. You can restore your account by signing in again."
+  },
+  "forget_tip2": {
+    "message": "This action will delete wallet account, Please ensure you have backed up your account before proceeding."
+  },
+  "verify_password": {
+    "message": "验证密码"
+  },
+  "set_password": {
+    "message": "设置密码"
+  },
+  "confirm_password": {
+    "message": "确认密码"
+  },
+  "address": {
+    "message": "地址"
+  },
+  "receive_tip": {
+    "message": "复制钱包地址以接收资金"
+  },
+  "copied": {
+    "message": "复制"
+  },
+  "gas_fee": {
+    "message": "Gas费用"
+  },
+  "fee_settings": {
+    "message": "费用设置"
+  },
+  "base_fee": {
+    "message": "基础费用"
+  },
+  "priority_fee": {
+    "message": "优先费"
+  },
+  "gas_limit": {
+    "message": "Gas Limit"
+  },
+  "normal": {
+    "message": "正常"
+  },
+  "average": {
+    "message": "平均"
+  },
+  "fast": {
+    "message": "快速"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "自定义"
+  },
+  "transfer_request": {
+    "message": "转账请求"
+  },
+  "deploy_contract": {
+    "message": "部署合约"
+  },
+  "sender": {
+    "message": "发件人"
+  },
+  "amount": {
+    "message": "金额"
+  },
+  "simulate_transaction": {
+    "message": "模拟交易"
+  },
+  "transaction": {
+    "message": "交易"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "代币余额不足"
+  },
+  "required_amount": {
+    "message": "所需金额"
+  },
+  "insufficient_token_tip": {
+    "message": "您的账户没有足够的 $0 代币来完成该交易。"
+  },
+  "buy": {
+    "message": "购买"
+  },
+  "insufficient_gas_fee": {
+    "message": "燃料费用不足"
+  },
+  "insufficient_fee_tip": {
+    "message": "您的账户没有足够的$0来支付网络费用。"
+  },
+  "required_fee": {
+    "message": "必要费用"
+  },
+  "session": {
+    "message": "会话"
+  },
+  "disconnect_dapp": {
+    "message": "断开 Dapp"
+  },
+  "remove_dapp": {
+    "message": "移除 Dapp"
+  },
+  "signature_request": {
+    "message": "签名请求"
+  },
+  "message": {
+    "message": "消息"
+  },
+  "market_cap": {
+    "message": "市值"
+  },
+  "total_supply": {
+    "message": "总供应量"
+  },
+  "volume_24h": {
+    "message": "24小时交易量"
+  },
+  "max_supply": {
+    "message": "最大供应量"
+  },
+  "view_on_explorer": {
+    "message": "在浏览器上查看"
+  },
+  "transactions": {
+    "message": "交易"
+  },
+  "assets": {
+    "message": "资产"
+  },
+  "tokens": {
+    "message": "代币"
+  },
+  "balance": {
+    "message": "余额"
+  },
+  "email": {
+    "message": "电子邮件"
+  },
+  "phone_number": {
+    "message": "电话号码"
+  },
+  "login_email_tip": {
+    "message": "请输入收到的验证码"
+  },
+  "resend_code": {
+    "message": "重新发送验证码"
+  },
+  "verify": {
+    "message": "Verify"
+  },
+  "create_wallet": {
+    "message": "创建您的第一个钱包"
+  },
+  "sign_in": {
+    "message": "Sign in"
+  },
+  "create_passkey": {
+    "message": "创建一个通行密钥"
+  },
+  "have_passkey": {
+    "message": "我有一个通行密钥。"
+  },
+  "phone_login": {
+    "message": "手机登录"
+  },
+  "context_meun_send": {
+    "message": "发送 - Lynx 钱包"
+  },
+  "context_meun_receive": {
+    "message": "接收 - Lynx 钱包"
+  },
+  "context_meun_swap": {
+    "message": "交换 - Lynx 钱包"
+  },
+  "context_meun_buy": {
+    "message": "购买 - Lynx 钱包"
+  },
+  "selected": {
+    "message": "已选择"
+  },
+  "search_network_or_chain": {
+    "message": "搜索网络或链 ID"
+  },
+  "all": {
+    "message": "全部"
+  },
+  "mainnets": {
+    "message": "主网"
+  },
+  "testnets": {
+    "message": "测试网"
+  },
+  "all_networks": {
+    "message": "所有网络"
+  },
+  "chain_not_listed": {
+    "message": "链尚未列出？"
+  },
+  "oops": {
+    "message": "哎呀"
+  },
+  "oops_content": {
+    "message": "我们已知晓该问题并且我们的团队正在处理。感谢您的耐心等待！"
+  },
+  "go_back": {
+    "message": "返回"
+  },
+  "saved": {
+    "message": "已保存"
+  },
+  "let_start_celebrate": {
+    "message": "让我们开始庆祝"
+  },
+  "view_my_assets": {
+    "message": "查看我的资产"
+  },
+  "received": {
+    "message": "已接收"
+  },
+  "sent": {
+    "message": "已发送"
+  },
+  "swap": {
+    "message": "交换"
+  },
+  "fiat": {
+    "message": "法币"
+  },
+  "transfer": {
+    "message": "转账"
+  },
+  "transaction_details": {
+    "message": "Transaction Details"
+  },
+  "transaction_hash": {
+    "message": "交易哈希"
+  },
+  "status": {
+    "message": "状态"
+  },
+  "timestamp": {
+    "message": "时间戳"
+  },
+  "from": {
+    "message": "从"
+  },
+  "to": {
+    "message": "至"
+  },
+  "value": {
+    "message": "价值"
+  },
+  "transaction_fee": {
+    "message": "交易手续费"
+  }
+}

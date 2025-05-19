@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx-lompakko"
+  },
+  "extension_description": {
+    "message": "Seuraa Lynxiä, Tutki Web3:ta"
+  },
+  "wallet_balance": {
+    "message": "Tase"
+  },
+  "token_send": {
+    "message": "Lähetä"
+  },
+  "token_receive": {
+    "message": "Vastaanottaa"
+  },
+  "token_buy": {
+    "message": "Vaihto (Osto)"
+  },
+  "token_history": {
+    "message": "Historia"
+  },
+  "gas_free": {
+    "message": "Ilman kaasukuluja"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsori"
+  },
+  "gas_free_soon": {
+    "message": "Pian!"
+  },
+  "unknown_chain": {
+    "message": "Tuntematon ketju #$0"
+  },
+  "manage_wallet": {
+    "message": "Hallitse lompakkoa"
+  },
+  "wallet_keys": {
+    "message": "Lompakko ja Avaimet"
+  },
+  "connected_dapps": {
+    "message": "Yhdistetyt Dappit"
+  },
+  "password": {
+    "message": "Salasana"
+  },
+  "theme": {
+    "message": "Teema"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "about": {
+    "message": "Tietoja"
+  },
+  "login_out": {
+    "message": "Kirjaudu ulos"
+  },
+  "login_out_tip": {
+    "message": "Tämä toiminto poistaa lompakkosi. Varmista, että olet varmuuskopioinut tilisi ennen jatkamista."
+  },
+  "back_up_your_account": {
+    "message": "Varmuuskopioi tilisi"
+  },
+  "understand_and_continue": {
+    "message": "Ymmärrän, jatka"
+  },
+  "gas_price": {
+    "message": "Kaasun hinta"
+  },
+  "switch_network": {
+    "message": "Vaihda verkkoa"
+  },
+  "update": {
+    "message": "Päivitä"
+  },
+  "add_network": {
+    "message": "Lisää verkko"
+  },
+  "request_from": {
+    "message": "Pyyntö"
+  },
+  "network": {
+    "message": "Verkko"
+  },
+  "chain_name": {
+    "message": "Lohkoketjun nimi"
+  },
+  "chain_id": {
+    "message": "Ketju-ID"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Desimaalit"
+  },
+  "explorer": {
+    "message": "Tutkija"
+  },
+  "switch_network_tip": {
+    "message": "Olet vaihtamassa oletusverkkoasi. Jatka vain, jos luotat tähän verkkoon."
+  },
+  "update_network_tip": {
+    "message": "Tämä toiminto päivittää oletusverkkosi asetukset. Ole tietoinen mahdollisista tietoturvariskeistä."
+  },
+  "add_network_tip": {
+    "message": "Lynx ei tarkista mukautettuja verkkoja. Ole tietoinen mahdollisista riskeistä."
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "confirm": {
+    "message": "Vahvista"
+  },
+  "want_connect_wallet": {
+    "message": "Haluat muodostaa yhteyden lompakkoosi"
+  },
+  "account": {
+    "message": "Tili"
+  },
+  "approve_tip1": {
+    "message": "Salli käyttöoikeus lompakon osoitteeseen, saldoon ja toimintaan."
+  },
+  "approve_tip2": {
+    "message": "Salli lupa lähettää tapahtumahyväksynnät"
+  },
+  "approve_tip3": {
+    "message": "Ei salli varojen siirtoa ilman lupaasi"
+  },
+  "connect": {
+    "message": "yhdistä"
+  },
+  "export_private_key": {
+    "message": "Vie yksityinen avain"
+  },
+  "select_network": {
+    "message": "Valitse verkko"
+  },
+  "nfts": {
+    "message": "NFT:t"
+  },
+  "start": {
+    "message": "ALOITA"
+  },
+  "back": {
+    "message": "Takaisin"
+  },
+  "next": {
+    "message": "Seuraava"
+  },
+  "enter_code": {
+    "message": "Anna 6-numeroinen salasana"
+  },
+  "enter_your_code": {
+    "message": "Anna salasanasi"
+  },
+  "enter_code_again": {
+    "message": "Ole hyvä ja syötä 6-numeroinen salasana uudelleen"
+  },
+  "forget_password": {
+    "message": "Unohtuiko salasana?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ei tallenna tilitietoja eikä voi palauttaa salasanaasi. Voit palauttaa tilisi kirjautumalla uudelleen sisään."
+  },
+  "forget_tip2": {
+    "message": "Tämä toiminto poistaa lompakkotilin, varmista, että olet varmuuskopioinut tilisi ennen jatkamista."
+  },
+  "verify_password": {
+    "message": "Vahvista salasana"
+  },
+  "set_password": {
+    "message": "Aseta salasana"
+  },
+  "confirm_password": {
+    "message": "Vahvista salasana"
+  },
+  "address": {
+    "message": "Osoite"
+  },
+  "receive_tip": {
+    "message": "Kopioi lompakon osoite saadaksesi varoja tähän lompakkoon"
+  },
+  "copied": {
+    "message": "Kopioitu"
+  },
+  "gas_fee": {
+    "message": "Gas-maksu"
+  },
+  "fee_settings": {
+    "message": "Maksuasetukset"
+  },
+  "base_fee": {
+    "message": "Perusmaksu"
+  },
+  "priority_fee": {
+    "message": "Prioriteettimaksu"
+  },
+  "gas_limit": {
+    "message": "Gas-raja"
+  },
+  "normal": {
+    "message": "Normaali"
+  },
+  "average": {
+    "message": "Keskimääräinen"
+  },
+  "fast": {
+    "message": "Nopea"
+  },
+  "website": {
+    "message": "Verkkosivusto"
+  },
+  "custom": {
+    "message": "Mukautettu"
+  },
+  "transfer_request": {
+    "message": "Siirtopyyntö"
+  },
+  "deploy_contract": {
+    "message": "Ota sopimus käyttöön"
+  },
+  "sender": {
+    "message": "Lähettäjä"
+  },
+  "amount": {
+    "message": "Määrä"
+  },
+  "simulate_transaction": {
+    "message": "Simuloi tapahtuma"
+  },
+  "transaction": {
+    "message": "Tapahtuma"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Riittämätön token-saldo"
+  },
+  "required_amount": {
+    "message": "Vaadittu määrä"
+  },
+  "insufficient_token_tip": {
+    "message": "Tililläsi ei ole tarpeeksi $0 tokeneita tapahtuman suorittamiseen."
+  },
+  "buy": {
+    "message": "Osta"
+  },
+  "insufficient_gas_fee": {
+    "message": "Riittämätön kaasumaksu"
+  },
+  "insufficient_fee_tip": {
+    "message": "Tililläsi ei ole tarpeeksi $0 kattamaan verkkomaksua."
+  },
+  "required_fee": {
+    "message": "Vaadittu maksu"
+  },
+  "session": {
+    "message": "Istunto"
+  },
+  "disconnect_dapp": {
+    "message": "Katkaise yhteys Dappiin"
+  },
+  "remove_dapp": {
+    "message": "Poista Dapp"
+  },
+  "signature_request": {
+    "message": "Allekirjoituspyyntö"
+  },
+  "message": {
+    "message": "Viesti"
+  },
+  "market_cap": {
+    "message": "Markkina-arvo"
+  },
+  "total_supply": {
+    "message": "Kokonaismäärä"
+  },
+  "volume_24h": {
+    "message": "24h Volyymi"
+  },
+  "max_supply": {
+    "message": "Maksimi tarjonta"
+  },
+  "view_on_explorer": {
+    "message": "Näytä Explorerissa"
+  },
+  "transactions": {
+    "message": "Tapahtumat"
+  },
+  "assets": {
+    "message": "Varat"
+  },
+  "tokens": {
+    "message": "Tokenit"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "email": {
+    "message": "Sähköposti"
+  },
+  "phone_number": {
+    "message": "Puhelinnumero"
+  },
+  "login_email_tip": {
+    "message": "Anna lähetetty vahvistuskoodi"
+  },
+  "resend_code": {
+    "message": "Lähetä vahvistuskoodi uudelleen"
+  },
+  "verify": {
+    "message": "Varmista"
+  },
+  "create_wallet": {
+    "message": "Luo ensimmäinen lompakkosi"
+  },
+  "sign_in": {
+    "message": "Kirjaudu sisään"
+  },
+  "create_passkey": {
+    "message": "Luo avain"
+  },
+  "have_passkey": {
+    "message": "Minulla on pääsyavain"
+  },
+  "phone_login": {
+    "message": "Puhelin kirjautuminen"
+  },
+  "context_meun_send": {
+    "message": "Lähetä - Lynx-lompakko"
+  },
+  "context_meun_receive": {
+    "message": "Vastaanota - Lynx-lompakko"
+  },
+  "context_meun_swap": {
+    "message": "Vaihto - Lynx-lompakko"
+  },
+  "context_meun_buy": {
+    "message": "Osta - Lynx-lompakko"
+  },
+  "selected": {
+    "message": "Valittu"
+  },
+  "search_network_or_chain": {
+    "message": "Hae verkkoa tai Chain ID:tä"
+  },
+  "all": {
+    "message": "Kaikki"
+  },
+  "mainnets": {
+    "message": "Pääverkot"
+  },
+  "testnets": {
+    "message": "Testiverkot"
+  },
+  "all_networks": {
+    "message": "Kaikki verkostot"
+  },
+  "chain_not_listed": {
+    "message": "Ketjua ei ole listattu?"
+  },
+  "oops": {
+    "message": "Hupsista"
+  },
+  "oops_content": {
+    "message": "Olemme tietoisia ongelmasta ja tiimimme käsittelee sitä. Kiitos kärsivällisyydestäsi!"
+  },
+  "go_back": {
+    "message": "Palaa takaisin"
+  },
+  "saved": {
+    "message": "Tallennettu"
+  },
+  "let_start_celebrate": {
+    "message": "ALOITETAAN JUHLIMINEN"
+  },
+  "view_my_assets": {
+    "message": "Näytä omaisuuteni"
+  },
+  "received": {
+    "message": "Vastaanotettu"
+  },
+  "sent": {
+    "message": "Lähetetty"
+  },
+  "swap": {
+    "message": "Vaihto"
+  },
+  "fiat": {
+    "message": "Fiat-rahayksikkö"
+  },
+  "transfer": {
+    "message": "Siirto"
+  },
+  "transaction_details": {
+    "message": "Tapahtuman tiedot"
+  },
+  "transaction_hash": {
+    "message": "Tapahtuman tiiviste"
+  },
+  "status": {
+    "message": "Tila"
+  },
+  "timestamp": {
+    "message": "Aikaleima"
+  },
+  "from": {
+    "message": "Alkaen"
+  },
+  "to": {
+    "message": "Vastaanottaja"
+  },
+  "value": {
+    "message": "Arvo"
+  },
+  "transaction_fee": {
+    "message": "Siirtomaksu"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Cüzdan"
+  },
+  "extension_description": {
+    "message": "Lynx'i Takip Et, Web3'ü Keşfet"
+  },
+  "wallet_balance": {
+    "message": "Bakiye"
+  },
+  "token_send": {
+    "message": "Gönder"
+  },
+  "token_receive": {
+    "message": "Almak"
+  },
+  "token_buy": {
+    "message": "Takas (Satın Al)"
+  },
+  "token_history": {
+    "message": "Tarih"
+  },
+  "gas_free": {
+    "message": "Gaz Ücretsiz"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsorluk"
+  },
+  "gas_free_soon": {
+    "message": "Yakında!"
+  },
+  "unknown_chain": {
+    "message": "Bilinmeyen zincir #$0"
+  },
+  "manage_wallet": {
+    "message": "Cüzdanı Yönet"
+  },
+  "wallet_keys": {
+    "message": "Cüzdan ve Anahtarlar"
+  },
+  "connected_dapps": {
+    "message": "Bağlı DApp'ler"
+  },
+  "password": {
+    "message": "Parola"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Dil"
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "login_out": {
+    "message": "Çıkış Yap"
+  },
+  "login_out_tip": {
+    "message": "Bu eylem cüzdanınızı silecektir. Devam etmeden önce hesabınızı yedeklediğinizden emin olun."
+  },
+  "back_up_your_account": {
+    "message": "Hesabınızı yedekleyin"
+  },
+  "understand_and_continue": {
+    "message": "Anladım, devam et"
+  },
+  "gas_price": {
+    "message": "Gas Ücreti"
+  },
+  "switch_network": {
+    "message": "Ağ Değiştir"
+  },
+  "update": {
+    "message": "Güncelleme"
+  },
+  "add_network": {
+    "message": "Ağ Ekle"
+  },
+  "request_from": {
+    "message": "İstek"
+  },
+  "network": {
+    "message": "Ağ"
+  },
+  "chain_name": {
+    "message": "Zincir Adı"
+  },
+  "chain_id": {
+    "message": "Zincir Kimliği"
+  },
+  "symbol": {
+    "message": "Sembol"
+  },
+  "decimals": {
+    "message": "Ondalıklar"
+  },
+  "explorer": {
+    "message": "Kaşif"
+  },
+  "switch_network_tip": {
+    "message": "Varsayılan ağınızı değiştirmek üzeresiniz. Yalnızca bu ağa güveniyorsanız devam edin."
+  },
+  "update_network_tip": {
+    "message": "Bu işlem, varsayılan ağ ayarlarınızı güncelleyecektir. Olası güvenlik risklerinin farkında olun."
+  },
+  "add_network_tip": {
+    "message": "Lynx özel ağları doğrulamaz. Olası risklerin farkında olun lütfen."
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "confirm": {
+    "message": "Onaylamak"
+  },
+  "want_connect_wallet": {
+    "message": "Cüzdanınıza bağlanmak istiyor"
+  },
+  "account": {
+    "message": "Hesap"
+  },
+  "approve_tip1": {
+    "message": "Cüzdan adresinize, bakiyenize ve etkinliğinize erişime izin verin"
+  },
+  "approve_tip2": {
+    "message": "İşlem onaylarını göndermek için izin ver"
+  },
+  "approve_tip3": {
+    "message": "Varlıkları izniniz olmadan transfer etmeye izin vermez."
+  },
+  "connect": {
+    "message": "bağlan"
+  },
+  "export_private_key": {
+    "message": "Özel Anahtarı Dışa Aktar"
+  },
+  "select_network": {
+    "message": "Ağı Seç"
+  },
+  "nfts": {
+    "message": "NFT'ler"
+  },
+  "start": {
+    "message": "BAŞLANGIÇ"
+  },
+  "back": {
+    "message": "Geri"
+  },
+  "next": {
+    "message": "Sonraki"
+  },
+  "enter_code": {
+    "message": "Lütfen 6 haneli şifreyi girin"
+  },
+  "enter_your_code": {
+    "message": "Lütfen parolanızı girin"
+  },
+  "enter_code_again": {
+    "message": "Lütfen 6 haneli şifreyi tekrar giriniz"
+  },
+  "forget_password": {
+    "message": "Parolanızı mı unuttunuz?"
+  },
+  "forget_tip1": {
+    "message": "Lynx, hesap verilerini saklamaz ve şifrenizi sıfırlayamaz. Hesabınızı tekrar oturum açarak geri yükleyebilirsiniz."
+  },
+  "forget_tip2": {
+    "message": "Bu işlem cüzdan hesabını silecek, İşleme başlamadan önce hesabınızı yedeklediğinizden emin olun."
+  },
+  "verify_password": {
+    "message": "Parolayı Doğrula"
+  },
+  "set_password": {
+    "message": "Şifre Belirle"
+  },
+  "confirm_password": {
+    "message": "Şifreyi Doğrula"
+  },
+  "address": {
+    "message": "Adres"
+  },
+  "receive_tip": {
+    "message": "Bu cüzdana fon almak için cüzdan adresini kopyalayın"
+  },
+  "copied": {
+    "message": "Kopyalandı"
+  },
+  "gas_fee": {
+    "message": "Gaz Ücreti"
+  },
+  "fee_settings": {
+    "message": "Ücret Ayarları"
+  },
+  "base_fee": {
+    "message": "Taban Ücret"
+  },
+  "priority_fee": {
+    "message": "Öncelikli Ücret"
+  },
+  "gas_limit": {
+    "message": "Gas Limiti"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Ortalama"
+  },
+  "fast": {
+    "message": "Hızlı"
+  },
+  "website": {
+    "message": "Web sitesi"
+  },
+  "custom": {
+    "message": "Özel"
+  },
+  "transfer_request": {
+    "message": "Transfer Talebi"
+  },
+  "deploy_contract": {
+    "message": "Sözleşme Dağıtımı"
+  },
+  "sender": {
+    "message": "Gönderici"
+  },
+  "amount": {
+    "message": "Miktar"
+  },
+  "simulate_transaction": {
+    "message": "İşlemi Simüle Et"
+  },
+  "transaction": {
+    "message": "İşlem"
+  },
+  "data": {
+    "message": "Veri"
+  },
+  "insufficient_token_balance": {
+    "message": "Yetersiz token bakiyesi"
+  },
+  "required_amount": {
+    "message": "Gerekli Tutar"
+  },
+  "insufficient_token_tip": {
+    "message": "Hesabınızda işlemi tamamlamak için yeterli $0 tokeni yok."
+  },
+  "buy": {
+    "message": "Satın Al"
+  },
+  "insufficient_gas_fee": {
+    "message": "Yetersiz gas ücreti"
+  },
+  "insufficient_fee_tip": {
+    "message": "Hesabınız, ağ ücretini karşılamak için yeterli $0'a sahip değil."
+  },
+  "required_fee": {
+    "message": "Gerekli Ücret"
+  },
+  "session": {
+    "message": "Oturum"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp bağlantısını kes"
+  },
+  "remove_dapp": {
+    "message": "Dapp'i kaldır"
+  },
+  "signature_request": {
+    "message": "İmza Talebi"
+  },
+  "message": {
+    "message": "İleti"
+  },
+  "market_cap": {
+    "message": "Piyasa değeri"
+  },
+  "total_supply": {
+    "message": "Toplam arz"
+  },
+  "volume_24h": {
+    "message": "24s Hacim"
+  },
+  "max_supply": {
+    "message": "Maksimum arz"
+  },
+  "view_on_explorer": {
+    "message": "Gezginde Görüntüle"
+  },
+  "transactions": {
+    "message": "İşlemler"
+  },
+  "assets": {
+    "message": "Varlıklar"
+  },
+  "tokens": {
+    "message": "Jetonlar"
+  },
+  "balance": {
+    "message": "Bakiye"
+  },
+  "email": {
+    "message": "E-posta"
+  },
+  "phone_number": {
+    "message": "Telefon Numarası"
+  },
+  "login_email_tip": {
+    "message": "Gönderilen doğrulama kodunu girin"
+  },
+  "resend_code": {
+    "message": "Doğrulama kodunu yeniden gönder"
+  },
+  "verify": {
+    "message": "Doğrula"
+  },
+  "create_wallet": {
+    "message": "İlk Cüzdanınızı Oluşturun"
+  },
+  "sign_in": {
+    "message": "Oturum aç"
+  },
+  "create_passkey": {
+    "message": "Bir Geçiş Anahtarı Oluştur"
+  },
+  "have_passkey": {
+    "message": "Bir Anahtarım Var"
+  },
+  "phone_login": {
+    "message": "Telefon ile Giriş"
+  },
+  "context_meun_send": {
+    "message": "Gönder - Lynx cüzdanı"
+  },
+  "context_meun_receive": {
+    "message": "Almak - Lynx cüzdanı"
+  },
+  "context_meun_swap": {
+    "message": "Takas - Lynx cüzdanı"
+  },
+  "context_meun_buy": {
+    "message": "Satın Al - Lynx cüzdanı"
+  },
+  "selected": {
+    "message": "Seçildi"
+  },
+  "search_network_or_chain": {
+    "message": "Ağ veya Zincir Kimliği Ara"
+  },
+  "all": {
+    "message": "Hepsi"
+  },
+  "mainnets": {
+    "message": "Ana ağlar"
+  },
+  "testnets": {
+    "message": "Testnet'ler"
+  },
+  "all_networks": {
+    "message": "Tüm Ağlar"
+  },
+  "chain_not_listed": {
+    "message": "Zincir listelenmemiş mi?"
+  },
+  "oops": {
+    "message": "Hata"
+  },
+  "oops_content": {
+    "message": "Sorunun farkındayız ve ekibimiz bunun üzerinde çalışıyor. Sabır gösterdiğiniz için teşekkür ederiz!"
+  },
+  "go_back": {
+    "message": "Geri Dön"
+  },
+  "saved": {
+    "message": "Kaydedildi"
+  },
+  "let_start_celebrate": {
+    "message": "HADİ KUTLAMAYA BAŞLAYALIM"
+  },
+  "view_my_assets": {
+    "message": "Varlıklarımı Görüntüle"
+  },
+  "received": {
+    "message": "Alındı"
+  },
+  "sent": {
+    "message": "Gönderildi"
+  },
+  "swap": {
+    "message": "Takas"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transfer"
+  },
+  "transaction_details": {
+    "message": "İşlem Detayları"
+  },
+  "transaction_hash": {
+    "message": "İşlem Hash'i"
+  },
+  "status": {
+    "message": "Durum"
+  },
+  "timestamp": {
+    "message": "Zaman Damgası"
+  },
+  "from": {
+    "message": "-Kaynak"
+  },
+  "to": {
+    "message": "İçin"
+  },
+  "value": {
+    "message": "Değer"
+  },
+  "transaction_fee": {
+    "message": "İşlem Ücreti"
+  }
+}

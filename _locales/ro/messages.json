@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Urmărește Lynx, Explorează Web3"
+  },
+  "wallet_balance": {
+    "message": "Sold"
+  },
+  "token_send": {
+    "message": "Trimite"
+  },
+  "token_receive": {
+    "message": "Primiți"
+  },
+  "token_buy": {
+    "message": "Schimb (Cumpărare)"
+  },
+  "token_history": {
+    "message": "Istorie"
+  },
+  "gas_free": {
+    "message": "Fără taxă de gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsorizare"
+  },
+  "gas_free_soon": {
+    "message": "În curând!"
+  },
+  "unknown_chain": {
+    "message": "Lanț necunoscut #$0"
+  },
+  "manage_wallet": {
+    "message": "Gestionare Portofel"
+  },
+  "wallet_keys": {
+    "message": "Portofel & Chei"
+  },
+  "connected_dapps": {
+    "message": "DApps conectate"
+  },
+  "password": {
+    "message": "Parolă"
+  },
+  "theme": {
+    "message": "Temă"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "about": {
+    "message": "Despre"
+  },
+  "login_out": {
+    "message": "Deconectare"
+  },
+  "login_out_tip": {
+    "message": "Această acțiune va șterge portofelul dumneavoastră. Vă rugăm să vă asigurați că ați făcut copie de rezervă a contului înainte de a continua."
+  },
+  "back_up_your_account": {
+    "message": "Copiază-ți contul"
+  },
+  "understand_and_continue": {
+    "message": "Înțeleg, continuă"
+  },
+  "gas_price": {
+    "message": "Prețul Gas"
+  },
+  "switch_network": {
+    "message": "Schimbă rețeaua"
+  },
+  "update": {
+    "message": "Actualizare"
+  },
+  "add_network": {
+    "message": "Adaugă Rețea"
+  },
+  "request_from": {
+    "message": "Cerere"
+  },
+  "network": {
+    "message": "Rețea"
+  },
+  "chain_name": {
+    "message": "Nume Lanț"
+  },
+  "chain_id": {
+    "message": "ID-ul Lanțului"
+  },
+  "symbol": {
+    "message": "Simbol"
+  },
+  "decimals": {
+    "message": "Zecimale"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "Ești pe cale să schimbi rețeaua ta implicită. Continuă doar dacă ai încredere în această rețea."
+  },
+  "update_network_tip": {
+    "message": "Această acțiune va actualiza setările implicite ale rețelei dvs. Vă rugăm să fiți conștienți de potențialele riscuri de securitate."
+  },
+  "add_network_tip": {
+    "message": "Lynx nu verifică rețelele personalizate. Vă rugăm să fiți conștienți de riscurile potențiale."
+  },
+  "cancel": {
+    "message": "Anulare"
+  },
+  "confirm": {
+    "message": "Confirmați"
+  },
+  "want_connect_wallet": {
+    "message": "Dorește să se conecteze la portofelul dvs."
+  },
+  "account": {
+    "message": "Cont"
+  },
+  "approve_tip1": {
+    "message": "Permite accesul la adresa portofelului tău, soldul și activitatea acestuia."
+  },
+  "approve_tip2": {
+    "message": "Permiteți permisiunea pentru a trimite aprobările tranzacțiilor"
+  },
+  "approve_tip3": {
+    "message": "Nu permite transferul de active fără permisiunea dumneavoastră"
+  },
+  "connect": {
+    "message": "conectează"
+  },
+  "export_private_key": {
+    "message": "Exportă cheia privată"
+  },
+  "select_network": {
+    "message": "Selectați rețeaua"
+  },
+  "nfts": {
+    "message": "NFT-uri"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Înapoi"
+  },
+  "next": {
+    "message": "Următorul"
+  },
+  "enter_code": {
+    "message": "Vă rugăm să introduceți parola de 6 cifre"
+  },
+  "enter_your_code": {
+    "message": "Vă rugăm să introduceți parola dumneavoastră"
+  },
+  "enter_code_again": {
+    "message": "Vă rugăm să reintroduceți parola de 6 cifre"
+  },
+  "forget_password": {
+    "message": "Ați uitat parola?"
+  },
+  "forget_tip1": {
+    "message": "Lynx nu stochează datele contului și nu poate reseta parola. Vă puteți restaura contul autentificându-vă din nou."
+  },
+  "forget_tip2": {
+    "message": "Această acțiune va șterge contul de portofel, Vă rugăm să vă asigurați că ați făcut o copie de siguranță a contului înainte de a continua."
+  },
+  "verify_password": {
+    "message": "Verificare parolă"
+  },
+  "set_password": {
+    "message": "Setează Parola"
+  },
+  "confirm_password": {
+    "message": "Confirmă parola"
+  },
+  "address": {
+    "message": "Adresă"
+  },
+  "receive_tip": {
+    "message": "Copiați adresa portofelului pentru a primi fonduri în acest portofel."
+  },
+  "copied": {
+    "message": "Copiat"
+  },
+  "gas_fee": {
+    "message": "Taxă de gaz"
+  },
+  "fee_settings": {
+    "message": "Setări taxe"
+  },
+  "base_fee": {
+    "message": "Taxă de bază"
+  },
+  "priority_fee": {
+    "message": "Taxă de prioritate"
+  },
+  "gas_limit": {
+    "message": "Limită de gaz"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Medie"
+  },
+  "fast": {
+    "message": "Rapid"
+  },
+  "website": {
+    "message": "Site web"
+  },
+  "custom": {
+    "message": "Personalizat"
+  },
+  "transfer_request": {
+    "message": "Cerere de transfer"
+  },
+  "deploy_contract": {
+    "message": "Desfășurare Contract"
+  },
+  "sender": {
+    "message": "Expeditor"
+  },
+  "amount": {
+    "message": "Cantitate"
+  },
+  "simulate_transaction": {
+    "message": "Simulare tranzacție"
+  },
+  "transaction": {
+    "message": "Tranzacție"
+  },
+  "data": {
+    "message": "Date"
+  },
+  "insufficient_token_balance": {
+    "message": "Sold insuficient de jetoane"
+  },
+  "required_amount": {
+    "message": "Suma necesară"
+  },
+  "insufficient_token_tip": {
+    "message": "Contul dvs. nu are suficienți $0 tokeni pentru a finaliza tranzacția."
+  },
+  "buy": {
+    "message": "Cumpără"
+  },
+  "insufficient_gas_fee": {
+    "message": "Taxă de gaz insuficientă"
+  },
+  "insufficient_fee_tip": {
+    "message": "Contul tău nu are suficienți $0 pentru a acoperi taxa de rețea."
+  },
+  "required_fee": {
+    "message": "Taxă necesară"
+  },
+  "session": {
+    "message": "Sesiune"
+  },
+  "disconnect_dapp": {
+    "message": "Deconectează Dapp"
+  },
+  "remove_dapp": {
+    "message": "Elimină Dapp"
+  },
+  "signature_request": {
+    "message": "Cerere de semnătură"
+  },
+  "message": {
+    "message": "Mesaj"
+  },
+  "market_cap": {
+    "message": "Capitalizare de piață"
+  },
+  "total_supply": {
+    "message": "Ofertă totală"
+  },
+  "volume_24h": {
+    "message": "Volum 24h"
+  },
+  "max_supply": {
+    "message": "Cantitate maximă disponibilă"
+  },
+  "view_on_explorer": {
+    "message": "Vizualizează pe Explorer"
+  },
+  "transactions": {
+    "message": "Tranzacții"
+  },
+  "assets": {
+    "message": "Active"
+  },
+  "tokens": {
+    "message": "Token-uri"
+  },
+  "balance": {
+    "message": "Sold"
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "phone_number": {
+    "message": "Număr de telefon"
+  },
+  "login_email_tip": {
+    "message": "Introduceți codul de verificare trimis către"
+  },
+  "resend_code": {
+    "message": "Retrimite codul de verificare"
+  },
+  "verify": {
+    "message": "Verifică"
+  },
+  "create_wallet": {
+    "message": "Creează-ți primul portofel"
+  },
+  "sign_in": {
+    "message": "Conectează-te"
+  },
+  "create_passkey": {
+    "message": "Creează o cheie de acces"
+  },
+  "have_passkey": {
+    "message": "Am un Passkey"
+  },
+  "phone_login": {
+    "message": "Login prin telefon"
+  },
+  "context_meun_send": {
+    "message": "Trimitere - portofel Lynx"
+  },
+  "context_meun_receive": {
+    "message": "Primește - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Swap - portofel Lynx"
+  },
+  "context_meun_buy": {
+    "message": "Cumpără - Lynx wallet"
+  },
+  "selected": {
+    "message": "Selectat"
+  },
+  "search_network_or_chain": {
+    "message": "Căutați Rețea sau ID Lanț"
+  },
+  "all": {
+    "message": "Toate"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Rețele de testare"
+  },
+  "all_networks": {
+    "message": "Toate Rețelele"
+  },
+  "chain_not_listed": {
+    "message": "Lanțul nu este listat?"
+  },
+  "oops": {
+    "message": "Hopa"
+  },
+  "oops_content": {
+    "message": "Suntem conștienți de problemă și echipa noastră lucrează la aceasta. Mulțumim pentru răbdare!"
+  },
+  "go_back": {
+    "message": "Înapoi"
+  },
+  "saved": {
+    "message": "Salvat"
+  },
+  "let_start_celebrate": {
+    "message": "SĂ ÎNCEPEM SĂRBĂTOAREA"
+  },
+  "view_my_assets": {
+    "message": "Vizualizați activele mele"
+  },
+  "received": {
+    "message": "Primite"
+  },
+  "sent": {
+    "message": "Trimis"
+  },
+  "swap": {
+    "message": "Schimb"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transfer"
+  },
+  "transaction_details": {
+    "message": "Detalii tranzacție"
+  },
+  "transaction_hash": {
+    "message": "Hash de tranzacție"
+  },
+  "status": {
+    "message": "Stare"
+  },
+  "timestamp": {
+    "message": "Marcaj temporal"
+  },
+  "from": {
+    "message": "Din"
+  },
+  "to": {
+    "message": "Către"
+  },
+  "value": {
+    "message": "Valoare"
+  },
+  "transaction_fee": {
+    "message": "Taxă de tranzacție"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "کیف پول Lynx"
+  },
+  "extension_description": {
+    "message": "لینکس را دنبال کنید، وب3 را کاوش کنید"
+  },
+  "wallet_balance": {
+    "message": "موجودی"
+  },
+  "token_send": {
+    "message": "ارسال"
+  },
+  "token_receive": {
+    "message": "دریافت کردن"
+  },
+  "token_buy": {
+    "message": "مبادله (خرید)"
+  },
+  "token_history": {
+    "message": "تاریخچه"
+  },
+  "gas_free": {
+    "message": "بدون کارمزد گس"
+  },
+  "gas_free_sponsorship": {
+    "message": "حمایت مالی"
+  },
+  "gas_free_soon": {
+    "message": "به زودی!"
+  },
+  "unknown_chain": {
+    "message": "زنجیره ناشناخته #$0"
+  },
+  "manage_wallet": {
+    "message": "مدیریت کیف پول"
+  },
+  "wallet_keys": {
+    "message": "کیف پول و کلیدها"
+  },
+  "connected_dapps": {
+    "message": "DApps متصل"
+  },
+  "password": {
+    "message": "رمز عبور"
+  },
+  "theme": {
+    "message": "موضوع"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "about": {
+    "message": "درباره"
+  },
+  "login_out": {
+    "message": "خروج"
+  },
+  "login_out_tip": {
+    "message": "این اقدام کیف پول شما را حذف خواهد کرد. لطفاً قبل از ادامه، مطمئن شوید که حساب خود را پشتیبان‌گیری کرده‌اید."
+  },
+  "back_up_your_account": {
+    "message": "پشتیبان‌گیری از حساب خود را انجام دهید"
+  },
+  "understand_and_continue": {
+    "message": "متوجه هستم، ادامه دهید"
+  },
+  "gas_price": {
+    "message": "قیمت گس"
+  },
+  "switch_network": {
+    "message": "تغییر شبکه"
+  },
+  "update": {
+    "message": "به‌روزرسانی"
+  },
+  "add_network": {
+    "message": "افزودن شبکه"
+  },
+  "request_from": {
+    "message": "درخواست"
+  },
+  "network": {
+    "message": "شبکه"
+  },
+  "chain_name": {
+    "message": "نام بلاک‌چین"
+  },
+  "chain_id": {
+    "message": "شناسه زنجیره"
+  },
+  "symbol": {
+    "message": "نماد"
+  },
+  "decimals": {
+    "message": "اعشار"
+  },
+  "explorer": {
+    "message": "کاوشگر"
+  },
+  "switch_network_tip": {
+    "message": "در شرف تغییر شبکه پیش‌فرض خود هستید. فقط در صورتی ادامه دهید که به این شبکه اعتماد دارید."
+  },
+  "update_network_tip": {
+    "message": "این اقدام تنظیمات پیش‌فرض شبکه شما را به‌روزرسانی خواهد کرد. لطفاً از خطرات احتمالی امنیتی آگاه باشید."
+  },
+  "add_network_tip": {
+    "message": "لینکس شبکه‌های سفارشی را تأیید نمی‌کند. لطفاً از ریسک‌های احتمالی آگاه باشید."
+  },
+  "cancel": {
+    "message": "لغو"
+  },
+  "confirm": {
+    "message": "تأیید"
+  },
+  "want_connect_wallet": {
+    "message": "می‌خواهد به کیف پول شما متصل شود"
+  },
+  "account": {
+    "message": "حساب"
+  },
+  "approve_tip1": {
+    "message": "دسترسی به آدرس کیف پول، موجودی و فعالیت شما را مجاز کنید"
+  },
+  "approve_tip2": {
+    "message": "اجازه‌دادن به ارسال تاییدیه‌های تراکنش"
+  },
+  "approve_tip3": {
+    "message": "انتقال دارایی‌ها بدون اجازه شما امکان‌پذیر نیست"
+  },
+  "connect": {
+    "message": "متصل شدن"
+  },
+  "export_private_key": {
+    "message": "صدور کلید خصوصی"
+  },
+  "select_network": {
+    "message": "انتخاب شبکه"
+  },
+  "nfts": {
+    "message": "توکن‌های غیر قابل تعویض"
+  },
+  "start": {
+    "message": "شروع"
+  },
+  "back": {
+    "message": "بازگشت"
+  },
+  "next": {
+    "message": "بعدی"
+  },
+  "enter_code": {
+    "message": "لطفاً رمز 6 رقمی را وارد کنید"
+  },
+  "enter_your_code": {
+    "message": "لطفاً رمز عبور خود را وارد کنید"
+  },
+  "enter_code_again": {
+    "message": "لطفاً گذرواژه 6 رقمی را دوباره وارد کنید"
+  },
+  "forget_password": {
+    "message": "رمز عبور خود را فراموش کرده‌اید؟"
+  },
+  "forget_tip1": {
+    "message": "لینکس داده‌های حساب را ذخیره نمی‌کند و نمی‌تواند رمز عبور شما را بازنشانی کند. می‌توانید با ورود مجدد، حساب خود را بازیابی کنید."
+  },
+  "forget_tip2": {
+    "message": "این اقدام حساب کیف پول را حذف خواهد کرد، لطفاً قبل از ادامه مطمئن شوید که از حساب خود پشتیبان تهیه کرده‌اید."
+  },
+  "verify_password": {
+    "message": "رمز عبور را تأیید کنید"
+  },
+  "set_password": {
+    "message": "تنظیم رمز عبور"
+  },
+  "confirm_password": {
+    "message": "تأیید رمز عبور"
+  },
+  "address": {
+    "message": "نشانی"
+  },
+  "receive_tip": {
+    "message": "آدرس کیف پول را برای دریافت وجه در این کیف کپی کنید"
+  },
+  "copied": {
+    "message": "کپی شد"
+  },
+  "gas_fee": {
+    "message": "کارمزد گس"
+  },
+  "fee_settings": {
+    "message": "تنظیمات کارمزد"
+  },
+  "base_fee": {
+    "message": "هزینه پایه"
+  },
+  "priority_fee": {
+    "message": "هزینه اولویت"
+  },
+  "gas_limit": {
+    "message": "سقف گس"
+  },
+  "normal": {
+    "message": "عادی"
+  },
+  "average": {
+    "message": "متوسط"
+  },
+  "fast": {
+    "message": "سریع"
+  },
+  "website": {
+    "message": "وب‌سایت"
+  },
+  "custom": {
+    "message": "سفارشی"
+  },
+  "transfer_request": {
+    "message": "درخواست انتقال"
+  },
+  "deploy_contract": {
+    "message": "استقرار قرارداد"
+  },
+  "sender": {
+    "message": "فرستنده"
+  },
+  "amount": {
+    "message": "مقدار"
+  },
+  "simulate_transaction": {
+    "message": "شبیه‌سازی تراکنش"
+  },
+  "transaction": {
+    "message": "تراکنش"
+  },
+  "data": {
+    "message": "داده"
+  },
+  "insufficient_token_balance": {
+    "message": "موجودی ناکافی توکن"
+  },
+  "required_amount": {
+    "message": "مبلغ مورد نیاز"
+  },
+  "insufficient_token_tip": {
+    "message": "حساب شما به اندازه کافی توکن $0 برای تکمیل تراکنش ندارد."
+  },
+  "buy": {
+    "message": "خرید"
+  },
+  "insufficient_gas_fee": {
+    "message": "هزینه گس ناکافی"
+  },
+  "insufficient_fee_tip": {
+    "message": "حساب شما موجودی کافی $0 برای پوشش هزینه شبکه را ندارد."
+  },
+  "required_fee": {
+    "message": "هزینه مورد نیاز"
+  },
+  "session": {
+    "message": "جلسه"
+  },
+  "disconnect_dapp": {
+    "message": "قطع ارتباط Dapp"
+  },
+  "remove_dapp": {
+    "message": "داپ را حذف کنید"
+  },
+  "signature_request": {
+    "message": "درخواست امضا"
+  },
+  "message": {
+    "message": "پیام"
+  },
+  "market_cap": {
+    "message": "ارزش بازار"
+  },
+  "total_supply": {
+    "message": "عرض کل"
+  },
+  "volume_24h": {
+    "message": "حجم ۲۴ ساعت"
+  },
+  "max_supply": {
+    "message": "حداکثر عرضه"
+  },
+  "view_on_explorer": {
+    "message": "مشاهده در Explorer"
+  },
+  "transactions": {
+    "message": "تراکنش‌ها"
+  },
+  "assets": {
+    "message": "دارایی‌ها"
+  },
+  "tokens": {
+    "message": "توکن‌ها"
+  },
+  "balance": {
+    "message": "موجودی"
+  },
+  "email": {
+    "message": "ایمیل"
+  },
+  "phone_number": {
+    "message": "شماره تلفن"
+  },
+  "login_email_tip": {
+    "message": "کد تأیید ارسال شده به را وارد کنید"
+  },
+  "resend_code": {
+    "message": "ارسال مجدد کد تأییدیه"
+  },
+  "verify": {
+    "message": "تأیید"
+  },
+  "create_wallet": {
+    "message": "کیف‌پول اول خود را بسازید"
+  },
+  "sign_in": {
+    "message": "ورود"
+  },
+  "create_passkey": {
+    "message": "ایجاد یک کلید عبور"
+  },
+  "have_passkey": {
+    "message": "من یک Passkey دارم"
+  },
+  "phone_login": {
+    "message": "ورود با تلفن"
+  },
+  "context_meun_send": {
+    "message": "ارسال - کیف پول Lynx"
+  },
+  "context_meun_receive": {
+    "message": "دریافت - کیف پول Lynx"
+  },
+  "context_meun_swap": {
+    "message": "تبادل - کیف پول Lynx"
+  },
+  "context_meun_buy": {
+    "message": "خرید - کیف پول Lynx"
+  },
+  "selected": {
+    "message": "انتخاب شد"
+  },
+  "search_network_or_chain": {
+    "message": "جستجوی شبکه یا شناسه زنجیره"
+  },
+  "all": {
+    "message": "همه"
+  },
+  "mainnets": {
+    "message": "شبکه‌های اصلی"
+  },
+  "testnets": {
+    "message": "شبکه‌های تست"
+  },
+  "all_networks": {
+    "message": "همه شبکه‌ها"
+  },
+  "chain_not_listed": {
+    "message": "زنجیره فهرست نشده است؟"
+  },
+  "oops": {
+    "message": "اوپس"
+  },
+  "oops_content": {
+    "message": "ما از این مشکل آگاه هستیم و تیم ما در حال بررسی آن است. از شکیبایی شما سپاسگزاریم!"
+  },
+  "go_back": {
+    "message": "برگشتن"
+  },
+  "saved": {
+    "message": "ذخیره شد"
+  },
+  "let_start_celebrate": {
+    "message": "بیا جشن بگیریم"
+  },
+  "view_my_assets": {
+    "message": "مشاهده دارایی‌های من"
+  },
+  "received": {
+    "message": "دریافت شد"
+  },
+  "sent": {
+    "message": "ارسال شد"
+  },
+  "swap": {
+    "message": "مبادله"
+  },
+  "fiat": {
+    "message": "ارز فیات"
+  },
+  "transfer": {
+    "message": "انتقال"
+  },
+  "transaction_details": {
+    "message": "جزئیات تراکنش"
+  },
+  "transaction_hash": {
+    "message": "هش تراکنش"
+  },
+  "status": {
+    "message": "وضعیت"
+  },
+  "timestamp": {
+    "message": "برچسب زمانی"
+  },
+  "from": {
+    "message": "از"
+  },
+  "to": {
+    "message": "به"
+  },
+  "value": {
+    "message": "ارزش"
+  },
+  "transaction_fee": {
+    "message": "هزینه تراکنش"
+  }
+}

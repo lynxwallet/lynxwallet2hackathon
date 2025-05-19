@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Ví Lynx"
+  },
+  "extension_description": {
+    "message": "Theo dõi Lynx, khám phá Web3"
+  },
+  "wallet_balance": {
+    "message": "Số dư"
+  },
+  "token_send": {
+    "message": "Gửi"
+  },
+  "token_receive": {
+    "message": "Nhận"
+  },
+  "token_buy": {
+    "message": "Hoán đổi (Mua)"
+  },
+  "token_history": {
+    "message": "Lịch sử"
+  },
+  "gas_free": {
+    "message": "Không tốn gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Tài trợ"
+  },
+  "gas_free_soon": {
+    "message": "Sắp có!"
+  },
+  "unknown_chain": {
+    "message": "Chuỗi không xác định #$0"
+  },
+  "manage_wallet": {
+    "message": "Quản lý Ví"
+  },
+  "wallet_keys": {
+    "message": "Ví & Key"
+  },
+  "connected_dapps": {
+    "message": "Ứng dụng phi tập trung đã kết nối"
+  },
+  "password": {
+    "message": "Mật khẩu"
+  },
+  "theme": {
+    "message": "Đề tài"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "about": {
+    "message": "Giới thiệu"
+  },
+  "login_out": {
+    "message": "Đăng xuất"
+  },
+  "login_out_tip": {
+    "message": "Hành động này sẽ xóa ví của bạn. Vui lòng đảm bảo bạn đã sao lưu tài khoản của mình trước khi tiếp tục."
+  },
+  "back_up_your_account": {
+    "message": "Sao lưu tài khoản của bạn"
+  },
+  "understand_and_continue": {
+    "message": "Tôi hiểu, tiếp tục"
+  },
+  "gas_price": {
+    "message": "Giá gas"
+  },
+  "switch_network": {
+    "message": "Chuyển mạng lưới"
+  },
+  "update": {
+    "message": "Cập nhật"
+  },
+  "add_network": {
+    "message": "Thêm Mạng"
+  },
+  "request_from": {
+    "message": "Yêu cầu"
+  },
+  "network": {
+    "message": "Mạng lưới"
+  },
+  "chain_name": {
+    "message": "Tên Chuỗi"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "Biểu tượng"
+  },
+  "decimals": {
+    "message": "Số thập phân"
+  },
+  "explorer": {
+    "message": "Trình duyệt"
+  },
+  "switch_network_tip": {
+    "message": "Bạn sắp thay đổi mạng mặc định của mình. Chỉ tiếp tục nếu bạn tin tưởng mạng này."
+  },
+  "update_network_tip": {
+    "message": "Thao tác này sẽ cập nhật cài đặt mạng mặc định của bạn. Vui lòng lưu ý các rủi ro bảo mật tiềm ẩn."
+  },
+  "add_network_tip": {
+    "message": "Lynx không xác minh các mạng tùy chỉnh. Hãy cẩn thận với những rủi ro tiềm ẩn."
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "confirm": {
+    "message": "Xác nhận"
+  },
+  "want_connect_wallet": {
+    "message": "Muốn kết nối với ví của bạn"
+  },
+  "account": {
+    "message": "Tài khoản"
+  },
+  "approve_tip1": {
+    "message": "Cho phép truy cập địa chỉ ví, số dư và hoạt động của bạn"
+  },
+  "approve_tip2": {
+    "message": "Cho phép quyền gửi phê duyệt giao dịch"
+  },
+  "approve_tip3": {
+    "message": "Không cho phép chuyển tài sản mà không có sự cho phép của bạn"
+  },
+  "connect": {
+    "message": "kết nối"
+  },
+  "export_private_key": {
+    "message": "Xuất khóa riêng tư"
+  },
+  "select_network": {
+    "message": "Chọn Mạng Lưới"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "BẮT ĐẦU"
+  },
+  "back": {
+    "message": "Quay lại"
+  },
+  "next": {
+    "message": "Tiếp theo"
+  },
+  "enter_code": {
+    "message": "Vui lòng nhập mật khẩu 6 chữ số"
+  },
+  "enter_your_code": {
+    "message": "Vui lòng nhập mật khẩu của bạn"
+  },
+  "enter_code_again": {
+    "message": "Vui lòng nhập lại mật khẩu 6 chữ số"
+  },
+  "forget_password": {
+    "message": "Quên mật khẩu?"
+  },
+  "forget_tip1": {
+    "message": "Lynx không lưu trữ dữ liệu tài khoản và không thể đặt lại mật khẩu của bạn. Bạn có thể khôi phục tài khoản của mình bằng cách đăng nhập lại."
+  },
+  "forget_tip2": {
+    "message": "Hành động này sẽ xóa tài khoản ví, Vui lòng đảm bảo bạn đã sao lưu tài khoản của mình trước khi tiếp tục."
+  },
+  "verify_password": {
+    "message": "Xác minh mật khẩu"
+  },
+  "set_password": {
+    "message": "Đặt mật khẩu"
+  },
+  "confirm_password": {
+    "message": "Xác nhận Mật khẩu"
+  },
+  "address": {
+    "message": "Địa chỉ"
+  },
+  "receive_tip": {
+    "message": "Sao chép địa chỉ ví để nhận tiền trong ví này"
+  },
+  "copied": {
+    "message": "Đã sao chép"
+  },
+  "gas_fee": {
+    "message": "Phí Gas"
+  },
+  "fee_settings": {
+    "message": "Cài đặt Phí"
+  },
+  "base_fee": {
+    "message": "Phí Cơ Bản"
+  },
+  "priority_fee": {
+    "message": "Phí ưu tiên"
+  },
+  "gas_limit": {
+    "message": "Giới hạn Gas"
+  },
+  "normal": {
+    "message": "Bình thường"
+  },
+  "average": {
+    "message": "Trung bình"
+  },
+  "fast": {
+    "message": "Nhanh chóng"
+  },
+  "website": {
+    "message": "Trang web"
+  },
+  "custom": {
+    "message": "Tùy chỉnh"
+  },
+  "transfer_request": {
+    "message": "Yêu cầu chuyển tiền"
+  },
+  "deploy_contract": {
+    "message": "Triển khai Hợp đồng"
+  },
+  "sender": {
+    "message": "Người gửi"
+  },
+  "amount": {
+    "message": "Số lượng"
+  },
+  "simulate_transaction": {
+    "message": "Mô phỏng giao dịch"
+  },
+  "transaction": {
+    "message": "Giao dịch"
+  },
+  "data": {
+    "message": "Dữ liệu"
+  },
+  "insufficient_token_balance": {
+    "message": "Số dư token không đủ"
+  },
+  "required_amount": {
+    "message": "Số lượng yêu cầu"
+  },
+  "insufficient_token_tip": {
+    "message": "Tài khoản của bạn không có đủ $0 token để hoàn thành giao dịch."
+  },
+  "buy": {
+    "message": "Mua"
+  },
+  "insufficient_gas_fee": {
+    "message": "Phí gas không đủ"
+  },
+  "insufficient_fee_tip": {
+    "message": "Tài khoản của bạn không có đủ $0 để trả phí mạng."
+  },
+  "required_fee": {
+    "message": "Phí bắt buộc"
+  },
+  "session": {
+    "message": "Phiên giao dịch"
+  },
+  "disconnect_dapp": {
+    "message": "Ngắt kết nối Dapp"
+  },
+  "remove_dapp": {
+    "message": "Xoá Dapp"
+  },
+  "signature_request": {
+    "message": "Yêu cầu chữ ký"
+  },
+  "message": {
+    "message": "Tin nhắn"
+  },
+  "market_cap": {
+    "message": "Vốn hóa thị trường"
+  },
+  "total_supply": {
+    "message": "Tổng cung"
+  },
+  "volume_24h": {
+    "message": "Khối lượng 24 giờ"
+  },
+  "max_supply": {
+    "message": "Tổng cung tối đa"
+  },
+  "view_on_explorer": {
+    "message": "Xem trên Explorer"
+  },
+  "transactions": {
+    "message": "Giao dịch"
+  },
+  "assets": {
+    "message": "Tài sản"
+  },
+  "tokens": {
+    "message": "Mã thông báo"
+  },
+  "balance": {
+    "message": "Số dư"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "phone_number": {
+    "message": "Số điện thoại"
+  },
+  "login_email_tip": {
+    "message": "Nhập mã xác minh được gửi đến"
+  },
+  "resend_code": {
+    "message": "Gửi lại mã xác minh"
+  },
+  "verify": {
+    "message": "Xác minh"
+  },
+  "create_wallet": {
+    "message": "Tạo Ví Đầu Tiên Của Bạn"
+  },
+  "sign_in": {
+    "message": "Đăng nhập"
+  },
+  "create_passkey": {
+    "message": "Tạo Passkey"
+  },
+  "have_passkey": {
+    "message": "Tôi có một Passkey"
+  },
+  "phone_login": {
+    "message": "Đăng nhập bằng điện thoại"
+  },
+  "context_meun_send": {
+    "message": "Gửi - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Nhận - ví Lynx"
+  },
+  "context_meun_swap": {
+    "message": "Hoán đổi - Ví Lynx"
+  },
+  "context_meun_buy": {
+    "message": "Mua - ví Lynx"
+  },
+  "selected": {
+    "message": "Đã chọn"
+  },
+  "search_network_or_chain": {
+    "message": "Tìm kiếm Mạng hoặc Chain ID"
+  },
+  "all": {
+    "message": "Tất cả"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "Tất cả Mạng lưới"
+  },
+  "chain_not_listed": {
+    "message": "Chuỗi chưa được niêm yết?"
+  },
+  "oops": {
+    "message": "Rất tiếc"
+  },
+  "oops_content": {
+    "message": "Chúng tôi đã nhận thức được vấn đề và đội ngũ của chúng tôi đang xử lý. Cảm ơn bạn đã kiên nhẫn!"
+  },
+  "go_back": {
+    "message": "Quay lại"
+  },
+  "saved": {
+    "message": "Đã lưu"
+  },
+  "let_start_celebrate": {
+    "message": "HÃY BẮT ĐẦU ĂN MỪNG"
+  },
+  "view_my_assets": {
+    "message": "Xem tài sản của tôi"
+  },
+  "received": {
+    "message": "Đã nhận"
+  },
+  "sent": {
+    "message": "Đã gửi"
+  },
+  "swap": {
+    "message": "Hoán đổi"
+  },
+  "fiat": {
+    "message": "Tiền pháp định"
+  },
+  "transfer": {
+    "message": "Chuyển khoản"
+  },
+  "transaction_details": {
+    "message": "Chi tiết giao dịch"
+  },
+  "transaction_hash": {
+    "message": "Băm giao dịch"
+  },
+  "status": {
+    "message": "Trạng thái"
+  },
+  "timestamp": {
+    "message": "Dấu thời gian"
+  },
+  "from": {
+    "message": "Từ"
+  },
+  "to": {
+    "message": "Đến"
+  },
+  "value": {
+    "message": "Giá trị"
+  },
+  "transaction_fee": {
+    "message": "Phí giao dịch"
+  }
+}

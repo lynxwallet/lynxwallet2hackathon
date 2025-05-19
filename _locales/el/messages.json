@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Πορτοφόλι Lynx"
+  },
+  "extension_description": {
+    "message": "Ακολουθήστε το Lynx, εξερευνήστε το Web3"
+  },
+  "wallet_balance": {
+    "message": "Υπόλοιπο"
+  },
+  "token_send": {
+    "message": "Αποστολή"
+  },
+  "token_receive": {
+    "message": "Λήψη"
+  },
+  "token_buy": {
+    "message": "Ανταλλαγή (Αγορά)"
+  },
+  "token_history": {
+    "message": "Ιστορία"
+  },
+  "gas_free": {
+    "message": "Χωρίς Κόστος Gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Χορηγία"
+  },
+  "gas_free_soon": {
+    "message": "Σύντομα!"
+  },
+  "unknown_chain": {
+    "message": "Άγνωστη αλυσίδα #$0"
+  },
+  "manage_wallet": {
+    "message": "Διαχείριση Πορτοφολιού"
+  },
+  "wallet_keys": {
+    "message": "Πορτοφόλι & Κλειδιά"
+  },
+  "connected_dapps": {
+    "message": "Συνδεδεμένα DApps"
+  },
+  "password": {
+    "message": "Κωδικός πρόσβασης"
+  },
+  "theme": {
+    "message": "Θέμα"
+  },
+  "language": {
+    "message": "Γλώσσα"
+  },
+  "about": {
+    "message": "Σχετικά με"
+  },
+  "login_out": {
+    "message": "Αποσύνδεση"
+  },
+  "login_out_tip": {
+    "message": "Αυτή η ενέργεια θα διαγράψει το πορτοφόλι σας. Βεβαιωθείτε ότι έχετε δημιουργήσει αντίγραφο ασφαλείας του λογαριασμού σας πριν συνεχίσετε."
+  },
+  "back_up_your_account": {
+    "message": "Δημιουργήστε αντίγραφα ασφαλείας του λογαριασμού σας"
+  },
+  "understand_and_continue": {
+    "message": "Καταλαβαίνω, συνεχίστε"
+  },
+  "gas_price": {
+    "message": "Τιμή Gas"
+  },
+  "switch_network": {
+    "message": "Αλλαγή Δικτύου"
+  },
+  "update": {
+    "message": "Ενημέρωση"
+  },
+  "add_network": {
+    "message": "Προσθήκη Δικτύου"
+  },
+  "request_from": {
+    "message": "Αίτημα"
+  },
+  "network": {
+    "message": "Δίκτυο"
+  },
+  "chain_name": {
+    "message": "Όνομα Αλυσίδας"
+  },
+  "chain_id": {
+    "message": "Αναγνωριστικό Αλυσίδας"
+  },
+  "symbol": {
+    "message": "Σύμβολο"
+  },
+  "decimals": {
+    "message": "Δεκαδικά"
+  },
+  "explorer": {
+    "message": "Εξερευνητής"
+  },
+  "switch_network_tip": {
+    "message": "Πρόκειται να αλλάξετε το προεπιλεγμένο σας δίκτυο. Συνεχίστε μόνο εάν εμπιστεύεστε αυτό το δίκτυο."
+  },
+  "update_network_tip": {
+    "message": "Αυτή η ενέργεια θα ενημερώσει τις προεπιλεγμένες ρυθμίσεις του δικτύου σας. Παρακαλώ λάβετε υπόψη πιθανούς κινδύνους ασφαλείας."
+  },
+  "add_network_tip": {
+    "message": "Η Lynx δεν επαληθεύει προσαρμοσμένα δίκτυα. Παρακαλούμε να γνωρίζετε τους πιθανούς κινδύνους."
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "confirm": {
+    "message": "Επιβεβαίωση"
+  },
+  "want_connect_wallet": {
+    "message": "Θέλει να συνδεθεί στο πορτοφόλι σας"
+  },
+  "account": {
+    "message": "Λογαριασμός"
+  },
+  "approve_tip1": {
+    "message": "Επιτρέψτε την πρόσβαση στη διεύθυνση του πορτοφολιού σας, το υπόλοιπο και τη δραστηριότητα"
+  },
+  "approve_tip2": {
+    "message": "Επιτρέψτε την άδεια για αποστολή εγκρίσεων συναλλαγών"
+  },
+  "approve_tip3": {
+    "message": "Δεν επιτρέπει τη μεταφορά περιουσιακών στοιχείων χωρίς την άδειά σας"
+  },
+  "connect": {
+    "message": "σύνδεση"
+  },
+  "export_private_key": {
+    "message": "Εξαγωγή Ιδιωτικού Κλειδιού"
+  },
+  "select_network": {
+    "message": "Επιλογή Δικτύου"
+  },
+  "nfts": {
+    "message": "Μη Εμπορεύσιμα Token (NFTs)"
+  },
+  "start": {
+    "message": "ΑΡΧΗ"
+  },
+  "back": {
+    "message": "Πίσω"
+  },
+  "next": {
+    "message": "Επόμενο"
+  },
+  "enter_code": {
+    "message": "Παρακαλώ εισάγετε τον 6-ψήφιο κωδικό πρόσβασης"
+  },
+  "enter_your_code": {
+    "message": "Παρακαλώ εισάγετε τον κωδικό πρόσβασής σας"
+  },
+  "enter_code_again": {
+    "message": "Παρακαλώ εισάγετε ξανά τον 6-ψήφιο κωδικό πρόσβασης"
+  },
+  "forget_password": {
+    "message": "Ξεχάσατε τον κωδικό σας;"
+  },
+  "forget_tip1": {
+    "message": "Το Lynx δεν αποθηκεύει δεδομένα λογαριασμού και δεν μπορεί να επαναφέρει τον κωδικό πρόσβασής σας. Μπορείτε να επαναφέρετε τον λογαριασμό σας συνδεόμενοι ξανά."
+  },
+  "forget_tip2": {
+    "message": "Η ενέργεια αυτή θα διαγράψει τον λογαριασμό πορτοφολιού, παρακαλώ βεβαιωθείτε ότι έχετε κρατήσει αντίγραφο ασφαλείας του λογαριασμού σας πριν προχωρήσετε."
+  },
+  "verify_password": {
+    "message": "Επαλήθευση Κωδικού Πρόσβασης"
+  },
+  "set_password": {
+    "message": "Ορίστε Κωδικό Πρόσβασης"
+  },
+  "confirm_password": {
+    "message": "Επιβεβαιώστε τον Κωδικό Πρόσβασης"
+  },
+  "address": {
+    "message": "Διεύθυνση"
+  },
+  "receive_tip": {
+    "message": "Αντιγράψτε τη διεύθυνση πορτοφολιού για να λάβετε κεφάλαια σε αυτό το πορτοφόλι"
+  },
+  "copied": {
+    "message": "Αντιγράφηκε"
+  },
+  "gas_fee": {
+    "message": "Χρέωση Gas"
+  },
+  "fee_settings": {
+    "message": "Ρυθμίσεις Τελών"
+  },
+  "base_fee": {
+    "message": "Βασική Χρέωση"
+  },
+  "priority_fee": {
+    "message": "Προμήθεια Προτεραιότητας"
+  },
+  "gas_limit": {
+    "message": "Όριο Gas"
+  },
+  "normal": {
+    "message": "Κανονικό"
+  },
+  "average": {
+    "message": "Μέσος όρος"
+  },
+  "fast": {
+    "message": "Γρήγορη"
+  },
+  "website": {
+    "message": "ιστοσελίδα"
+  },
+  "custom": {
+    "message": "Προσαρμοσμένο"
+  },
+  "transfer_request": {
+    "message": "Αίτημα Μεταφοράς"
+  },
+  "deploy_contract": {
+    "message": "Ανάπτυξη Συμβολαίου"
+  },
+  "sender": {
+    "message": "Αποστολέας"
+  },
+  "amount": {
+    "message": "Ποσό"
+  },
+  "simulate_transaction": {
+    "message": "Προσομοίωση Συναλλαγής"
+  },
+  "transaction": {
+    "message": "Συναλλαγή"
+  },
+  "data": {
+    "message": "Δεδομένα"
+  },
+  "insufficient_token_balance": {
+    "message": "Ανεπαρκές υπόλοιπο token"
+  },
+  "required_amount": {
+    "message": "Απαιτούμενο Ποσό"
+  },
+  "insufficient_token_tip": {
+    "message": "Ο λογαριασμός σας δεν έχει αρκετά $0 tokens για να ολοκληρώσει τη συναλλαγή."
+  },
+  "buy": {
+    "message": "Αγορά"
+  },
+  "insufficient_gas_fee": {
+    "message": "Ανεπαρκές τέλος gas"
+  },
+  "insufficient_fee_tip": {
+    "message": "Ο λογαριασμός σας δεν έχει αρκετά $0 για να καλύψει το κόστος του δικτύου."
+  },
+  "required_fee": {
+    "message": "Απαιτούμενη προμήθεια"
+  },
+  "session": {
+    "message": "Σύνοδος"
+  },
+  "disconnect_dapp": {
+    "message": "Αποσύνδεση Dapp"
+  },
+  "remove_dapp": {
+    "message": "Κατάργηση Dapp"
+  },
+  "signature_request": {
+    "message": "Αίτημα Υπογραφής"
+  },
+  "message": {
+    "message": "Μήνυμα"
+  },
+  "market_cap": {
+    "message": "Κεφαλαιοποίηση αγοράς"
+  },
+  "total_supply": {
+    "message": "Συνολική προσφορά"
+  },
+  "volume_24h": {
+    "message": "Όγκος 24ω"
+  },
+  "max_supply": {
+    "message": "Μέγιστη προσφορά"
+  },
+  "view_on_explorer": {
+    "message": "Προβολή στο Explorer"
+  },
+  "transactions": {
+    "message": "Συναλλαγές"
+  },
+  "assets": {
+    "message": "Περιουσιακά στοιχεία"
+  },
+  "tokens": {
+    "message": "Κρυπτογραφημένα νομίσματα"
+  },
+  "balance": {
+    "message": "Υπόλοιπο"
+  },
+  "email": {
+    "message": "ηλεκτρονικό ταχυδρομείο"
+  },
+  "phone_number": {
+    "message": "Τηλεφωνικός Αριθμός"
+  },
+  "login_email_tip": {
+    "message": "Εισαγάγετε τον κωδικό επαλήθευσης που εστάλη σε"
+  },
+  "resend_code": {
+    "message": "Αποστολή ξανά του κωδικού επαλήθευσης"
+  },
+  "verify": {
+    "message": "Επαληθεύστε"
+  },
+  "create_wallet": {
+    "message": "Δημιουργήστε το Πρώτο σας Πορτοφόλι"
+  },
+  "sign_in": {
+    "message": "Σύνδεση"
+  },
+  "create_passkey": {
+    "message": "Δημιουργία Κωδικού Πρόσβασης"
+  },
+  "have_passkey": {
+    "message": "Έχω ένα Passkey"
+  },
+  "phone_login": {
+    "message": "Σύνδεση μέσω τηλεφώνου"
+  },
+  "context_meun_send": {
+    "message": "Αποστολή - Lynx πορτοφόλι"
+  },
+  "context_meun_receive": {
+    "message": "Λήψη - Lynx πορτοφόλι"
+  },
+  "context_meun_swap": {
+    "message": "Συναλλαγή - Lynx πορτοφόλι"
+  },
+  "context_meun_buy": {
+    "message": "Αγορά - Lynx πορτοφόλι"
+  },
+  "selected": {
+    "message": "Επιλεγμένο"
+  },
+  "search_network_or_chain": {
+    "message": "Αναζήτηση Δικτύου ή Ταυτότητας Αλυσίδας"
+  },
+  "all": {
+    "message": "Όλα"
+  },
+  "mainnets": {
+    "message": "Κύρια Δίκτυα"
+  },
+  "testnets": {
+    "message": "Δοκιμαστικά δίκτυα"
+  },
+  "all_networks": {
+    "message": "Όλα τα Δίκτυα"
+  },
+  "chain_not_listed": {
+    "message": "Η αλυσίδα δεν παρατίθεται;"
+  },
+  "oops": {
+    "message": "Ωχ|,\n"
+  },
+  "oops_content": {
+    "message": "Είμαστε ενήμεροι για το πρόβλημα και η ομάδα μας το αντιμετωπίζει. Ευχαριστούμε για την υπομονή σας!"
+  },
+  "go_back": {
+    "message": "Πήγαινε πίσω"
+  },
+  "saved": {
+    "message": "Αποθηκεύτηκε"
+  },
+  "let_start_celebrate": {
+    "message": "Ας αρχίσουμε να γιορτάζουμε"
+  },
+  "view_my_assets": {
+    "message": "Προβολή των Περιουσιακών μου Στοιχείων"
+  },
+  "received": {
+    "message": "Λήφθηκε"
+  },
+  "sent": {
+    "message": "Αποστολή"
+  },
+  "swap": {
+    "message": "Ανταλλαγή"
+  },
+  "fiat": {
+    "message": "Φίατ"
+  },
+  "transfer": {
+    "message": "Μεταφορά"
+  },
+  "transaction_details": {
+    "message": "Λεπτομέρειες Συναλλαγής"
+  },
+  "transaction_hash": {
+    "message": "Κατακερματισμός συναλλαγής"
+  },
+  "status": {
+    "message": "Κατάσταση"
+  },
+  "timestamp": {
+    "message": "Χρονική σήμανση"
+  },
+  "from": {
+    "message": "Από"
+  },
+  "to": {
+    "message": "προς"
+  },
+  "value": {
+    "message": "Αξία"
+  },
+  "transaction_fee": {
+    "message": "Χρέωση Συναλλαγής"
+  }
+}

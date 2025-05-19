@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Monedero Lynx"
+  },
+  "extension_description": {
+    "message": "Sigue a Lynx, explora Web3。"
+  },
+  "wallet_balance": {
+    "message": "Saldo"
+  },
+  "token_send": {
+    "message": "Enviar"
+  },
+  "token_receive": {
+    "message": "Recibir"
+  },
+  "token_buy": {
+    "message": "Intercambiar (Comprar)"
+  },
+  "token_history": {
+    "message": "Historia"
+  },
+  "gas_free": {
+    "message": "Sin Gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Patrocinio"
+  },
+  "gas_free_soon": {
+    "message": "¡Pronto!"
+  },
+  "unknown_chain": {
+    "message": "Cadena desconocida #$0"
+  },
+  "manage_wallet": {
+    "message": "Gestionar Cartera"
+  },
+  "wallet_keys": {
+    "message": "Billetera y Claves"
+  },
+  "connected_dapps": {
+    "message": "DApps conectadas"
+  },
+  "password": {
+    "message": "Contraseña"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "about": {
+    "message": "Acerca de"
+  },
+  "login_out": {
+    "message": "Cerrar sesión"
+  },
+  "login_out_tip": {
+    "message": "Esta acción eliminará tu cartera. Por favor, asegúrate de haber respaldado tu cuenta antes de continuar."
+  },
+  "back_up_your_account": {
+    "message": "Respalda tu cuenta"
+  },
+  "understand_and_continue": {
+    "message": "Entiendo, continúa"
+  },
+  "gas_price": {
+    "message": "Precio del Gas"
+  },
+  "switch_network": {
+    "message": "Cambiar Red"
+  },
+  "update": {
+    "message": "Actualizar"
+  },
+  "add_network": {
+    "message": "Agregar Red"
+  },
+  "request_from": {
+    "message": "Solicitud"
+  },
+  "network": {
+    "message": "Red"
+  },
+  "chain_name": {
+    "message": "Nombre de la Cadena"
+  },
+  "chain_id": {
+    "message": "Id de cadena"
+  },
+  "symbol": {
+    "message": "Símbolo"
+  },
+  "decimals": {
+    "message": "Decimales"
+  },
+  "explorer": {
+    "message": "Explorador"
+  },
+  "switch_network_tip": {
+    "message": "Estás a punto de cambiar tu red predeterminada. Procede solo si confías en esta red."
+  },
+  "update_network_tip": {
+    "message": "Esta acción actualizará la configuración predeterminada de su red. Tenga en cuenta los posibles riesgos de seguridad."
+  },
+  "add_network_tip": {
+    "message": "Lynx no verifica las redes personalizadas. Por favor, esté al tanto de los riesgos potenciales."
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "confirm": {
+    "message": "Confirmar"
+  },
+  "want_connect_wallet": {
+    "message": "Quiere conectarse a tu wallet"
+  },
+  "account": {
+    "message": "Cuenta"
+  },
+  "approve_tip1": {
+    "message": "Permitir acceso a la dirección de tu cartera, saldo y actividad"
+  },
+  "approve_tip2": {
+    "message": "Permitir permiso para enviar aprobaciones de transacciones"
+  },
+  "approve_tip3": {
+    "message": "No permite transferir activos sin tu permiso"
+  },
+  "connect": {
+    "message": "conectar"
+  },
+  "export_private_key": {
+    "message": "Exportar Clave Privada"
+  },
+  "select_network": {
+    "message": "Seleccionar red"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "COMENZAR"
+  },
+  "back": {
+    "message": "Volver"
+  },
+  "next": {
+    "message": "Siguiente"
+  },
+  "enter_code": {
+    "message": "Por favor, ingrese la contraseña de 6 dígitos"
+  },
+  "enter_your_code": {
+    "message": "Por favor, introduzca su contraseña"
+  },
+  "enter_code_again": {
+    "message": "Por favor, vuelva a ingresar la contraseña de 6 dígitos"
+  },
+  "forget_password": {
+    "message": "¿Olvidaste tu contraseña?"
+  },
+  "forget_tip1": {
+    "message": "Lynx no almacena datos de cuenta y no puede restablecer tu contraseña. Puedes restaurar tu cuenta iniciando sesión de nuevo."
+  },
+  "forget_tip2": {
+    "message": "Esta acción eliminará la cuenta de la billetera, por favor asegúrese de haber respaldado su cuenta antes de continuar."
+  },
+  "verify_password": {
+    "message": "Verificar Contraseña"
+  },
+  "set_password": {
+    "message": "Establecer contraseña"
+  },
+  "confirm_password": {
+    "message": "Confirmar Contraseña"
+  },
+  "address": {
+    "message": "Dirección"
+  },
+  "receive_tip": {
+    "message": "Copiar la dirección del monedero para recibir fondos en este monedero"
+  },
+  "copied": {
+    "message": "Copiado"
+  },
+  "gas_fee": {
+    "message": "Tarifa de Gas"
+  },
+  "fee_settings": {
+    "message": "Configuración de Tarifas"
+  },
+  "base_fee": {
+    "message": "Tarifa Base"
+  },
+  "priority_fee": {
+    "message": "Tarifa de Prioridad"
+  },
+  "gas_limit": {
+    "message": "Límite de Gas"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Promedio"
+  },
+  "fast": {
+    "message": "Rápido"
+  },
+  "website": {
+    "message": "Sitio web"
+  },
+  "custom": {
+    "message": "Personalizado"
+  },
+  "transfer_request": {
+    "message": "Solicitud de Transferencia"
+  },
+  "deploy_contract": {
+    "message": "Desplegar Contrato"
+  },
+  "sender": {
+    "message": "Remitente"
+  },
+  "amount": {
+    "message": "Cantidad"
+  },
+  "simulate_transaction": {
+    "message": "Simular Transacción"
+  },
+  "transaction": {
+    "message": "Transacción"
+  },
+  "data": {
+    "message": "Datos"
+  },
+  "insufficient_token_balance": {
+    "message": "Saldo insuficiente de tokens"
+  },
+  "required_amount": {
+    "message": "Monto Requerido"
+  },
+  "insufficient_token_tip": {
+    "message": "Tu cuenta no tiene suficientes tokens de $0 para completar la transacción."
+  },
+  "buy": {
+    "message": "Comprar"
+  },
+  "insufficient_gas_fee": {
+    "message": "Tarifa de gas insuficiente"
+  },
+  "insufficient_fee_tip": {
+    "message": "Su cuenta no tiene suficiente $0 para cubrir la tarifa de la red."
+  },
+  "required_fee": {
+    "message": "Tarifa requerida"
+  },
+  "session": {
+    "message": "Sesión"
+  },
+  "disconnect_dapp": {
+    "message": "Desconectar Dapp"
+  },
+  "remove_dapp": {
+    "message": "Eliminar Dapp"
+  },
+  "signature_request": {
+    "message": "Solicitud de Firma"
+  },
+  "message": {
+    "message": "Mensaje"
+  },
+  "market_cap": {
+    "message": "Capitalización de mercado"
+  },
+  "total_supply": {
+    "message": "Suministro total"
+  },
+  "volume_24h": {
+    "message": "Volumen 24h"
+  },
+  "max_supply": {
+    "message": "Suministro máximo"
+  },
+  "view_on_explorer": {
+    "message": "Ver en el explorador"
+  },
+  "transactions": {
+    "message": "Transacciones"
+  },
+  "assets": {
+    "message": "Activos"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "email": {
+    "message": "Correo electrónico"
+  },
+  "phone_number": {
+    "message": "Número de teléfono"
+  },
+  "login_email_tip": {
+    "message": "Ingrese el código de verificación enviado a"
+  },
+  "resend_code": {
+    "message": "Reenviar código de verificación"
+  },
+  "verify": {
+    "message": "Verificar"
+  },
+  "create_wallet": {
+    "message": "Crea tu primera billetera"
+  },
+  "sign_in": {
+    "message": "Iniciar sesión"
+  },
+  "create_passkey": {
+    "message": "Crear una Clave de Acceso"
+  },
+  "have_passkey": {
+    "message": "Tengo una clave de acceso"
+  },
+  "phone_login": {
+    "message": "Inicio de sesión telefónico"
+  },
+  "context_meun_send": {
+    "message": "Enviar - billetera Lynx"
+  },
+  "context_meun_receive": {
+    "message": "Recibir - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Intercambiar - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Comprar - billetera Lynx"
+  },
+  "selected": {
+    "message": "Seleccionado"
+  },
+  "search_network_or_chain": {
+    "message": "Buscar Red o ID de Cadena"
+  },
+  "all": {
+    "message": "Todo"
+  },
+  "mainnets": {
+    "message": "Redes principales"
+  },
+  "testnets": {
+    "message": "Redes de prueba"
+  },
+  "all_networks": {
+    "message": "Todas las redes"
+  },
+  "chain_not_listed": {
+    "message": "¿La cadena no está listada?"
+  },
+  "oops": {
+    "message": "Ups"
+  },
+  "oops_content": {
+    "message": "Somos conscientes del problema y nuestro equipo ya está trabajando en ello. ¡Gracias por tu paciencia!"
+  },
+  "go_back": {
+    "message": "Regresar"
+  },
+  "saved": {
+    "message": "Guardado"
+  },
+  "let_start_celebrate": {
+    "message": "¡EMPECEMOS A CELEBRAR!"
+  },
+  "view_my_assets": {
+    "message": "Ver mis activos"
+  },
+  "received": {
+    "message": "Recibido"
+  },
+  "sent": {
+    "message": "Enviado"
+  },
+  "swap": {
+    "message": "Intercambiar"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transferencia"
+  },
+  "transaction_details": {
+    "message": "Detalles de la Transacción"
+  },
+  "transaction_hash": {
+    "message": "Hash de Transacción"
+  },
+  "status": {
+    "message": "Estado"
+  },
+  "timestamp": {
+    "message": "Marca de tiempo"
+  },
+  "from": {
+    "message": "De"
+  },
+  "to": {
+    "message": "Para"
+  },
+  "value": {
+    "message": "Valor"
+  },
+  "transaction_fee": {
+    "message": "Tarifa de transacción"
+  }
+}

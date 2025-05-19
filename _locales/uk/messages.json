@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Гаманець"
+  },
+  "extension_description": {
+    "message": "Слідкуйте за Lynx, досліджуйте Web3"
+  },
+  "wallet_balance": {
+    "message": "Баланс"
+  },
+  "token_send": {
+    "message": "Надіслати"
+  },
+  "token_receive": {
+    "message": "Отримати"
+  },
+  "token_buy": {
+    "message": "Обмін (Купити)"
+  },
+  "token_history": {
+    "message": "Історія"
+  },
+  "gas_free": {
+    "message": "Без комісії за газ"
+  },
+  "gas_free_sponsorship": {
+    "message": "Спонсорство"
+  },
+  "gas_free_soon": {
+    "message": "Скоро!"
+  },
+  "unknown_chain": {
+    "message": "Невідома мережа #$0"
+  },
+  "manage_wallet": {
+    "message": "Керування гаманцем"
+  },
+  "wallet_keys": {
+    "message": "Гаманець та ключі"
+  },
+  "connected_dapps": {
+    "message": "Підключені DApps"
+  },
+  "password": {
+    "message": "Пароль"
+  },
+  "theme": {
+    "message": "тема"
+  },
+  "language": {
+    "message": "Мова"
+  },
+  "about": {
+    "message": "Про Lynx"
+  },
+  "login_out": {
+    "message": "Вийти"
+  },
+  "login_out_tip": {
+    "message": "Ця дія призведе до видалення вашого гаманця. Будь ласка, переконайтесь, що ви створили резервну копію вашого облікового запису перед тим, як продовжити."
+  },
+  "back_up_your_account": {
+    "message": "Резервне копіювання вашого облікового запису"
+  },
+  "understand_and_continue": {
+    "message": "Я розумію, продовжуйте"
+  },
+  "gas_price": {
+    "message": "Ціна Gas"
+  },
+  "switch_network": {
+    "message": "Переключити мережу"
+  },
+  "update": {
+    "message": "Оновити"
+  },
+  "add_network": {
+    "message": "Додати Мережу"
+  },
+  "request_from": {
+    "message": "Запит"
+  },
+  "network": {
+    "message": "Мережа"
+  },
+  "chain_name": {
+    "message": "Назва ланцюга"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "Символ"
+  },
+  "decimals": {
+    "message": "Десяткові"
+  },
+  "explorer": {
+    "message": "Дослідник"
+  },
+  "switch_network_tip": {
+    "message": "Ви збираєтеся змінити вашу мережу за замовчуванням. Продовжуйте, лише якщо ви довіряєте цій мережі."
+  },
+  "update_network_tip": {
+    "message": "Ця дія оновить налаштування вашої мережі за замовчуванням. Будь ласка, усвідомте потенційні ризики безпеки."
+  },
+  "add_network_tip": {
+    "message": "Lynx не перевіряє кастомні мережі. Будь ласка, будьте обережні з потенційними ризиками."
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "confirm": {
+    "message": "Підтвердити"
+  },
+  "want_connect_wallet": {
+    "message": "Бажає підключитися до вашого гаманця"
+  },
+  "account": {
+    "message": "Рахунок"
+  },
+  "approve_tip1": {
+    "message": "Дозволити доступ до вашої адреси гаманця, балансу та активності"
+  },
+  "approve_tip2": {
+    "message": "Дозволити надсилати затвердження транзакцій"
+  },
+  "approve_tip3": {
+    "message": "Не дозволяє передавати активи без вашого дозволу"
+  },
+  "connect": {
+    "message": "підключитися"
+  },
+  "export_private_key": {
+    "message": "Експортувати приватний ключ"
+  },
+  "select_network": {
+    "message": "Виберіть мережу"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "ПОЧАТИ"
+  },
+  "back": {
+    "message": "Назад"
+  },
+  "next": {
+    "message": "Далі"
+  },
+  "enter_code": {
+    "message": "Будь ласка, введіть 6-значний пароль"
+  },
+  "enter_your_code": {
+    "message": "Будь ласка, введіть свій пароль"
+  },
+  "enter_code_again": {
+    "message": "Будь ласка, повторно введіть 6-значний пароль"
+  },
+  "forget_password": {
+    "message": "Забули пароль?"
+  },
+  "forget_tip1": {
+    "message": "Lynx не зберігає дані облікового запису та не може скинути ваш пароль. Ви можете відновити обліковий запис, увійшовши знову."
+  },
+  "forget_tip2": {
+    "message": "Ця дія видалить обліковий запис гаманця. Будь ласка, переконайтеся, що ви зробили резервну копію свого облікового запису перед продовженням."
+  },
+  "verify_password": {
+    "message": "Перевірити пароль"
+  },
+  "set_password": {
+    "message": "Встановити пароль"
+  },
+  "confirm_password": {
+    "message": "Підтвердьте пароль"
+  },
+  "address": {
+    "message": "Адреса"
+  },
+  "receive_tip": {
+    "message": "Скопіюйте адресу гаманця, щоб отримувати кошти в цьому гаманці"
+  },
+  "copied": {
+    "message": "Скопійовано"
+  },
+  "gas_fee": {
+    "message": "Комісія за газ"
+  },
+  "fee_settings": {
+    "message": "Налаштування комісії"
+  },
+  "base_fee": {
+    "message": "Базова комісія"
+  },
+  "priority_fee": {
+    "message": "Пріоритетна комісія"
+  },
+  "gas_limit": {
+    "message": "Ліміт газу"
+  },
+  "normal": {
+    "message": "Звичайний"
+  },
+  "average": {
+    "message": "Середній"
+  },
+  "fast": {
+    "message": "Швидко"
+  },
+  "website": {
+    "message": "Вебсайт"
+  },
+  "custom": {
+    "message": "Спеціальний"
+  },
+  "transfer_request": {
+    "message": "Запит на переказ"
+  },
+  "deploy_contract": {
+    "message": "Розгорнути контракт"
+  },
+  "sender": {
+    "message": "Відправник"
+  },
+  "amount": {
+    "message": "Сума"
+  },
+  "simulate_transaction": {
+    "message": "Симуляція транзакції"
+  },
+  "transaction": {
+    "message": "Транзакція"
+  },
+  "data": {
+    "message": "Дані"
+  },
+  "insufficient_token_balance": {
+    "message": "Недостатній баланс токенів"
+  },
+  "required_amount": {
+    "message": "Необхідна сума"
+  },
+  "insufficient_token_tip": {
+    "message": "На вашому рахунку недостатньо токенів $0 для завершення транзакції."
+  },
+  "buy": {
+    "message": "Купити"
+  },
+  "insufficient_gas_fee": {
+    "message": "Недостатня комісія за газ"
+  },
+  "insufficient_fee_tip": {
+    "message": "На вашому рахунку недостатньо $0 для покриття комісії за мережу."
+  },
+  "required_fee": {
+    "message": "Необхідна комісія"
+  },
+  "session": {
+    "message": "Сесія"
+  },
+  "disconnect_dapp": {
+    "message": "Відключити Dapp"
+  },
+  "remove_dapp": {
+    "message": "Видалити Dapp"
+  },
+  "signature_request": {
+    "message": "Запит підпису"
+  },
+  "message": {
+    "message": "Повідомлення"
+  },
+  "market_cap": {
+    "message": "Ринкова капіталізація"
+  },
+  "total_supply": {
+    "message": "Загальна пропозиція"
+  },
+  "volume_24h": {
+    "message": "Обсяг за 24 години"
+  },
+  "max_supply": {
+    "message": "Максимальна пропозиція"
+  },
+  "view_on_explorer": {
+    "message": "Переглянути в провіднику"
+  },
+  "transactions": {
+    "message": "Транзакції"
+  },
+  "assets": {
+    "message": "Активи"
+  },
+  "tokens": {
+    "message": "Токени"
+  },
+  "balance": {
+    "message": "Баланс"
+  },
+  "email": {
+    "message": "Електронна пошта"
+  },
+  "phone_number": {
+    "message": "Номер телефону"
+  },
+  "login_email_tip": {
+    "message": "Введіть код підтвердження, надісланий на"
+  },
+  "resend_code": {
+    "message": "Повторно відправити код підтвердження"
+  },
+  "verify": {
+    "message": "Перевірити"
+  },
+  "create_wallet": {
+    "message": "Створіть Свій Перший Гаманець"
+  },
+  "sign_in": {
+    "message": "Увійти"
+  },
+  "create_passkey": {
+    "message": "Створити ключ доступу"
+  },
+  "have_passkey": {
+    "message": "У мене є Passkey"
+  },
+  "phone_login": {
+    "message": "Вхід по телефону"
+  },
+  "context_meun_send": {
+    "message": "Надіслати - гаманець Lynx"
+  },
+  "context_meun_receive": {
+    "message": "Отримати - Lynx гаманець"
+  },
+  "context_meun_swap": {
+    "message": "Обмін - Lynx гаманець"
+  },
+  "context_meun_buy": {
+    "message": "Купити - гаманець Lynx"
+  },
+  "selected": {
+    "message": "Вибрано"
+  },
+  "search_network_or_chain": {
+    "message": "Пошук Мережі або Chain ID"
+  },
+  "all": {
+    "message": "Усі"
+  },
+  "mainnets": {
+    "message": "Мейннети"
+  },
+  "testnets": {
+    "message": "Тестові мережі"
+  },
+  "all_networks": {
+    "message": "Усі мережі"
+  },
+  "chain_not_listed": {
+    "message": "Ланцюжок не вказано?"
+  },
+  "oops": {
+    "message": "Ой"
+  },
+  "oops_content": {
+    "message": "Ми знаємо про проблему, і наша команда вже працює над нею. Дякуємо за ваше терпіння!"
+  },
+  "go_back": {
+    "message": "Повернутися"
+  },
+  "saved": {
+    "message": "Збережено"
+  },
+  "let_start_celebrate": {
+    "message": "ДАВАЙТЕ ПОЧНЕМО СВЯТКУВАТИ"
+  },
+  "view_my_assets": {
+    "message": "Переглянути мої активи"
+  },
+  "received": {
+    "message": "Отримано"
+  },
+  "sent": {
+    "message": "Надіслано"
+  },
+  "swap": {
+    "message": "Обмін"
+  },
+  "fiat": {
+    "message": "Фіат"
+  },
+  "transfer": {
+    "message": "Переказ"
+  },
+  "transaction_details": {
+    "message": "Деталі транзакції"
+  },
+  "transaction_hash": {
+    "message": "Хеш транзакції"
+  },
+  "status": {
+    "message": "Статус"
+  },
+  "timestamp": {
+    "message": "мітка часу"
+  },
+  "from": {
+    "message": "Від"
+  },
+  "to": {
+    "message": "до"
+  },
+  "value": {
+    "message": "Значення"
+  },
+  "transaction_fee": {
+    "message": "Комісія за транзакцію"
+  }
+}

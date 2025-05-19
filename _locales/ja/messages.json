@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynxウォレット"
+  },
+  "extension_description": {
+    "message": "Lynxをフォローして、Web3を探索しましょう。"
+  },
+  "wallet_balance": {
+    "message": "残高"
+  },
+  "token_send": {
+    "message": "送信"
+  },
+  "token_receive": {
+    "message": "受け取る"
+  },
+  "token_buy": {
+    "message": "スワップ (購入)"
+  },
+  "token_history": {
+    "message": "履歴"
+  },
+  "gas_free": {
+    "message": "ガス無料"
+  },
+  "gas_free_sponsorship": {
+    "message": "スポンサーシップ"
+  },
+  "gas_free_soon": {
+    "message": "近日中！"
+  },
+  "unknown_chain": {
+    "message": "不明なチェーン #$0"
+  },
+  "manage_wallet": {
+    "message": "ウォレット管理"
+  },
+  "wallet_keys": {
+    "message": "ウォレットとキー"
+  },
+  "connected_dapps": {
+    "message": "接続済みDApps"
+  },
+  "password": {
+    "message": "パスワード"
+  },
+  "theme": {
+    "message": "テーマ"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "about": {
+    "message": "アバウト"
+  },
+  "login_out": {
+    "message": "ログアウト"
+  },
+  "login_out_tip": {
+    "message": "この操作によりウォレットが削除されます。続行する前にアカウントのバックアップを行ったことを確認してください。"
+  },
+  "back_up_your_account": {
+    "message": "アカウントをバックアップする"
+  },
+  "understand_and_continue": {
+    "message": "わかりました、続けてください。"
+  },
+  "gas_price": {
+    "message": "ガス価格"
+  },
+  "switch_network": {
+    "message": "ネットワークを切り替える"
+  },
+  "update": {
+    "message": "更新"
+  },
+  "add_network": {
+    "message": "ネットワークを追加"
+  },
+  "request_from": {
+    "message": "リクエスト"
+  },
+  "network": {
+    "message": "ネットワーク"
+  },
+  "chain_name": {
+    "message": "チェーン名"
+  },
+  "chain_id": {
+    "message": "チェーンID"
+  },
+  "symbol": {
+    "message": "シンボル"
+  },
+  "decimals": {
+    "message": "小数点"
+  },
+  "explorer": {
+    "message": "エクスプローラー"
+  },
+  "switch_network_tip": {
+    "message": "デフォルトのネットワークを変更しようとしています。このネットワークを信頼できる場合のみ進めてください。"
+  },
+  "update_network_tip": {
+    "message": "この操作はデフォルトのネットワーク設定を更新します。潜在的なセキュリティリスクにご注意ください。"
+  },
+  "add_network_tip": {
+    "message": "Lynxはカスタムネットワークを検証しません。潜在的なリスクにご注意ください。"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "confirm": {
+    "message": "確認"
+  },
+  "want_connect_wallet": {
+    "message": "あなたのウォレットに接続したがっています"
+  },
+  "account": {
+    "message": "アカウント"
+  },
+  "approve_tip1": {
+    "message": "あなたのウォレットアドレス、残高、アクティビティへのアクセスを許可します"
+  },
+  "approve_tip2": {
+    "message": "トランザクション承認を送信するための権限を許可"
+  },
+  "approve_tip3": {
+    "message": "あなたの許可なしに資産を移転することはできません。"
+  },
+  "connect": {
+    "message": "接続"
+  },
+  "export_private_key": {
+    "message": "秘密鍵をエクスポート"
+  },
+  "select_network": {
+    "message": "ネットワークを選択"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "開始"
+  },
+  "back": {
+    "message": "戻る"
+  },
+  "next": {
+    "message": "次へ"
+  },
+  "enter_code": {
+    "message": "6桁のパスワードを入力してください"
+  },
+  "enter_your_code": {
+    "message": "パスワードを入力してください"
+  },
+  "enter_code_again": {
+    "message": "6桁のパスワードを再入力してください"
+  },
+  "forget_password": {
+    "message": "パスワードをお忘れですか？"
+  },
+  "forget_tip1": {
+    "message": "Lynxはアカウントデータを保存せず、パスワードをリセットすることはできません。再度サインインすることでアカウントを復元できます。"
+  },
+  "forget_tip2": {
+    "message": "この操作によりウォレットアカウントが削除されます。操作を続行する前に、必ずアカウントをバックアップしてください。"
+  },
+  "verify_password": {
+    "message": "パスワードを確認"
+  },
+  "set_password": {
+    "message": "パスワードを設定"
+  },
+  "confirm_password": {
+    "message": "パスワードの確認"
+  },
+  "address": {
+    "message": "アドレス"
+  },
+  "receive_tip": {
+    "message": "このウォレットで資金を受け取るためにウォレットアドレスをコピー"
+  },
+  "copied": {
+    "message": "コピー済み"
+  },
+  "gas_fee": {
+    "message": "ガス料金"
+  },
+  "fee_settings": {
+    "message": "料金設定"
+  },
+  "base_fee": {
+    "message": "基本料金"
+  },
+  "priority_fee": {
+    "message": "優先手数料"
+  },
+  "gas_limit": {
+    "message": "ガスリミット"
+  },
+  "normal": {
+    "message": "ノーマル"
+  },
+  "average": {
+    "message": "平均"
+  },
+  "fast": {
+    "message": "速い"
+  },
+  "website": {
+    "message": "ウェブサイト"
+  },
+  "custom": {
+    "message": "カスタム"
+  },
+  "transfer_request": {
+    "message": "送金リクエスト"
+  },
+  "deploy_contract": {
+    "message": "コントラクトをデプロイ"
+  },
+  "sender": {
+    "message": "送信者"
+  },
+  "amount": {
+    "message": "量"
+  },
+  "simulate_transaction": {
+    "message": "トランザクションをシミュレートする"
+  },
+  "transaction": {
+    "message": "トランザクション"
+  },
+  "data": {
+    "message": "データ"
+  },
+  "insufficient_token_balance": {
+    "message": "トークン残高が不足しています"
+  },
+  "required_amount": {
+    "message": "必要な額"
+  },
+  "insufficient_token_tip": {
+    "message": "お客様のアカウントにはトランザクションを完了するのに十分な$0トークンがありません。"
+  },
+  "buy": {
+    "message": "購入する"
+  },
+  "insufficient_gas_fee": {
+    "message": "ガス料金不足"
+  },
+  "insufficient_fee_tip": {
+    "message": "あなたのアカウントには、ネットワーク手数料をカバーするための$0が不足しています。"
+  },
+  "required_fee": {
+    "message": "必要な手数料"
+  },
+  "session": {
+    "message": "セッション"
+  },
+  "disconnect_dapp": {
+    "message": "Dappを切断"
+  },
+  "remove_dapp": {
+    "message": "Dappを削除"
+  },
+  "signature_request": {
+    "message": "署名リクエスト"
+  },
+  "message": {
+    "message": "メッセージ"
+  },
+  "market_cap": {
+    "message": "時価総額"
+  },
+  "total_supply": {
+    "message": "総供給量"
+  },
+  "volume_24h": {
+    "message": "24時間取引量"
+  },
+  "max_supply": {
+    "message": "最大供給量"
+  },
+  "view_on_explorer": {
+    "message": "エクスプローラーで表示"
+  },
+  "transactions": {
+    "message": "取引"
+  },
+  "assets": {
+    "message": "資産"
+  },
+  "tokens": {
+    "message": "トークン"
+  },
+  "balance": {
+    "message": "残高"
+  },
+  "email": {
+    "message": "メール"
+  },
+  "phone_number": {
+    "message": "電話番号"
+  },
+  "login_email_tip": {
+    "message": "送信された確認コードを入力してください"
+  },
+  "resend_code": {
+    "message": "確認コードを再送信"
+  },
+  "verify": {
+    "message": "検証"
+  },
+  "create_wallet": {
+    "message": "最初のウォレットを作成する"
+  },
+  "sign_in": {
+    "message": "サインイン"
+  },
+  "create_passkey": {
+    "message": "パスキーを作成"
+  },
+  "have_passkey": {
+    "message": "パスキーを持っています"
+  },
+  "phone_login": {
+    "message": "電話ログイン"
+  },
+  "context_meun_send": {
+    "message": "送信 - Lynxウォレット"
+  },
+  "context_meun_receive": {
+    "message": "受け取る - Lynxウォレット"
+  },
+  "context_meun_swap": {
+    "message": "スワップ - Lynxウォレット"
+  },
+  "context_meun_buy": {
+    "message": "購入 - Lynxウォレット"
+  },
+  "selected": {
+    "message": "選択されました"
+  },
+  "search_network_or_chain": {
+    "message": "ネットワークまたはチェーンIDを検索"
+  },
+  "all": {
+    "message": "すべて"
+  },
+  "mainnets": {
+    "message": "メインネット"
+  },
+  "testnets": {
+    "message": "テストネット"
+  },
+  "all_networks": {
+    "message": "すべてのネットワーク"
+  },
+  "chain_not_listed": {
+    "message": "チェーンがリストにありませんか?"
+  },
+  "oops": {
+    "message": "おっと"
+  },
+  "oops_content": {
+    "message": "問題を認識しており、チームが対応中です。ご辛抱いただきありがとうございます！"
+  },
+  "go_back": {
+    "message": "戻る"
+  },
+  "saved": {
+    "message": "保存済み"
+  },
+  "let_start_celebrate": {
+    "message": "祝い始めましょう"
+  },
+  "view_my_assets": {
+    "message": "私の資産を表示"
+  },
+  "received": {
+    "message": "受信済み"
+  },
+  "sent": {
+    "message": "送信"
+  },
+  "swap": {
+    "message": "スワップ"
+  },
+  "fiat": {
+    "message": "フィアット"
+  },
+  "transfer": {
+    "message": "転送"
+  },
+  "transaction_details": {
+    "message": "取引詳細"
+  },
+  "transaction_hash": {
+    "message": "トランザクションハッシュ"
+  },
+  "status": {
+    "message": "ステータス"
+  },
+  "timestamp": {
+    "message": "タイムスタンプ"
+  },
+  "from": {
+    "message": "から"
+  },
+  "to": {
+    "message": "へ"
+  },
+  "value": {
+    "message": "価値"
+  },
+  "transaction_fee": {
+    "message": "取引手数料"
+  }
+}

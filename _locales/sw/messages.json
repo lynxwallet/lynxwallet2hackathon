@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Mkoba ya Lynx"
+  },
+  "extension_description": {
+    "message": "Fuata Lynx, Chunguza Web3"
+  },
+  "wallet_balance": {
+    "message": "Mizani"
+  },
+  "token_send": {
+    "message": "Tuma"
+  },
+  "token_receive": {
+    "message": "Pokea"
+  },
+  "token_buy": {
+    "message": "Badilisha (Nunua)"
+  },
+  "token_history": {
+    "message": "Historia"
+  },
+  "gas_free": {
+    "message": "Bila Gesi"
+  },
+  "gas_free_sponsorship": {
+    "message": "Udhamini"
+  },
+  "gas_free_soon": {
+    "message": "Hivi karibuni!"
+  },
+  "unknown_chain": {
+    "message": "Mnyororo usiojulikana #$0"
+  },
+  "manage_wallet": {
+    "message": "Dhibiti Mkoba"
+  },
+  "wallet_keys": {
+    "message": "Mkoba & Funguo"
+  },
+  "connected_dapps": {
+    "message": "DApps Zilizounganishwa"
+  },
+  "password": {
+    "message": "Nenosiri"
+  },
+  "theme": {
+    "message": "Mandhari"
+  },
+  "language": {
+    "message": "Lugha"
+  },
+  "about": {
+    "message": "Kuhusu"
+  },
+  "login_out": {
+    "message": "Toka kwenye akaunti"
+  },
+  "login_out_tip": {
+    "message": "Hatua hii itafuta wallet yako. Tafadhali hakikisha umehifadhi nakala ya akaunti yako kabla ya kuendelea."
+  },
+  "back_up_your_account": {
+    "message": "Hifadhi akaunti yako"
+  },
+  "understand_and_continue": {
+    "message": "Ninaelewa, endelea"
+  },
+  "gas_price": {
+    "message": "Bei ya Gesi"
+  },
+  "switch_network": {
+    "message": "Badilisha Mtandao"
+  },
+  "update": {
+    "message": "Sasisha"
+  },
+  "add_network": {
+    "message": "Ongeza Mtandao"
+  },
+  "request_from": {
+    "message": "Ombi"
+  },
+  "network": {
+    "message": "Mtandao"
+  },
+  "chain_name": {
+    "message": "Jina la Chain"
+  },
+  "chain_id": {
+    "message": "Kitambulisho cha Msururu"
+  },
+  "symbol": {
+    "message": "Alama"
+  },
+  "decimals": {
+    "message": "Desimali"
+  },
+  "explorer": {
+    "message": "Mchunguzi"
+  },
+  "switch_network_tip": {
+    "message": "Unakaribia kubadilisha mtandao wako wa chaguo-msingi. Endelea tu ikiwa unauamini mtandao huu."
+  },
+  "update_network_tip": {
+    "message": "Kitendo hiki kitasasisha mipangilio yako ya mtandao chaguomsingi. Tafadhali kuwa makini na hatari za kiusalama zinazowezekana."
+  },
+  "add_network_tip": {
+    "message": "Lynx haithibitishi mitandao maalum. Tafadhali kuwa makini na hatari zinazoweza kutokea."
+  },
+  "cancel": {
+    "message": "Ghairi"
+  },
+  "confirm": {
+    "message": "Thibitisha"
+  },
+  "want_connect_wallet": {
+    "message": "Anataka kuungana na pochi yako"
+  },
+  "account": {
+    "message": "Akaunti"
+  },
+  "approve_tip1": {
+    "message": "Ruhusu upatikanaji wa anwani ya mkoba wako, mizani, na shughuli"
+  },
+  "approve_tip2": {
+    "message": "Ruhusu ruhusa ya kutuma idhini za miamala"
+  },
+  "approve_tip3": {
+    "message": "Hairuhusu kuhamisha mali bila ruhusa yako"
+  },
+  "connect": {
+    "message": "unganisha"
+  },
+  "export_private_key": {
+    "message": "Hamisha Kitufe Binafsi"
+  },
+  "select_network": {
+    "message": "Chagua Mtandao"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "ANZA"
+  },
+  "back": {
+    "message": "Nyuma"
+  },
+  "next": {
+    "message": "Ifuatayo"
+  },
+  "enter_code": {
+    "message": "Tafadhali ingiza nywila yenye tarakimu 6"
+  },
+  "enter_your_code": {
+    "message": "Tafadhali ingiza nenosiri lako"
+  },
+  "enter_code_again": {
+    "message": "Tafadhali ingiza tena nenosiri la tarakimu 6"
+  },
+  "forget_password": {
+    "message": "Umesahau nenosiri lako?"
+  },
+  "forget_tip1": {
+    "message": "Lynx haihifadhi data za akaunti na haiwezi kuweka upya nenosiri lako. Unaweza kurejesha akaunti yako kwa kuingilia tena."
+  },
+  "forget_tip2": {
+    "message": "Kitendo hiki kitafuta akaunti ya pochi, Tafadhali hakikisha umehifadhi nakala ya akaunti yako kabla ya kuendelea."
+  },
+  "verify_password": {
+    "message": "Thibitisha Nenosiri"
+  },
+  "set_password": {
+    "message": "Weka Nenosiri"
+  },
+  "confirm_password": {
+    "message": "Thibitisha Nenosiri"
+  },
+  "address": {
+    "message": "Anwani"
+  },
+  "receive_tip": {
+    "message": "Nakili anwani ya pochi kupokea fedha katika pochi hii"
+  },
+  "copied": {
+    "message": "Nakili"
+  },
+  "gas_fee": {
+    "message": "Ada ya gesi"
+  },
+  "fee_settings": {
+    "message": "Mipangilio ya Ada"
+  },
+  "base_fee": {
+    "message": "Ada ya Msingi"
+  },
+  "priority_fee": {
+    "message": "Ada ya Kipaumbele"
+  },
+  "gas_limit": {
+    "message": "Kikomo cha Gesi"
+  },
+  "normal": {
+    "message": "Kawaida"
+  },
+  "average": {
+    "message": "Wastani"
+  },
+  "fast": {
+    "message": "Haraka"
+  },
+  "website": {
+    "message": "Tovuti"
+  },
+  "custom": {
+    "message": "Iliyoundwa mahususi"
+  },
+  "transfer_request": {
+    "message": "Ombi la Uhamisho"
+  },
+  "deploy_contract": {
+    "message": "Kutekeleza Mkataba"
+  },
+  "sender": {
+    "message": "Mtumaji"
+  },
+  "amount": {
+    "message": "Kiasi"
+  },
+  "simulate_transaction": {
+    "message": "Simuliza Muamala"
+  },
+  "transaction": {
+    "message": "Muamala"
+  },
+  "data": {
+    "message": "Takwimu"
+  },
+  "insufficient_token_balance": {
+    "message": "Usawa wa tokeni haujatosha"
+  },
+  "required_amount": {
+    "message": "Kiasi Kinachohitajika"
+  },
+  "insufficient_token_tip": {
+    "message": "Akaunti yako haina tokeni za $0 za kutosha ili kukamilisha muamala huo."
+  },
+  "buy": {
+    "message": "Nunua"
+  },
+  "insufficient_gas_fee": {
+    "message": "Ada ya gesi haitoshi"
+  },
+  "insufficient_fee_tip": {
+    "message": "Akaunti yako haina $0 za kutosha kulipia ada ya mtandao."
+  },
+  "required_fee": {
+    "message": "Ada inayohitajika"
+  },
+  "session": {
+    "message": "Kipindi"
+  },
+  "disconnect_dapp": {
+    "message": "Kata Dapp"
+  },
+  "remove_dapp": {
+    "message": "Ondoa Dapp"
+  },
+  "signature_request": {
+    "message": "Ombi la Saini"
+  },
+  "message": {
+    "message": "Ujumbe"
+  },
+  "market_cap": {
+    "message": "Thamani ya soko"
+  },
+  "total_supply": {
+    "message": "Ugavi jumla"
+  },
+  "volume_24h": {
+    "message": "Kiasi cha Shughuli cha Saa 24"
+  },
+  "max_supply": {
+    "message": "Ugavi wa juu"
+  },
+  "view_on_explorer": {
+    "message": "Tazama kwenye Explorer"
+  },
+  "transactions": {
+    "message": "Miamala"
+  },
+  "assets": {
+    "message": "Mali"
+  },
+  "tokens": {
+    "message": "Token"
+  },
+  "balance": {
+    "message": "Mzani"
+  },
+  "email": {
+    "message": "Barua pepe"
+  },
+  "phone_number": {
+    "message": "Nambari ya Simu"
+  },
+  "login_email_tip": {
+    "message": "Weka msimbo wa uthibitisho uliotumwa kwa"
+  },
+  "resend_code": {
+    "message": "Tuma tena msimbo wa uthibitisho"
+  },
+  "verify": {
+    "message": "Thibitisha"
+  },
+  "create_wallet": {
+    "message": "Unda Akaunti Yako ya Kwanza"
+  },
+  "sign_in": {
+    "message": "Ingia"
+  },
+  "create_passkey": {
+    "message": "Tengeneza Ufunguo wa Kupita"
+  },
+  "have_passkey": {
+    "message": "Nina Mfunguo ya Kupita"
+  },
+  "phone_login": {
+    "message": "Kuingia kwa Simu ya Mkononi"
+  },
+  "context_meun_send": {
+    "message": "Tuma - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Pokea - Mkoba wa Lynx"
+  },
+  "context_meun_swap": {
+    "message": "Kubadilisha - pochi ya Lynx"
+  },
+  "context_meun_buy": {
+    "message": "Nunua - Lynx wallet"
+  },
+  "selected": {
+    "message": "Imechaguliwa"
+  },
+  "search_network_or_chain": {
+    "message": "Tafuta Mtandao au Chain ID"
+  },
+  "all": {
+    "message": "Wote"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Mitandao ya majaribio"
+  },
+  "all_networks": {
+    "message": "Mitandao Yote"
+  },
+  "chain_not_listed": {
+    "message": "Mnyororo haujatambulishwa?"
+  },
+  "oops": {
+    "message": "Pole"
+  },
+  "oops_content": {
+    "message": "Tunaraware na suala hili na timu yetu imelishughulikia. Asante kwa uvumilivu wako!"
+  },
+  "go_back": {
+    "message": "Rudi Nyuma"
+  },
+  "saved": {
+    "message": "Imehifadhiwa"
+  },
+  "let_start_celebrate": {
+    "message": "WACHA TUAANZE KUSHEREHEKEA"
+  },
+  "view_my_assets": {
+    "message": "Tazama Mali Yangu"
+  },
+  "received": {
+    "message": "Imepokelewa"
+  },
+  "sent": {
+    "message": "Imetumwa"
+  },
+  "swap": {
+    "message": "Kubadilisha"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Uhamishaji"
+  },
+  "transaction_details": {
+    "message": "Maelezo ya Muamala"
+  },
+  "transaction_hash": {
+    "message": "Kitambulisho cha Muamala"
+  },
+  "status": {
+    "message": "Hali"
+  },
+  "timestamp": {
+    "message": "Muhuri wa Muda"
+  },
+  "from": {
+    "message": "Kutoka"
+  },
+  "to": {
+    "message": "Kwa"
+  },
+  "value": {
+    "message": "Thamani"
+  },
+  "transaction_fee": {
+    "message": "Ada ya Muamala"
+  }
+}

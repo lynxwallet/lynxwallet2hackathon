@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx peňaženka"
+  },
+  "extension_description": {
+    "message": "Sledujte Lynx, skúmajte Web3"
+  },
+  "wallet_balance": {
+    "message": "Zostatok"
+  },
+  "token_send": {
+    "message": "Poslať"
+  },
+  "token_receive": {
+    "message": "Prijať"
+  },
+  "token_buy": {
+    "message": "Zmeniť (Kúpiť)"
+  },
+  "token_history": {
+    "message": "História"
+  },
+  "gas_free": {
+    "message": "Bez poplatkov za plyn"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponzorstvo"
+  },
+  "gas_free_soon": {
+    "message": "Čoskoro!"
+  },
+  "unknown_chain": {
+    "message": "Neznámy chain #$0"
+  },
+  "manage_wallet": {
+    "message": "Spravovať peňaženku"
+  },
+  "wallet_keys": {
+    "message": "Peňaženka & Kľúče"
+  },
+  "connected_dapps": {
+    "message": "Pripojené DApps"
+  },
+  "password": {
+    "message": "Heslo"
+  },
+  "theme": {
+    "message": "Téma"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "about": {
+    "message": "O aplikácii"
+  },
+  "login_out": {
+    "message": "Odhlásiť sa"
+  },
+  "login_out_tip": {
+    "message": "Táto akcia vymaže vašu peňaženku. Pred pokračovaním sa uistite, že máte zálohovaný svoj účet."
+  },
+  "back_up_your_account": {
+    "message": "Zálohovať svoj účet"
+  },
+  "understand_and_continue": {
+    "message": "Rozumiem, pokračujte."
+  },
+  "gas_price": {
+    "message": "Cena gasu"
+  },
+  "switch_network": {
+    "message": "Prepnúť sieť"
+  },
+  "update": {
+    "message": "Aktualizovať"
+  },
+  "add_network": {
+    "message": "Pridať sieť"
+  },
+  "request_from": {
+    "message": "Žiadosť"
+  },
+  "network": {
+    "message": "Sieť"
+  },
+  "chain_name": {
+    "message": "Názov reťazca"
+  },
+  "chain_id": {
+    "message": "Identifikátor reťazca"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Desatinné miesta"
+  },
+  "explorer": {
+    "message": "Prieskumník"
+  },
+  "switch_network_tip": {
+    "message": "Chystáte sa zmeniť svoju predvolenú sieť. Pokračujte, len ak tejto sieti dôverujete."
+  },
+  "update_network_tip": {
+    "message": "Táto akcia aktualizuje vaše predvolené nastavenia siete. Uvedomte si, prosím, potenciálne bezpečnostné riziká."
+  },
+  "add_network_tip": {
+    "message": "Lynx neoveruje vlastné siete. Uvedomte si prosím potenciálne riziká."
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "confirm": {
+    "message": "Potvrdiť"
+  },
+  "want_connect_wallet": {
+    "message": "Chce sa pripojiť k vašej peňaženke"
+  },
+  "account": {
+    "message": "Účet"
+  },
+  "approve_tip1": {
+    "message": "Povoliť prístup k vašej adrese peňaženky, zostatku a aktivitám."
+  },
+  "approve_tip2": {
+    "message": "Povoliť povolenie na odosielanie schválení transakcií"
+  },
+  "approve_tip3": {
+    "message": "Nepovoľuje prevod aktív bez vášho povolenia"
+  },
+  "connect": {
+    "message": "pripojiť"
+  },
+  "export_private_key": {
+    "message": "Exportovať súkromný kľúč"
+  },
+  "select_network": {
+    "message": "Vybrať sieť"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "ŠTART"
+  },
+  "back": {
+    "message": "Späť"
+  },
+  "next": {
+    "message": "Ďalší"
+  },
+  "enter_code": {
+    "message": "Zadajte 6-ciferné heslo"
+  },
+  "enter_your_code": {
+    "message": "Prosím zadajte svoje heslo"
+  },
+  "enter_code_again": {
+    "message": "Prosím, zadajte znova 6-miestne heslo"
+  },
+  "forget_password": {
+    "message": "Zabudli ste heslo?"
+  },
+  "forget_tip1": {
+    "message": "Lynx neukladá údaje o účte a nemôže resetovať vaše heslo. Svoj účet môžete obnoviť znovu prihlásením."
+  },
+  "forget_tip2": {
+    "message": "Táto akcia vymaže účet peňaženky, uistite sa, že ste si svoj účet pred pokračovaním zálohovali."
+  },
+  "verify_password": {
+    "message": "Overiť heslo"
+  },
+  "set_password": {
+    "message": "Nastaviť heslo"
+  },
+  "confirm_password": {
+    "message": "Potvrdiť heslo"
+  },
+  "address": {
+    "message": "Adresa"
+  },
+  "receive_tip": {
+    "message": "Skopírujte adresu peňaženky na prijatie prostriedkov v tejto peňaženke"
+  },
+  "copied": {
+    "message": "Kopírované"
+  },
+  "gas_fee": {
+    "message": "Poplatok za gas"
+  },
+  "fee_settings": {
+    "message": "Nastavenia poplatkov"
+  },
+  "base_fee": {
+    "message": "Základný poplatok"
+  },
+  "priority_fee": {
+    "message": "Prioritný poplatok"
+  },
+  "gas_limit": {
+    "message": "Limit plynu"
+  },
+  "normal": {
+    "message": "Normálny"
+  },
+  "average": {
+    "message": "Priemer"
+  },
+  "fast": {
+    "message": "Rýchlo"
+  },
+  "website": {
+    "message": "Webová stránka"
+  },
+  "custom": {
+    "message": "Vlastné"
+  },
+  "transfer_request": {
+    "message": "Žiadosť o prevod"
+  },
+  "deploy_contract": {
+    "message": "Nasadiť zmluvu"
+  },
+  "sender": {
+    "message": "Odosielateľ"
+  },
+  "amount": {
+    "message": "Suma"
+  },
+  "simulate_transaction": {
+    "message": "Simulovať transakciu"
+  },
+  "transaction": {
+    "message": "Transakcia"
+  },
+  "data": {
+    "message": "Údaje"
+  },
+  "insufficient_token_balance": {
+    "message": "Nedostatočný zostatok tokenov"
+  },
+  "required_amount": {
+    "message": "Požadovaná suma"
+  },
+  "insufficient_token_tip": {
+    "message": "Na vašom účte nie je dostatok $0 tokenov na dokončenie transakcie."
+  },
+  "buy": {
+    "message": "Kúpiť"
+  },
+  "insufficient_gas_fee": {
+    "message": "Nedostatočný poplatok za plyn"
+  },
+  "insufficient_fee_tip": {
+    "message": "Na vašom účte nemáte dostatok $0 na pokrytie poplatku za sieť."
+  },
+  "required_fee": {
+    "message": "Požadovaný poplatok"
+  },
+  "session": {
+    "message": "Relácia"
+  },
+  "disconnect_dapp": {
+    "message": "Odpojiť Dapp"
+  },
+  "remove_dapp": {
+    "message": "Odstrániť Dapp"
+  },
+  "signature_request": {
+    "message": "Požiadavka na podpis"
+  },
+  "message": {
+    "message": "Správa"
+  },
+  "market_cap": {
+    "message": "Trhová kapitalizácia"
+  },
+  "total_supply": {
+    "message": "Celková ponuka"
+  },
+  "volume_24h": {
+    "message": "Objem za 24h"
+  },
+  "max_supply": {
+    "message": "Maximálna ponuka"
+  },
+  "view_on_explorer": {
+    "message": "Zobraziť v prieskumníku"
+  },
+  "transactions": {
+    "message": "Transakcie"
+  },
+  "assets": {
+    "message": "Aktíva"
+  },
+  "tokens": {
+    "message": "Tokeny"
+  },
+  "balance": {
+    "message": "Zostatok"
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "phone_number": {
+    "message": "Telefónne číslo"
+  },
+  "login_email_tip": {
+    "message": "Zadajte overovací kód odoslaný na"
+  },
+  "resend_code": {
+    "message": "Odoslať overovací kód znovu"
+  },
+  "verify": {
+    "message": "Overiť"
+  },
+  "create_wallet": {
+    "message": "Vytvorte si svoju prvú peňaženku"
+  },
+  "sign_in": {
+    "message": "Prihlásiť sa"
+  },
+  "create_passkey": {
+    "message": "Vytvoriť heslo"
+  },
+  "have_passkey": {
+    "message": "Mám prístupový kľúč"
+  },
+  "phone_login": {
+    "message": "Prihlásenie cez telefón"
+  },
+  "context_meun_send": {
+    "message": "Odoslať - Lynx penaženka"
+  },
+  "context_meun_receive": {
+    "message": "Prijať - Lynx peňaženka"
+  },
+  "context_meun_swap": {
+    "message": "Výmena - Peňaženka Lynx"
+  },
+  "context_meun_buy": {
+    "message": "Kúpiť - Lynx peňaženka"
+  },
+  "selected": {
+    "message": "Vybrané"
+  },
+  "search_network_or_chain": {
+    "message": "Vyhľadávanie siete alebo Chain ID"
+  },
+  "all": {
+    "message": "Všetko"
+  },
+  "mainnets": {
+    "message": "Hlavné siete"
+  },
+  "testnets": {
+    "message": "Testnety"
+  },
+  "all_networks": {
+    "message": "Všetky siete"
+  },
+  "chain_not_listed": {
+    "message": "Reťazec nie je uvedený?"
+  },
+  "oops": {
+    "message": "Ouha"
+  },
+  "oops_content": {
+    "message": "Sme si vedomí problému a náš tím na ňom pracuje. Ďakujeme za vašu trpezlivosť!"
+  },
+  "go_back": {
+    "message": "Vrátiť sa späť"
+  },
+  "saved": {
+    "message": "Uložené"
+  },
+  "let_start_celebrate": {
+    "message": "ZAČNIME OSLAVOVAŤ"
+  },
+  "view_my_assets": {
+    "message": "Zobraziť moje aktíva"
+  },
+  "received": {
+    "message": "Prijaté"
+  },
+  "sent": {
+    "message": "Odoslané"
+  },
+  "swap": {
+    "message": "Výmena"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Previesť"
+  },
+  "transaction_details": {
+    "message": "Podrobnosti transakcie"
+  },
+  "transaction_hash": {
+    "message": "Haš transakcie"
+  },
+  "status": {
+    "message": "Stav"
+  },
+  "timestamp": {
+    "message": "Časová pečiatka"
+  },
+  "from": {
+    "message": "Od"
+  },
+  "to": {
+    "message": "Na"
+  },
+  "value": {
+    "message": "Hodnota"
+  },
+  "transaction_fee": {
+    "message": "Transakčný poplatok"
+  }
+}

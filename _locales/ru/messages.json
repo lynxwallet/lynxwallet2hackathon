@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Кошелёк Lynx"
+  },
+  "extension_description": {
+    "message": "Следуй за Lynx, исследуй Web3"
+  },
+  "wallet_balance": {
+    "message": "Баланс"
+  },
+  "token_send": {
+    "message": "Отправить"
+  },
+  "token_receive": {
+    "message": "Получать"
+  },
+  "token_buy": {
+    "message": "Обмен (Покупка)"
+  },
+  "token_history": {
+    "message": "История"
+  },
+  "gas_free": {
+    "message": "Без комиссии"
+  },
+  "gas_free_sponsorship": {
+    "message": "Спонсорство"
+  },
+  "gas_free_soon": {
+    "message": "Скоро!"
+  },
+  "unknown_chain": {
+    "message": "Неизвестная цепочка #$0"
+  },
+  "manage_wallet": {
+    "message": "Управление кошельком"
+  },
+  "wallet_keys": {
+    "message": "Кошелек и Ключи"
+  },
+  "connected_dapps": {
+    "message": "Подключенные DApps"
+  },
+  "password": {
+    "message": "Пароль"
+  },
+  "theme": {
+    "message": "Тема"
+  },
+  "language": {
+    "message": "язык"
+  },
+  "about": {
+    "message": "О нас"
+  },
+  "login_out": {
+    "message": "Выйти из системы"
+  },
+  "login_out_tip": {
+    "message": "Это действие удалит ваш кошелек. Пожалуйста, убедитесь, что вы сделали резервную копию своего аккаунта, прежде чем продолжить."
+  },
+  "back_up_your_account": {
+    "message": "Сделайте резервную копию вашего аккаунта"
+  },
+  "understand_and_continue": {
+    "message": "Я понимаю, продолжайте"
+  },
+  "gas_price": {
+    "message": "Цена газа"
+  },
+  "switch_network": {
+    "message": "Переключить сеть"
+  },
+  "update": {
+    "message": "Обновить"
+  },
+  "add_network": {
+    "message": "Добавить сеть"
+  },
+  "request_from": {
+    "message": "Запрос"
+  },
+  "network": {
+    "message": "Сеть"
+  },
+  "chain_name": {
+    "message": "Имя цепи"
+  },
+  "chain_id": {
+    "message": "Идентификатор цепи"
+  },
+  "symbol": {
+    "message": "Символ"
+  },
+  "decimals": {
+    "message": "Десятичные знаки"
+  },
+  "explorer": {
+    "message": "Проводник"
+  },
+  "switch_network_tip": {
+    "message": "Вы собираетесь сменить сеть по умолчанию. Продолжайте, только если вы доверяете этой сети."
+  },
+  "update_network_tip": {
+    "message": "Это действие обновит ваши настройки сети по умолчанию. Пожалуйста, учитывайте возможные риски для безопасности."
+  },
+  "add_network_tip": {
+    "message": "Lynx не проверяет пользовательские сети. Пожалуйста, учитывайте возможные риски."
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "confirm": {
+    "message": "Подтвердить"
+  },
+  "want_connect_wallet": {
+    "message": "Хотите подключиться к вашему кошельку"
+  },
+  "account": {
+    "message": "Аккаунт"
+  },
+  "approve_tip1": {
+    "message": "Разрешить доступ к адресу вашего кошелька, балансу и активности"
+  },
+  "approve_tip2": {
+    "message": "Разрешить отправку подтверждений транзакций"
+  },
+  "approve_tip3": {
+    "message": "Не позволяет передавать активы без вашего разрешения."
+  },
+  "connect": {
+    "message": "подключить"
+  },
+  "export_private_key": {
+    "message": "Экспортировать приватный ключ"
+  },
+  "select_network": {
+    "message": "Выбрать сеть"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "СТАРТ"
+  },
+  "back": {
+    "message": "Назад"
+  },
+  "next": {
+    "message": "Далее"
+  },
+  "enter_code": {
+    "message": "Пожалуйста, введите 6-значный пароль"
+  },
+  "enter_your_code": {
+    "message": "Пожалуйста, введите ваш пароль"
+  },
+  "enter_code_again": {
+    "message": "Пожалуйста, введите 6-значный пароль еще раз."
+  },
+  "forget_password": {
+    "message": "Забыли пароль?"
+  },
+  "forget_tip1": {
+    "message": "Lynx не хранит данные учетной записи и не может сбросить ваш пароль. Вы можете восстановить свою учетную запись, войдя в систему снова."
+  },
+  "forget_tip2": {
+    "message": "Это действие удалит учетную запись кошелька. Пожалуйста, убедитесь, что вы сохранили резервную копию своей учетной записи, прежде чем продолжить."
+  },
+  "verify_password": {
+    "message": "Проверка пароля"
+  },
+  "set_password": {
+    "message": "Установить пароль"
+  },
+  "confirm_password": {
+    "message": "Подтвердите Пароль"
+  },
+  "address": {
+    "message": "Адрес"
+  },
+  "receive_tip": {
+    "message": "Скопируйте адрес кошелька, чтобы получить средства на этот кошелек."
+  },
+  "copied": {
+    "message": "Скопировано"
+  },
+  "gas_fee": {
+    "message": "Комиссия за газ"
+  },
+  "fee_settings": {
+    "message": "Настройки комиссии"
+  },
+  "base_fee": {
+    "message": "Базовая комиссия"
+  },
+  "priority_fee": {
+    "message": "Приоритетная комиссия"
+  },
+  "gas_limit": {
+    "message": "Лимит газа"
+  },
+  "normal": {
+    "message": "Нормальный"
+  },
+  "average": {
+    "message": "Средний"
+  },
+  "fast": {
+    "message": "Быстро"
+  },
+  "website": {
+    "message": "Веб-сайт"
+  },
+  "custom": {
+    "message": "Пользовательский"
+  },
+  "transfer_request": {
+    "message": "Запрос на перевод"
+  },
+  "deploy_contract": {
+    "message": "Развертывание контракта"
+  },
+  "sender": {
+    "message": "Отправитель"
+  },
+  "amount": {
+    "message": "Сумма"
+  },
+  "simulate_transaction": {
+    "message": "Симулировать транзакцию"
+  },
+  "transaction": {
+    "message": "Транзакция"
+  },
+  "data": {
+    "message": "Данные"
+  },
+  "insufficient_token_balance": {
+    "message": "Недостаточно баланса токена"
+  },
+  "required_amount": {
+    "message": "Требуемая сумма"
+  },
+  "insufficient_token_tip": {
+    "message": "На вашем аккаунте недостаточно токенов $0 для завершения транзакции."
+  },
+  "buy": {
+    "message": "Купить"
+  },
+  "insufficient_gas_fee": {
+    "message": "Недостаточная комиссия за газ"
+  },
+  "insufficient_fee_tip": {
+    "message": "На вашем счёте недостаточно $0 для покрытия сетевой комиссии."
+  },
+  "required_fee": {
+    "message": "Требуемая комиссия"
+  },
+  "session": {
+    "message": "Сессия"
+  },
+  "disconnect_dapp": {
+    "message": "Отключить Dapp"
+  },
+  "remove_dapp": {
+    "message": "Удалить Dapp"
+  },
+  "signature_request": {
+    "message": "Запрос подписи"
+  },
+  "message": {
+    "message": "Сообщение"
+  },
+  "market_cap": {
+    "message": "Рыночная капитализация"
+  },
+  "total_supply": {
+    "message": "Общее предложение"
+  },
+  "volume_24h": {
+    "message": "Объем за 24 часа"
+  },
+  "max_supply": {
+    "message": "Максимальная эмиссия"
+  },
+  "view_on_explorer": {
+    "message": "Просмотреть в обозревателе"
+  },
+  "transactions": {
+    "message": "Транзакции"
+  },
+  "assets": {
+    "message": "Активы"
+  },
+  "tokens": {
+    "message": "Токены"
+  },
+  "balance": {
+    "message": "Баланс"
+  },
+  "email": {
+    "message": "Электронная почта"
+  },
+  "phone_number": {
+    "message": "Номер телефона"
+  },
+  "login_email_tip": {
+    "message": "Введите код подтверждения, отправленный на"
+  },
+  "resend_code": {
+    "message": "Отправьте код подтверждения повторно"
+  },
+  "verify": {
+    "message": "Проверка"
+  },
+  "create_wallet": {
+    "message": "Создайте свой первый кошелёк"
+  },
+  "sign_in": {
+    "message": "Войти"
+  },
+  "create_passkey": {
+    "message": "Создать ключ доступа"
+  },
+  "have_passkey": {
+    "message": "У меня есть ключ доступа"
+  },
+  "phone_login": {
+    "message": "Вход по номеру телефона"
+  },
+  "context_meun_send": {
+    "message": "Отправить - кошелек Lynx"
+  },
+  "context_meun_receive": {
+    "message": "Получить - кошелек Lynx"
+  },
+  "context_meun_swap": {
+    "message": "Обмен - Lynx кошелек"
+  },
+  "context_meun_buy": {
+    "message": "Купить - Lynx кошелек"
+  },
+  "selected": {
+    "message": "Выбрано"
+  },
+  "search_network_or_chain": {
+    "message": "Поиск Сети или Chain ID"
+  },
+  "all": {
+    "message": "все"
+  },
+  "mainnets": {
+    "message": "Основные сети"
+  },
+  "testnets": {
+    "message": "Тестовые сети"
+  },
+  "all_networks": {
+    "message": "Все сети"
+  },
+  "chain_not_listed": {
+    "message": "Цепочка не указана?"
+  },
+  "oops": {
+    "message": "Ой"
+  },
+  "oops_content": {
+    "message": "Мы знаем о проблеме, и наша команда занимается её решением. Спасибо за ваше терпение!"
+  },
+  "go_back": {
+    "message": "Вернуться назад"
+  },
+  "saved": {
+    "message": "Сохранено"
+  },
+  "let_start_celebrate": {
+    "message": "ДАВАЙТЕ НАЧНЕМ ПРАЗДНОВАТЬ"
+  },
+  "view_my_assets": {
+    "message": "Просмотреть Мои Активы"
+  },
+  "received": {
+    "message": "Получено"
+  },
+  "sent": {
+    "message": "Отправлено"
+  },
+  "swap": {
+    "message": "Обмен"
+  },
+  "fiat": {
+    "message": "Фиат"
+  },
+  "transfer": {
+    "message": "Перевод"
+  },
+  "transaction_details": {
+    "message": "Детали транзакции"
+  },
+  "transaction_hash": {
+    "message": "Хэш транзакции"
+  },
+  "status": {
+    "message": "Статус"
+  },
+  "timestamp": {
+    "message": "Отметка времени"
+  },
+  "from": {
+    "message": "От"
+  },
+  "to": {
+    "message": "До"
+  },
+  "value": {
+    "message": "стоимость"
+  },
+  "transaction_fee": {
+    "message": "Комиссия за транзакцию"
+  }
+}

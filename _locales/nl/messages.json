@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Volg Lynx, Ontdek Web3"
+  },
+  "wallet_balance": {
+    "message": "Balans"
+  },
+  "token_send": {
+    "message": "Sturen"
+  },
+  "token_receive": {
+    "message": "Ontvangen"
+  },
+  "token_buy": {
+    "message": "Ruilen (Kopen)"
+  },
+  "token_history": {
+    "message": "Geschiedenis"
+  },
+  "gas_free": {
+    "message": "Gasvrij"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsoring"
+  },
+  "gas_free_soon": {
+    "message": "Binnenkort!"
+  },
+  "unknown_chain": {
+    "message": "Onbekende keten #$0"
+  },
+  "manage_wallet": {
+    "message": "Beheer Portemonnee"
+  },
+  "wallet_keys": {
+    "message": "Portemonnee & Sleutels"
+  },
+  "connected_dapps": {
+    "message": "Verbonden DApps"
+  },
+  "password": {
+    "message": "Wachtwoord"
+  },
+  "theme": {
+    "message": "Thema"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "about": {
+    "message": "Over"
+  },
+  "login_out": {
+    "message": "Uitloggen"
+  },
+  "login_out_tip": {
+    "message": "Met deze actie verwijdert u uw wallet. Zorg ervoor dat u een back-up van uw account heeft gemaakt voordat u doorgaat."
+  },
+  "back_up_your_account": {
+    "message": "Maak een back-up van je account"
+  },
+  "understand_and_continue": {
+    "message": "Ik begrijp het, ga verder."
+  },
+  "gas_price": {
+    "message": "Gasprijs"
+  },
+  "switch_network": {
+    "message": "Netwerk Wijzigen"
+  },
+  "update": {
+    "message": "Bijwerken"
+  },
+  "add_network": {
+    "message": "Netwerk Toevoegen"
+  },
+  "request_from": {
+    "message": "Verzoek"
+  },
+  "network": {
+    "message": "Netwerk"
+  },
+  "chain_name": {
+    "message": "Ketennaam"
+  },
+  "chain_id": {
+    "message": "Keten-ID"
+  },
+  "symbol": {
+    "message": "Symbool"
+  },
+  "decimals": {
+    "message": "Decimalen"
+  },
+  "explorer": {
+    "message": "Verkenner"
+  },
+  "switch_network_tip": {
+    "message": "Je staat op het punt je standaardnetwerk te wijzigen. Ga alleen verder als je dit netwerk vertrouwt."
+  },
+  "update_network_tip": {
+    "message": "Deze actie zal je standaard netwerkinstellingen bijwerken. Wees je bewust van mogelijke veiligheidsrisico's."
+  },
+  "add_network_tip": {
+    "message": "Lynx verifieert geen aangepaste netwerken. Wees je bewust van mogelijke risico's."
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "confirm": {
+    "message": "Bevestigen"
+  },
+  "want_connect_wallet": {
+    "message": "Wil verbinding maken met je wallet"
+  },
+  "account": {
+    "message": "Account"
+  },
+  "approve_tip1": {
+    "message": "Sta toegang toe tot je wallet adres, balans en activiteit."
+  },
+  "approve_tip2": {
+    "message": "Sta toestemming toe om transactiegoedkeuringen te verzenden"
+  },
+  "approve_tip3": {
+    "message": "Staat niet toe activa over te dragen zonder jouw toestemming"
+  },
+  "connect": {
+    "message": "verbinden"
+  },
+  "export_private_key": {
+    "message": "Exporteer Privé Sleutel"
+  },
+  "select_network": {
+    "message": "Selecteer netwerk"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "BEGIN"
+  },
+  "back": {
+    "message": "Terug"
+  },
+  "next": {
+    "message": "Volgende"
+  },
+  "enter_code": {
+    "message": "Voer het 6-cijferige wachtwoord in"
+  },
+  "enter_your_code": {
+    "message": "Voer uw wachtwoord in"
+  },
+  "enter_code_again": {
+    "message": "Voer opnieuw het 6-cijferige wachtwoord in"
+  },
+  "forget_password": {
+    "message": "Wachtwoord vergeten?"
+  },
+  "forget_tip1": {
+    "message": "Lynx slaat geen accountgegevens op en kan uw wachtwoord niet resetten. U kunt uw account herstellen door opnieuw in te loggen."
+  },
+  "forget_tip2": {
+    "message": "Deze actie zal het wallet-account verwijderen. Zorg ervoor dat je je account hebt geback-upt voordat je verder gaat."
+  },
+  "verify_password": {
+    "message": "Wachtwoord Verifiëren"
+  },
+  "set_password": {
+    "message": "Wachtwoord instellen"
+  },
+  "confirm_password": {
+    "message": "Bevestig Wachtwoord"
+  },
+  "address": {
+    "message": "Adres"
+  },
+  "receive_tip": {
+    "message": "Kopieer het wallet-adres om fondsen in deze wallet te ontvangen."
+  },
+  "copied": {
+    "message": "Gekopieerd"
+  },
+  "gas_fee": {
+    "message": "Gas-kosten"
+  },
+  "fee_settings": {
+    "message": "Kosteninstellingen"
+  },
+  "base_fee": {
+    "message": "Basistarief"
+  },
+  "priority_fee": {
+    "message": "Prioriteitsvergoeding"
+  },
+  "gas_limit": {
+    "message": "Gaslimiet"
+  },
+  "normal": {
+    "message": "Normaal"
+  },
+  "average": {
+    "message": "Gemiddeld"
+  },
+  "fast": {
+    "message": "Snel"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "Aangepast"
+  },
+  "transfer_request": {
+    "message": "Overboekingsverzoek"
+  },
+  "deploy_contract": {
+    "message": "Slimp contract"
+  },
+  "sender": {
+    "message": "Verzender"
+  },
+  "amount": {
+    "message": "Bedrag"
+  },
+  "simulate_transaction": {
+    "message": "Transactie simuleren"
+  },
+  "transaction": {
+    "message": "Transactie"
+  },
+  "data": {
+    "message": "Gegevens"
+  },
+  "insufficient_token_balance": {
+    "message": "Onvoldoende tokenbalans"
+  },
+  "required_amount": {
+    "message": "Vereist Bedrag"
+  },
+  "insufficient_token_tip": {
+    "message": "Uw account heeft niet genoeg $0 tokens om de transactie te voltooien."
+  },
+  "buy": {
+    "message": "Kopen"
+  },
+  "insufficient_gas_fee": {
+    "message": "Onvoldoende gaskosten"
+  },
+  "insufficient_fee_tip": {
+    "message": "Uw account heeft niet genoeg $0 om de netwerkvergoeding te dekken."
+  },
+  "required_fee": {
+    "message": "Vereiste vergoeding"
+  },
+  "session": {
+    "message": "Sessie"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp loskoppelen"
+  },
+  "remove_dapp": {
+    "message": "Verwijder Dapp"
+  },
+  "signature_request": {
+    "message": "Handtekening Verzoek"
+  },
+  "message": {
+    "message": "Bericht"
+  },
+  "market_cap": {
+    "message": "Marktkapitalisatie"
+  },
+  "total_supply": {
+    "message": "Totale voorraad"
+  },
+  "volume_24h": {
+    "message": "Volume 24u"
+  },
+  "max_supply": {
+    "message": "Maximale voorraad"
+  },
+  "view_on_explorer": {
+    "message": "Bekijken op Explorer"
+  },
+  "transactions": {
+    "message": "Transacties"
+  },
+  "assets": {
+    "message": "Activa"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Balans"
+  },
+  "email": {
+    "message": "E-mailadres"
+  },
+  "phone_number": {
+    "message": "Telefoonnummer"
+  },
+  "login_email_tip": {
+    "message": "Voer de verificatiecode in die is verzonden naar"
+  },
+  "resend_code": {
+    "message": "Verificatiecode opnieuw verzenden"
+  },
+  "verify": {
+    "message": "Verifiëren"
+  },
+  "create_wallet": {
+    "message": "Maak je eerste wallet aan"
+  },
+  "sign_in": {
+    "message": "Inloggen"
+  },
+  "create_passkey": {
+    "message": "Maak een toegangssleutel aan"
+  },
+  "have_passkey": {
+    "message": "Ik heb een toegangssleutel"
+  },
+  "phone_login": {
+    "message": "Telefoonlogin"
+  },
+  "context_meun_send": {
+    "message": "Versturen - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Ontvangen - Lynx-portemonnee"
+  },
+  "context_meun_swap": {
+    "message": "Ruilen - Lynx portemonnee"
+  },
+  "context_meun_buy": {
+    "message": "Kopen - Lynx wallet"
+  },
+  "selected": {
+    "message": "Geselecteerd"
+  },
+  "search_network_or_chain": {
+    "message": "Zoek Netwerk of Chain ID"
+  },
+  "all": {
+    "message": "Alle"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "Alle Netwerken"
+  },
+  "chain_not_listed": {
+    "message": "Keten niet vermeld?"
+  },
+  "oops": {
+    "message": "Oeps"
+  },
+  "oops_content": {
+    "message": "We zijn op de hoogte van het probleem en ons team is ermee bezig. Bedankt voor je geduld!"
+  },
+  "go_back": {
+    "message": "Ga terug"
+  },
+  "saved": {
+    "message": "Opgeslagen"
+  },
+  "let_start_celebrate": {
+    "message": "Laten we beginnen met vieren"
+  },
+  "view_my_assets": {
+    "message": "Bekijk mijn activa"
+  },
+  "received": {
+    "message": "Ontvangen"
+  },
+  "sent": {
+    "message": "Verzonden"
+  },
+  "swap": {
+    "message": "Wisselen"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Overboeking"
+  },
+  "transaction_details": {
+    "message": "Transactiegegevens"
+  },
+  "transaction_hash": {
+    "message": "Transactiehash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Tijdstempel"
+  },
+  "from": {
+    "message": "Van"
+  },
+  "to": {
+    "message": "naar"
+  },
+  "value": {
+    "message": "Waarde"
+  },
+  "transaction_fee": {
+    "message": "Transactiekosten"
+  }
+}

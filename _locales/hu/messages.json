@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Pénztárca"
+  },
+  "extension_description": {
+    "message": "Kövesd a Lynxet, fedezd fel a Web3-at"
+  },
+  "wallet_balance": {
+    "message": "Egyenleg"
+  },
+  "token_send": {
+    "message": "Küld"
+  },
+  "token_receive": {
+    "message": "Fogadás"
+  },
+  "token_buy": {
+    "message": "Csere (Vásárlás)"
+  },
+  "token_history": {
+    "message": "Történelem"
+  },
+  "gas_free": {
+    "message": "Gázmentes"
+  },
+  "gas_free_sponsorship": {
+    "message": "Szponzorálás"
+  },
+  "gas_free_soon": {
+    "message": "Hamarosan!"
+  },
+  "unknown_chain": {
+    "message": "Ismeretlen lánc #$0"
+  },
+  "manage_wallet": {
+    "message": "Tárca kezelése"
+  },
+  "wallet_keys": {
+    "message": "Pénztárca és Kulcsok"
+  },
+  "connected_dapps": {
+    "message": "Csatlakoztatott DAppok"
+  },
+  "password": {
+    "message": "Jelszó"
+  },
+  "theme": {
+    "message": "Téma"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "about": {
+    "message": "Ról"
+  },
+  "login_out": {
+    "message": "Kijelentkezés"
+  },
+  "login_out_tip": {
+    "message": "Ez a művelet törli a tárcádat. Kérjük, győződj meg róla, hogy készítettél biztonsági mentést a fiókodat, mielőtt folytatnád."
+  },
+  "back_up_your_account": {
+    "message": "Készíts biztonsági másolatot a fiókodból"
+  },
+  "understand_and_continue": {
+    "message": "Értem, folytasd"
+  },
+  "gas_price": {
+    "message": "Gázár"
+  },
+  "switch_network": {
+    "message": "Hálózat váltása"
+  },
+  "update": {
+    "message": "Frissítés"
+  },
+  "add_network": {
+    "message": "Hálózat hozzáadása"
+  },
+  "request_from": {
+    "message": "Kérés"
+  },
+  "network": {
+    "message": "Hálózat"
+  },
+  "chain_name": {
+    "message": "Lánc Neve"
+  },
+  "chain_id": {
+    "message": "Láncid"
+  },
+  "symbol": {
+    "message": "Szimbólum"
+  },
+  "decimals": {
+    "message": "Tizedesek"
+  },
+  "explorer": {
+    "message": "Felfedező"
+  },
+  "switch_network_tip": {
+    "message": "Most változtatni készül az alapértelmezett hálózatán. Csak akkor folytassa, ha megbízik ebben a hálózatban."
+  },
+  "update_network_tip": {
+    "message": "Ez a művelet frissíti az alapértelmezett hálózati beállításokat. Kérjük, legyen tisztában a lehetséges biztonsági kockázatokkal."
+  },
+  "add_network_tip": {
+    "message": "A Lynx nem ellenőrzi az egyedi hálózatokat. Kérjük, vegye figyelembe az esetleges kockázatokat."
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "confirm": {
+    "message": "Megerősít"
+  },
+  "want_connect_wallet": {
+    "message": "Szeretne csatlakozni a tárcádhoz"
+  },
+  "account": {
+    "message": "Fiók"
+  },
+  "approve_tip1": {
+    "message": "Engedélyezze a hozzáférést a tárcacíméhez, az egyenlegéhez és a tevékenységéhez"
+  },
+  "approve_tip2": {
+    "message": "Engedélyezze a tranzakciójóváhagyások küldését"
+  },
+  "approve_tip3": {
+    "message": "Nem engedélyezi az eszközök átruházását az engedélyed nélkül"
+  },
+  "connect": {
+    "message": "csatlakozás"
+  },
+  "export_private_key": {
+    "message": "Privát kulcs exportálása"
+  },
+  "select_network": {
+    "message": "Hálózat kiválasztása"
+  },
+  "nfts": {
+    "message": "NFT-k"
+  },
+  "start": {
+    "message": "INDÍTÁS"
+  },
+  "back": {
+    "message": "Vissza"
+  },
+  "next": {
+    "message": "Következő"
+  },
+  "enter_code": {
+    "message": "Kérjük, adja meg a 6 számjegyből álló jelszót"
+  },
+  "enter_your_code": {
+    "message": "Kérjük, adja meg a jelszavát"
+  },
+  "enter_code_again": {
+    "message": "Kérjük, írja be újra a 6 számjegyű jelszót"
+  },
+  "forget_password": {
+    "message": "Elfelejtetted a jelszavad?"
+  },
+  "forget_tip1": {
+    "message": "A Lynx nem tárolja a fiókadatait, és nem tudja visszaállítani a jelszavát. Újra bejelentkezve visszaállíthatja fiókját."
+  },
+  "forget_tip2": {
+    "message": "Ez a művelet törli a tárcaszámlát. Kérjük, győződjön meg róla, hogy biztonsági másolatot készített a fiókjáról, mielőtt folytatná."
+  },
+  "verify_password": {
+    "message": "Jelszó megerősítése"
+  },
+  "set_password": {
+    "message": "Jelszó beállítása"
+  },
+  "confirm_password": {
+    "message": "Jelszó megerősítése"
+  },
+  "address": {
+    "message": "Cím"
+  },
+  "receive_tip": {
+    "message": "Másold ki a tárca címét, hogy ebbe a tárcába fogadhass pénzeszközöket."
+  },
+  "copied": {
+    "message": "Másolt"
+  },
+  "gas_fee": {
+    "message": "Gázdíj"
+  },
+  "fee_settings": {
+    "message": "Díjbeállítások"
+  },
+  "base_fee": {
+    "message": "Alapdíj"
+  },
+  "priority_fee": {
+    "message": "Prioritási díj"
+  },
+  "gas_limit": {
+    "message": "Gázlimit"
+  },
+  "normal": {
+    "message": "Normál"
+  },
+  "average": {
+    "message": "Átlagos"
+  },
+  "fast": {
+    "message": "Gyors"
+  },
+  "website": {
+    "message": "Weboldal"
+  },
+  "custom": {
+    "message": "Egyedi"
+  },
+  "transfer_request": {
+    "message": "Átutalási kérelem"
+  },
+  "deploy_contract": {
+    "message": "Szerződés telepítése"
+  },
+  "sender": {
+    "message": "Feladó"
+  },
+  "amount": {
+    "message": "Összeg"
+  },
+  "simulate_transaction": {
+    "message": "Tranzakció szimulálása"
+  },
+  "transaction": {
+    "message": "Tranzakció"
+  },
+  "data": {
+    "message": "Adat"
+  },
+  "insufficient_token_balance": {
+    "message": "Elégtelen token-egyenleg"
+  },
+  "required_amount": {
+    "message": "Szükséges összeg"
+  },
+  "insufficient_token_tip": {
+    "message": "A fiókjában nincs elegendő $0 token a tranzakció végrehajtásához."
+  },
+  "buy": {
+    "message": "Vásárlás"
+  },
+  "insufficient_gas_fee": {
+    "message": "Elégtelen gázdíj"
+  },
+  "insufficient_fee_tip": {
+    "message": "A fiókodban nincs elegendő $0 a hálózati díj fedezésére."
+  },
+  "required_fee": {
+    "message": "Szükséges díj"
+  },
+  "session": {
+    "message": "Munkamenet"
+  },
+  "disconnect_dapp": {
+    "message": "Leválaszt Dapp"
+  },
+  "remove_dapp": {
+    "message": "Távolítsa el a Dappot"
+  },
+  "signature_request": {
+    "message": "Aláírási kérelem"
+  },
+  "message": {
+    "message": "Üzenet"
+  },
+  "market_cap": {
+    "message": "Piaci kapitalizáció"
+  },
+  "total_supply": {
+    "message": "Teljes kínálat"
+  },
+  "volume_24h": {
+    "message": "24 órás kereskedési mennyiség"
+  },
+  "max_supply": {
+    "message": "Maximális kínálat"
+  },
+  "view_on_explorer": {
+    "message": "Megtekintés Explorer-ben"
+  },
+  "transactions": {
+    "message": "Tranzakciók"
+  },
+  "assets": {
+    "message": "Eszközök"
+  },
+  "tokens": {
+    "message": "Tokenek"
+  },
+  "balance": {
+    "message": "Egyenleg"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "phone_number": {
+    "message": "Telefonszám"
+  },
+  "login_email_tip": {
+    "message": "Adja meg az elküldött ellenőrző kódot:"
+  },
+  "resend_code": {
+    "message": "Ellenőrző kód újraküldése"
+  },
+  "verify": {
+    "message": "Ellenőrzés"
+  },
+  "create_wallet": {
+    "message": "Hozd létre az első tárcádat"
+  },
+  "sign_in": {
+    "message": "Bejelentkezés"
+  },
+  "create_passkey": {
+    "message": "Hozzon létre egy belépőkódot"
+  },
+  "have_passkey": {
+    "message": "Van egy jelszavam"
+  },
+  "phone_login": {
+    "message": "Bejelentkezés telefonszámmal"
+  },
+  "context_meun_send": {
+    "message": "Küldés - Lynx tárca"
+  },
+  "context_meun_receive": {
+    "message": "Fogadás - Lynx pénztárca"
+  },
+  "context_meun_swap": {
+    "message": "Csere - Lynx tárca"
+  },
+  "context_meun_buy": {
+    "message": "Vásárlás - Lynx pénztárca"
+  },
+  "selected": {
+    "message": "Kiválasztva"
+  },
+  "search_network_or_chain": {
+    "message": "Keresési hálózat vagy láncazonosító"
+  },
+  "all": {
+    "message": "Összes"
+  },
+  "mainnets": {
+    "message": "Főhálózatok"
+  },
+  "testnets": {
+    "message": "Teszt-hálózatok"
+  },
+  "all_networks": {
+    "message": "Minden hálózat"
+  },
+  "chain_not_listed": {
+    "message": "A lánc nincs listázva?"
+  },
+  "oops": {
+    "message": "Hoppá"
+  },
+  "oops_content": {
+    "message": "Tisztában vagyunk a problémával, és a csapatunk dolgozik rajta. Köszönjük a türelmét!"
+  },
+  "go_back": {
+    "message": "Menj vissza"
+  },
+  "saved": {
+    "message": "Mentve"
+  },
+  "let_start_celebrate": {
+    "message": "KEZDJÜK A ÜNNEPLÉST"
+  },
+  "view_my_assets": {
+    "message": "Tekintse meg eszközeimet"
+  },
+  "received": {
+    "message": "Kapott"
+  },
+  "sent": {
+    "message": "Küldve"
+  },
+  "swap": {
+    "message": "Csere"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Átutalás"
+  },
+  "transaction_details": {
+    "message": "Tranzakció részletei"
+  },
+  "transaction_hash": {
+    "message": "Tranzakció hash"
+  },
+  "status": {
+    "message": "Állapot"
+  },
+  "timestamp": {
+    "message": "Időbélyeg"
+  },
+  "from": {
+    "message": "Tól"
+  },
+  "to": {
+    "message": "-hoz"
+  },
+  "value": {
+    "message": "Érték"
+  },
+  "transaction_fee": {
+    "message": "Tranzakciós díj"
+  }
+}

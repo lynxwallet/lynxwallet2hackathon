@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx વોલેટ"
+  },
+  "extension_description": {
+    "message": "Lynx ને અનુસરો, Web3 ને શોધો"
+  },
+  "wallet_balance": {
+    "message": "બેલન્સ"
+  },
+  "token_send": {
+    "message": "મોકલી વધુ "
+  },
+  "token_receive": {
+    "message": "પ્રાપ્ત કરો"
+  },
+  "token_buy": {
+    "message": "સ્વાપ્ત (ખરીદી)"
+  },
+  "token_history": {
+    "message": "ઇતિહાસ"
+  },
+  "gas_free": {
+    "message": "ગૅસ-ફ્રી"
+  },
+  "gas_free_sponsorship": {
+    "message": "પ્રાયોજકત્વ"
+  },
+  "gas_free_soon": {
+    "message": "જલ્દી!"
+  },
+  "unknown_chain": {
+    "message": "અજ્ઞાત ચેઇન #$0"
+  },
+  "manage_wallet": {
+    "message": "વૉલેટ મેનેજ કરો"
+  },
+  "wallet_keys": {
+    "message": "વletલેટ અને કીઝ"
+  },
+  "connected_dapps": {
+    "message": "કનેક્ટ થયેલ DApps"
+  },
+  "password": {
+    "message": "પાસવર્ડ"
+  },
+  "theme": {
+    "message": "থিম"
+  },
+  "language": {
+    "message": "ભાષા"
+  },
+  "about": {
+    "message": "વિશે"
+  },
+  "login_out": {
+    "message": "લૉગ આઉટ"
+  },
+  "login_out_tip": {
+    "message": "આ ક્રિયા તમારી વૉલેટ કાઢી શકશે. કૃપા કરીને આગળ વધતા પહેલાં ખાતરી કરી લો કે તમે તમારું ખાતું બેકઅપ કર્યું છે."
+  },
+  "back_up_your_account": {
+    "message": "તમારું એકાઉન્ટ બેકઅપ કરો"
+  },
+  "understand_and_continue": {
+    "message": "હું સમજી ગયો, ચાલુ રાખો"
+  },
+  "gas_price": {
+    "message": "ગેસ કિંમત"
+  },
+  "switch_network": {
+    "message": "નેટવર્ક બદલો"
+  },
+  "update": {
+    "message": "અપડેટ"
+  },
+  "add_network": {
+    "message": "નેટવર્ક ઉમેરો"
+  },
+  "request_from": {
+    "message": "વિનંતી"
+  },
+  "network": {
+    "message": "નેટવર્ક"
+  },
+  "chain_name": {
+    "message": "ચેઇન નામ"
+  },
+  "chain_id": {
+    "message": "ચેઇન આઈડી"
+  },
+  "symbol": {
+    "message": "પ્રતિક"
+  },
+  "decimals": {
+    "message": "દશાંશ"
+  },
+  "explorer": {
+    "message": "ઍક્સપ્લોરર"
+  },
+  "switch_network_tip": {
+    "message": "તમે તમારા ડિફોલ્ટ નેટવર્કને બદલી રહ્યા છો. માત્ર ત્યારે જ આગળ વધો જો તમને આ નેટવર્ક પર ભરોસો હોય."
+  },
+  "update_network_tip": {
+    "message": "આ ક્રિયાથી તમારા ડિફોલ્ટ નેટવર્ક સેટિંગ્સ અપડેટ થશે. કૃપા કરીને સંભવિત સુરક્ષા જોખમોની જાણ કરવી."
+  },
+  "add_network_tip": {
+    "message": "Lynx કસ્ટમ નેટવર્ક્સની ચકાસણી કરતું નથી. દેશી બંધારણને આધુનિક બનાવવામાં ખર્ચ વિશેષ પરિસ્થિતિઓને વધુ એકાગ્ર દ્રષ્ટિએ જોવું જોઈએ."
+  },
+  "cancel": {
+    "message": "રદ કરો"
+  },
+  "confirm": {
+    "message": "ખાતરી કરો"
+  },
+  "want_connect_wallet": {
+    "message": "તમારા વૉલેટ સાથે કનેક્ટ કરવા માગે છે"
+  },
+  "account": {
+    "message": "ખાતા"
+  },
+  "approve_tip1": {
+    "message": "આપના વોલેટ ઍડ્રેસ, બૅલેન્સ, અને પ્રવૃત્તિને પ્રવેશની અનુમતિ આપો"
+  },
+  "approve_tip2": {
+    "message": "લેણદેનો મંજૂરીને મોકલવા માટે મંજૂરી આપો"
+  },
+  "approve_tip3": {
+    "message": "તમારી પરવાનગી વિના એસેટ્સ ટ્રાન્સફર કરવાની મંજૂરી આપતું નથી"
+  },
+  "connect": {
+    "message": "કનેક્ટ"
+  },
+  "export_private_key": {
+    "message": "પ્રાયવેટ કી નિકાસ કરો"
+  },
+  "select_network": {
+    "message": "નેટવર્ક પસંદ કરો"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "શરૂઆત"
+  },
+  "back": {
+    "message": "પાછા"
+  },
+  "next": {
+    "message": "આગળ"
+  },
+  "enter_code": {
+    "message": "કૃપા કરીને 6-આંકડાનો પાસવર્ડ દાખલ કરો"
+  },
+  "enter_your_code": {
+    "message": "કૃપા કરીને તમારો પાસવર્ડ દાખલ કરો"
+  },
+  "enter_code_again": {
+    "message": "કૃપા કરીને 6-અંકનો પાસવર્ડ ફરીથી દાખલ કરો"
+  },
+  "forget_password": {
+    "message": "તમારો પાસવર્ડ ભૂલી ગયા?"
+  },
+  "forget_tip1": {
+    "message": "Lynx એકાઉન્ટ ડેટા സംഭાળતું નથી અને તમારો પાસવર્ડ રીસેટ કરી શકતું નથી. તમે ફરીથી સાઇન ઇન કરીને તમારું એકાઉન્ટ પુનઃસ્થાપિત કરી શકો છો."
+  },
+  "forget_tip2": {
+    "message": "આ ક્રિયા વૉલેટ ખાતાંને કાઢી નાંખશે, કૃપા કરીને આગળ વધતા પહેલા ખાતું બેકઅપ કરી લેવા ખાત્રી કરો."
+  },
+  "verify_password": {
+    "message": "પાસવર્ડ ચકાસો"
+  },
+  "set_password": {
+    "message": "પાસવર્ડ સેટ કરો"
+  },
+  "confirm_password": {
+    "message": "પાસવર્ડ ખાતરી કરો"
+  },
+  "address": {
+    "message": "સરનામું"
+  },
+  "receive_tip": {
+    "message": "આ વૉલેટમાં નાણાં પ્રાપ્ત કરવાના માટે વૉલેટ સરનામું કૉપિ કરો"
+  },
+  "copied": {
+    "message": "કોપી કરાયું"
+  },
+  "gas_fee": {
+    "message": "ગેસ ફી"
+  },
+  "fee_settings": {
+    "message": "ફી સેટિંગ્સ"
+  },
+  "base_fee": {
+    "message": "મૂળ ફી"
+  },
+  "priority_fee": {
+    "message": "પ્રાથમિકતા ફી"
+  },
+  "gas_limit": {
+    "message": "ગેસ મર્યાદા"
+  },
+  "normal": {
+    "message": "સામાન્ય"
+  },
+  "average": {
+    "message": "સરેરાશ"
+  },
+  "fast": {
+    "message": "ઝડપી"
+  },
+  "website": {
+    "message": "વેબસાઇટ"
+  },
+  "custom": {
+    "message": "કસ્ટમ"
+  },
+  "transfer_request": {
+    "message": "ટ્રાન્સફર વિનંતી"
+  },
+  "deploy_contract": {
+    "message": "કોન્ટ્રાક્ટ તૈનાત કરો"
+  },
+  "sender": {
+    "message": "પ્રેરક"
+  },
+  "amount": {
+    "message": "રકમ"
+  },
+  "simulate_transaction": {
+    "message": "વ્યાપારનું અનુકરણ "
+  },
+  "transaction": {
+    "message": "ટ્રાન્ઝેક્શન"
+  },
+  "data": {
+    "message": "ડેટા"
+  },
+  "insufficient_token_balance": {
+    "message": "ટોકન બેલેન્સ અપર્યાપ્ત"
+  },
+  "required_amount": {
+    "message": "આવશ્યક રકમ"
+  },
+  "insufficient_token_tip": {
+    "message": "તમારા ખાતામાં ટ્રાન્ઝેક્શન પૂર્ણ કરવા પૂરતા $0 ટોકન્સ નથી."
+  },
+  "buy": {
+    "message": "ખરીદ્દે"
+  },
+  "insufficient_gas_fee": {
+    "message": "અપૂરતા ગેસ ફી"
+  },
+  "insufficient_fee_tip": {
+    "message": "તમારા ખાતામાં નેટવર્ક ફી કવર કરવા માટે પૂરતો $0 નથી."
+  },
+  "required_fee": {
+    "message": "આવશ્યક ફી"
+  },
+  "session": {
+    "message": "સેષન"
+  },
+  "disconnect_dapp": {
+    "message": "ડેપને ડિસકનેક્ટ કરો"
+  },
+  "remove_dapp": {
+    "message": "Dapp દૂર કરો"
+  },
+  "signature_request": {
+    "message": "સહી વિનંતી"
+  },
+  "message": {
+    "message": "સંદેશ"
+  },
+  "market_cap": {
+    "message": "બજાર મૂડટર"
+  },
+  "total_supply": {
+    "message": "કુલ પુરવઠો"
+  },
+  "volume_24h": {
+    "message": "24 કલાકનો વોલ્યૂમ"
+  },
+  "max_supply": {
+    "message": "મહત્તમ પુરવઠો"
+  },
+  "view_on_explorer": {
+    "message": "એક્સપ્લોરર પર જુઓ"
+  },
+  "transactions": {
+    "message": "વ્યવહાર"
+  },
+  "assets": {
+    "message": "મૂડી"
+  },
+  "tokens": {
+    "message": "ટોકન્સ"
+  },
+  "balance": {
+    "message": "બેલેન્સ"
+  },
+  "email": {
+    "message": "ઇમેઈલ"
+  },
+  "phone_number": {
+    "message": "ફોન નંબર"
+  },
+  "login_email_tip": {
+    "message": "દાખલ કરો ચકાસણી કોડ મોકલેલ છે"
+  },
+  "resend_code": {
+    "message": "િયથારતીકરણ કોડ પુનઃમોકલવો"
+  },
+  "verify": {
+    "message": "ખાતરી કરો"
+  },
+  "create_wallet": {
+    "message": "તમારું પહેલું વૉલેટ બનાવો"
+  },
+  "sign_in": {
+    "message": "સાઇન ઇન "
+  },
+  "create_passkey": {
+    "message": "પાસકી બનાવો"
+  },
+  "have_passkey": {
+    "message": "મારા પાસે એક Passkey છે"
+  },
+  "phone_login": {
+    "message": "ફોન લૉગિન"
+  },
+  "context_meun_send": {
+    "message": "મોકલો - Lynx વોલેટ"
+  },
+  "context_meun_receive": {
+    "message": "પ્રાપ્ત કરો - Lynx વૉલેટ"
+  },
+  "context_meun_swap": {
+    "message": "સ્વેપ - Lynx વૉલેટ"
+  },
+  "context_meun_buy": {
+    "message": "ખરીદો - Lynx વૉલેટ"
+  },
+  "selected": {
+    "message": "પસંદ કરેલ"
+  },
+  "search_network_or_chain": {
+    "message": "ನೆಟ್‌ವರ್ಕ್ ಅಥವಾ ಚೈನ್ ಐಡಿ ಹುಡುಕಿ"
+  },
+  "all": {
+    "message": "બધા"
+  },
+  "mainnets": {
+    "message": "મેઇનનેટ્સ"
+  },
+  "testnets": {
+    "message": "ટેસ્ટનેટ્સ"
+  },
+  "all_networks": {
+    "message": "બધા નેટવર્ક્સ"
+  },
+  "chain_not_listed": {
+    "message": "ચેઇન સૂચિબદ્ધ નથી?"
+  },
+  "oops": {
+    "message": "અફસોસ"
+  },
+  "oops_content": {
+    "message": "અમને સમસ્યાની જાણ છે અને અમારી ટીમ તેનો સંવાદ કરી રહી છે. તમારા ધીરજ બદલ આભાર!"
+  },
+  "go_back": {
+    "message": "પરત જાવ"
+  },
+  "saved": {
+    "message": "સાચવ્યું"
+  },
+  "let_start_celebrate": {
+    "message": "ચાલો ઉજવણીનો પ્રારંભ કરીએ"
+  },
+  "view_my_assets": {
+    "message": "મારા સંપત્તિ જુઓ"
+  },
+  "received": {
+    "message": "પ્રાપ્ત\n"
+  },
+  "sent": {
+    "message": "મોકલાયું"
+  },
+  "swap": {
+    "message": "બદલો"
+  },
+  "fiat": {
+    "message": "ફિયાટ"
+  },
+  "transfer": {
+    "message": "ટ્રાન્સફર"
+  },
+  "transaction_details": {
+    "message": "ટ્રાન્ઝેક્શન વિગતો"
+  },
+  "transaction_hash": {
+    "message": "ટ્રાન્ઝેક્શન હેશ"
+  },
+  "status": {
+    "message": "સ્થિતિ"
+  },
+  "timestamp": {
+    "message": "ટાઇમસ્ટેમ્પ"
+  },
+  "from": {
+    "message": "થી"
+  },
+  "to": {
+    "message": "ને"
+  },
+  "value": {
+    "message": "મુલ્ય"
+  },
+  "transaction_fee": {
+    "message": "લેણદેણ ફી"
+  }
+}

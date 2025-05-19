@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Følg Lynx, udforsk Web3"
+  },
+  "wallet_balance": {
+    "message": "Saldo"
+  },
+  "token_send": {
+    "message": "Sende"
+  },
+  "token_receive": {
+    "message": "Modtage"
+  },
+  "token_buy": {
+    "message": "Byt (Køb)"
+  },
+  "token_history": {
+    "message": "Historik"
+  },
+  "gas_free": {
+    "message": "Gasfri"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsoraftale"
+  },
+  "gas_free_soon": {
+    "message": "Snart!"
+  },
+  "unknown_chain": {
+    "message": "Ukendt kæde #$0"
+  },
+  "manage_wallet": {
+    "message": "Administrer Wallet"
+  },
+  "wallet_keys": {
+    "message": "Tegnebog & Nøgler"
+  },
+  "connected_dapps": {
+    "message": "Forbundne DApps"
+  },
+  "password": {
+    "message": "Adgangskode"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Sprog"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "login_out": {
+    "message": "Log ud"
+  },
+  "login_out_tip": {
+    "message": "Denne handling vil slette din wallet. Sørg for, at du har sikkerhedskopieret din konto, før du fortsætter."
+  },
+  "back_up_your_account": {
+    "message": "Sikkerhedskopier din konto"
+  },
+  "understand_and_continue": {
+    "message": "Jeg forstår, fortsæt"
+  },
+  "gas_price": {
+    "message": "Gaspris"
+  },
+  "switch_network": {
+    "message": "Skift netværk"
+  },
+  "update": {
+    "message": "Opdater"
+  },
+  "add_network": {
+    "message": "Tilføj Netværk"
+  },
+  "request_from": {
+    "message": "Anmodning"
+  },
+  "network": {
+    "message": "Netværk"
+  },
+  "chain_name": {
+    "message": "Kædenavn"
+  },
+  "chain_id": {
+    "message": "Kæde Id"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Decimaler"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "Du er ved at ændre dit standardnetværk. Fortsæt kun, hvis du har tillid til dette netværk."
+  },
+  "update_network_tip": {
+    "message": "Denne handling vil opdatere dine standard netværksindstillinger. Vær opmærksom på mulige sikkerhedsrisici."
+  },
+  "add_network_tip": {
+    "message": "Lynx verificerer ikke brugerdefinerede netværk. Vær opmærksom på potentielle risici."
+  },
+  "cancel": {
+    "message": "Annuller"
+  },
+  "confirm": {
+    "message": "Bekræft"
+  },
+  "want_connect_wallet": {
+    "message": "Ønsker at forbinde til din wallet"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "approve_tip1": {
+    "message": "Tillad adgang til din wallet-adresse, balance og aktivitet"
+  },
+  "approve_tip2": {
+    "message": "Tilladelse til at sende transaktionsgodkendelser"
+  },
+  "approve_tip3": {
+    "message": "Tillader ikke overførsel af aktiver uden din tilladelse"
+  },
+  "connect": {
+    "message": "forbinde"
+  },
+  "export_private_key": {
+    "message": "Eksporter Privat Nøgle"
+  },
+  "select_network": {
+    "message": "Vælg Netværk"
+  },
+  "nfts": {
+    "message": "NFT'er"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Tilbage"
+  },
+  "next": {
+    "message": "Næste"
+  },
+  "enter_code": {
+    "message": "Indtast den 6-cifrede adgangskode"
+  },
+  "enter_your_code": {
+    "message": "Indtast venligst din adgangskode"
+  },
+  "enter_code_again": {
+    "message": "Indtast venligst den 6-cifrede adgangskode igen"
+  },
+  "forget_password": {
+    "message": "Glemt din adgangskode?"
+  },
+  "forget_tip1": {
+    "message": "Lynx gemmer ikke kontooplysninger og kan ikke nulstille din adgangskode. Du kan gendanne din konto ved at logge ind igen."
+  },
+  "forget_tip2": {
+    "message": "Denne handling vil slette din tegnebogskonto. Sørg for, at du har sikkerhedskopieret din konto, inden du fortsætter."
+  },
+  "verify_password": {
+    "message": "Bekræft adgangskode"
+  },
+  "set_password": {
+    "message": "Indstil adgangskode"
+  },
+  "confirm_password": {
+    "message": "Bekræft adgangskode"
+  },
+  "address": {
+    "message": "Adresse"
+  },
+  "receive_tip": {
+    "message": "Kopiér tegnebogadressen for at modtage midler i denne tegnebog"
+  },
+  "copied": {
+    "message": "Kopieret"
+  },
+  "gas_fee": {
+    "message": "Gasgebyr"
+  },
+  "fee_settings": {
+    "message": "Gebyrindstillinger"
+  },
+  "base_fee": {
+    "message": "Basisgebyr"
+  },
+  "priority_fee": {
+    "message": "Prioritetsgebyr"
+  },
+  "gas_limit": {
+    "message": "Gas-grænse"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Gennemsnit"
+  },
+  "fast": {
+    "message": "Hurtig"
+  },
+  "website": {
+    "message": "Websted"
+  },
+  "custom": {
+    "message": "Brugerdefineret"
+  },
+  "transfer_request": {
+    "message": "Overførselsanmodning"
+  },
+  "deploy_contract": {
+    "message": "Udrul kontrakt"
+  },
+  "sender": {
+    "message": "Afsender"
+  },
+  "amount": {
+    "message": "Beløb"
+  },
+  "simulate_transaction": {
+    "message": "Simuler transaktion"
+  },
+  "transaction": {
+    "message": "Transaktion"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Utilstrækkelig token-saldo"
+  },
+  "required_amount": {
+    "message": "Påkrævet Beløb"
+  },
+  "insufficient_token_tip": {
+    "message": "Din konto har ikke nok $0 tokens til at gennemføre transaktionen."
+  },
+  "buy": {
+    "message": "Køb"
+  },
+  "insufficient_gas_fee": {
+    "message": "Utilstrækkelig gasgebyr"
+  },
+  "insufficient_fee_tip": {
+    "message": "Din konto har ikke nok $0 til at dække netværksgebyret."
+  },
+  "required_fee": {
+    "message": "Påkrævet gebyr"
+  },
+  "session": {
+    "message": "Session"
+  },
+  "disconnect_dapp": {
+    "message": "Afbryd Dapp"
+  },
+  "remove_dapp": {
+    "message": "Fjern Dapp"
+  },
+  "signature_request": {
+    "message": "Signaturanmodning"
+  },
+  "message": {
+    "message": "Besked"
+  },
+  "market_cap": {
+    "message": "Markedsværdi"
+  },
+  "total_supply": {
+    "message": "Samlet udbud"
+  },
+  "volume_24h": {
+    "message": "Omsætning 24t"
+  },
+  "max_supply": {
+    "message": "Maksimal udbud"
+  },
+  "view_on_explorer": {
+    "message": "Vis på Explorer"
+  },
+  "transactions": {
+    "message": "Transaktioner"
+  },
+  "assets": {
+    "message": "Aktiver"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "phone_number": {
+    "message": "Telefonnummer"
+  },
+  "login_email_tip": {
+    "message": "Indtast verifikationskoden sendt til"
+  },
+  "resend_code": {
+    "message": "Send bekræftelseskode igen"
+  },
+  "verify": {
+    "message": "Bekræft"
+  },
+  "create_wallet": {
+    "message": "Opret din første wallet"
+  },
+  "sign_in": {
+    "message": "Log ind"
+  },
+  "create_passkey": {
+    "message": "Opret en adgangsnøgle"
+  },
+  "have_passkey": {
+    "message": "Jeg har en adgangsnøgle"
+  },
+  "phone_login": {
+    "message": "Telefonlogin"
+  },
+  "context_meun_send": {
+    "message": "Send - Lynx tegnebog"
+  },
+  "context_meun_receive": {
+    "message": "Modtage - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Byt - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Køb - Lynx tegnebog"
+  },
+  "selected": {
+    "message": "Valgt"
+  },
+  "search_network_or_chain": {
+    "message": "Søg i netværk eller kæde-ID"
+  },
+  "all": {
+    "message": "Alle"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnet"
+  },
+  "all_networks": {
+    "message": "Alle netværk"
+  },
+  "chain_not_listed": {
+    "message": "Kæde ikke opført?"
+  },
+  "oops": {
+    "message": "Ups"
+  },
+  "oops_content": {
+    "message": "Vi er opmærksomme på problemet, og vores team arbejder på det. Tak for din tålmodighed!"
+  },
+  "go_back": {
+    "message": "Gå tilbage"
+  },
+  "saved": {
+    "message": "Gemt"
+  },
+  "let_start_celebrate": {
+    "message": "LAD OS BEGYNDE AT FEJRE"
+  },
+  "view_my_assets": {
+    "message": "Se mine aktiver"
+  },
+  "received": {
+    "message": "Modtaget"
+  },
+  "sent": {
+    "message": "Sendt"
+  },
+  "swap": {
+    "message": "Byt"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Overførsel"
+  },
+  "transaction_details": {
+    "message": "Transaktionsdetaljer"
+  },
+  "transaction_hash": {
+    "message": "Transaktionshash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Tidsstempel"
+  },
+  "from": {
+    "message": "Fra"
+  },
+  "to": {
+    "message": "Til"
+  },
+  "value": {
+    "message": "Værdi"
+  },
+  "transaction_fee": {
+    "message": "Transaktionsgebyr"
+  }
+}

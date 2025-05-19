@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx novčanik"
+  },
+  "extension_description": {
+    "message": "Pratite Lynx, istražite Web3"
+  },
+  "wallet_balance": {
+    "message": "Stanje"
+  },
+  "token_send": {
+    "message": "Пошаљи"
+  },
+  "token_receive": {
+    "message": "Primi"
+  },
+  "token_buy": {
+    "message": "Замена (Купи)"
+  },
+  "token_history": {
+    "message": "Историја"
+  },
+  "gas_free": {
+    "message": "Bez gas troškova"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponzorstvo"
+  },
+  "gas_free_soon": {
+    "message": "Ускоро!"
+  },
+  "unknown_chain": {
+    "message": "Nepoznata mreža #$0"
+  },
+  "manage_wallet": {
+    "message": "Upravljanje Novčanikom"
+  },
+  "wallet_keys": {
+    "message": "Novčanik & Ključevi"
+  },
+  "connected_dapps": {
+    "message": "Povezani DApps"
+  },
+  "password": {
+    "message": "Lozinka"
+  },
+  "theme": {
+    "message": "Тема"
+  },
+  "language": {
+    "message": "Језик"
+  },
+  "about": {
+    "message": "O"
+  },
+  "login_out": {
+    "message": "Odjavi se"
+  },
+  "login_out_tip": {
+    "message": "Ova akcija će izbrisati vaš novčanik. Molimo vas da se uverite da ste napravili rezervnu kopiju vašeg računa pre nego što nastavite."
+  },
+  "back_up_your_account": {
+    "message": "Napravite rezervnu kopiju svog naloga"
+  },
+  "understand_and_continue": {
+    "message": "Разумем, наставите"
+  },
+  "gas_price": {
+    "message": "Cena gasa"
+  },
+  "switch_network": {
+    "message": "Promeni mrežu"
+  },
+  "update": {
+    "message": "Ažuriraj"
+  },
+  "add_network": {
+    "message": "Dodaj mrežu"
+  },
+  "request_from": {
+    "message": "Zahtev"
+  },
+  "network": {
+    "message": "Mreža"
+  },
+  "chain_name": {
+    "message": "Ime lanca"
+  },
+  "chain_id": {
+    "message": "Id lanca"
+  },
+  "symbol": {
+    "message": "Simbol"
+  },
+  "decimals": {
+    "message": "Decimale"
+  },
+  "explorer": {
+    "message": "Истраживач"
+  },
+  "switch_network_tip": {
+    "message": "Upravo ćete promeniti svoju podrazumevanu mrežu. Nastavite samo ako verujete ovoj mreži."
+  },
+  "update_network_tip": {
+    "message": "Ova radnja će ažurirati vaše podrazumevane mrežne postavke. Molimo vas da budete svesni potencijalnih sigurnosnih rizika."
+  },
+  "add_network_tip": {
+    "message": "Lynx ne verifikuje prilagođene mreže. Molimo vas da budete svesni potencijalnih rizika."
+  },
+  "cancel": {
+    "message": "Откажи"
+  },
+  "confirm": {
+    "message": "Potvrdi"
+  },
+  "want_connect_wallet": {
+    "message": "Želi da se poveže sa vašim novčanikom"
+  },
+  "account": {
+    "message": "Račun"
+  },
+  "approve_tip1": {
+    "message": "Dozvoli pristup adresi tvog novčanika, stanju i aktivnostima"
+  },
+  "approve_tip2": {
+    "message": "Dozvoli dozvolu za slanje odobrenja transakcija"
+  },
+  "approve_tip3": {
+    "message": "Не дозвољава пренос имовине без ваше дозволе"
+  },
+  "connect": {
+    "message": "повежи"
+  },
+  "export_private_key": {
+    "message": "Izvezi privatni ključ"
+  },
+  "select_network": {
+    "message": "Izaberite Mrežu"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "ПОЧЕТАК"
+  },
+  "back": {
+    "message": "Nazad"
+  },
+  "next": {
+    "message": "Sledeće"
+  },
+  "enter_code": {
+    "message": "Unesite šifru od 6 cifara"
+  },
+  "enter_your_code": {
+    "message": "Unesite svoju lozinku"
+  },
+  "enter_code_again": {
+    "message": "Молимо поново унесите шесточлани лозинку"
+  },
+  "forget_password": {
+    "message": "Zaboravili ste lozinku?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ne čuva podatke o nalogu i ne može resetovati vašu lozinku. Možete vratiti svoj nalog ponovnim prijavljivanjem."
+  },
+  "forget_tip2": {
+    "message": "Ova radnja će obrisati novčanik nalog, molimo vas da se uverite da ste napravili rezervnu kopiju vašeg naloga pre nego što nastavite."
+  },
+  "verify_password": {
+    "message": "Proverite Lozinku"
+  },
+  "set_password": {
+    "message": "Postavi lozinku"
+  },
+  "confirm_password": {
+    "message": "Potvrdite lozinku"
+  },
+  "address": {
+    "message": "Adresa"
+  },
+  "receive_tip": {
+    "message": "Kopiraj adresu novčanika da primiš sredstva u ovom novčaniku."
+  },
+  "copied": {
+    "message": "Копирано"
+  },
+  "gas_fee": {
+    "message": "Naknada za Gas"
+  },
+  "fee_settings": {
+    "message": "Podešavanja naknade"
+  },
+  "base_fee": {
+    "message": "Osnovna naknada"
+  },
+  "priority_fee": {
+    "message": "Prioritetna naknada"
+  },
+  "gas_limit": {
+    "message": "Gas limit"
+  },
+  "normal": {
+    "message": "Normalno"
+  },
+  "average": {
+    "message": "Prosečan"
+  },
+  "fast": {
+    "message": "Brzo"
+  },
+  "website": {
+    "message": "Vebsajt"
+  },
+  "custom": {
+    "message": "Prilagođen"
+  },
+  "transfer_request": {
+    "message": "Zahtev za transfer"
+  },
+  "deploy_contract": {
+    "message": "Implementiraj ugovor"
+  },
+  "sender": {
+    "message": "Pošiljalac"
+  },
+  "amount": {
+    "message": "Iznos"
+  },
+  "simulate_transaction": {
+    "message": "Simuliraj transakciju"
+  },
+  "transaction": {
+    "message": "Transakcija"
+  },
+  "data": {
+    "message": "Podaci"
+  },
+  "insufficient_token_balance": {
+    "message": "Nedovoljan balans tokena"
+  },
+  "required_amount": {
+    "message": "Potreban iznos"
+  },
+  "insufficient_token_tip": {
+    "message": "Vaš nalog nema dovoljno $0 tokena za završetak transakcije."
+  },
+  "buy": {
+    "message": "Kupiti"
+  },
+  "insufficient_gas_fee": {
+    "message": "Nedovoljna naknada za gas"
+  },
+  "insufficient_fee_tip": {
+    "message": "Vaš nalog nema dovoljno $0 da pokrije naknadu za mrežu."
+  },
+  "required_fee": {
+    "message": "Obavezna naknada"
+  },
+  "session": {
+    "message": "Sesija"
+  },
+  "disconnect_dapp": {
+    "message": "Искључи Dapp"
+  },
+  "remove_dapp": {
+    "message": "Уклони Dapp"
+  },
+  "signature_request": {
+    "message": "Zahtev za potpisivanje"
+  },
+  "message": {
+    "message": "Poruka"
+  },
+  "market_cap": {
+    "message": "Tržišna kapitalizacija"
+  },
+  "total_supply": {
+    "message": "Ukupna ponuda"
+  },
+  "volume_24h": {
+    "message": "Obim 24h"
+  },
+  "max_supply": {
+    "message": "Maksimalna ponuda"
+  },
+  "view_on_explorer": {
+    "message": "Pogledajte na Exploreru"
+  },
+  "transactions": {
+    "message": "Transakcije"
+  },
+  "assets": {
+    "message": "Imovina"
+  },
+  "tokens": {
+    "message": "Tokeni"
+  },
+  "balance": {
+    "message": "Stanje"
+  },
+  "email": {
+    "message": "Е-пошта"
+  },
+  "phone_number": {
+    "message": "Broj telefona"
+  },
+  "login_email_tip": {
+    "message": "Unesite verifikacioni kod poslat na"
+  },
+  "resend_code": {
+    "message": "Ponovo pošalji verifikacioni kod"
+  },
+  "verify": {
+    "message": "Verifikovati"
+  },
+  "create_wallet": {
+    "message": "Kreirajte svoj prvi novčanik"
+  },
+  "sign_in": {
+    "message": "Prijavite se"
+  },
+  "create_passkey": {
+    "message": "Napravite pristupni ključ"
+  },
+  "have_passkey": {
+    "message": "Imam Passkey"
+  },
+  "phone_login": {
+    "message": "Prijava putem telefona"
+  },
+  "context_meun_send": {
+    "message": "Pošalji - Lynx novčanik"
+  },
+  "context_meun_receive": {
+    "message": "Primi - Lynx novčanik"
+  },
+  "context_meun_swap": {
+    "message": "Razmena - Lynx novčanik"
+  },
+  "context_meun_buy": {
+    "message": "Kupovina - Lynx novčanik"
+  },
+  "selected": {
+    "message": "Изабрано"
+  },
+  "search_network_or_chain": {
+    "message": "Pretraži mrežu ili ID lanca"
+  },
+  "all": {
+    "message": "Сви"
+  },
+  "mainnets": {
+    "message": "Glavne mreže"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "Sve Mreže"
+  },
+  "chain_not_listed": {
+    "message": "Lanac nije naveden?"
+  },
+  "oops": {
+    "message": "Упс"
+  },
+  "oops_content": {
+    "message": "Svesni smo problema i naš tim radi na tome. Hvala na vašem strpljenju!"
+  },
+  "go_back": {
+    "message": "Врати се назад"
+  },
+  "saved": {
+    "message": "Сачувано"
+  },
+  "let_start_celebrate": {
+    "message": "HAJDE DA POČNEMO SA SLAVLJEM"
+  },
+  "view_my_assets": {
+    "message": "Prikaži Moju Imovinu"
+  },
+  "received": {
+    "message": "Примљено"
+  },
+  "sent": {
+    "message": "Послато"
+  },
+  "swap": {
+    "message": "Zameni"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Пренос"
+  },
+  "transaction_details": {
+    "message": "Детаљи трансакције"
+  },
+  "transaction_hash": {
+    "message": "Identifikacioni kod transakcije"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Vremenska oznaka"
+  },
+  "from": {
+    "message": "Iz"
+  },
+  "to": {
+    "message": "до"
+  },
+  "value": {
+    "message": "Vrednost"
+  },
+  "transaction_fee": {
+    "message": "Трансакциона накнада"
+  }
+}

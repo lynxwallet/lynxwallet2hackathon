@@ -1,0 +1,1 @@
+.App{background:linear-gradient(45deg,#ff7e5f,#feb47b,#6a82fb,#3a7bd5) 0 0/400% 400%;animation:50s infinite skyAnimation}@keyframes skyAnimation{0%{background-position:0%}50%{background-position:100%}to{background-position:0%}}

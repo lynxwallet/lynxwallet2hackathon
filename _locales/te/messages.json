@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "లింక్స్ వాలెట్"
+  },
+  "extension_description": {
+    "message": "Lynxను అనుసరించండి, Web3ను అన్వేషించండి"
+  },
+  "wallet_balance": {
+    "message": "మిగులు"
+  },
+  "token_send": {
+    "message": "పంపండి"
+  },
+  "token_receive": {
+    "message": "స్వీకరించండి"
+  },
+  "token_buy": {
+    "message": "మార్పిడి (కొనుగోలు)"
+  },
+  "token_history": {
+    "message": "చరిత్ర"
+  },
+  "gas_free": {
+    "message": "గ్యాస్-రహిత"
+  },
+  "gas_free_sponsorship": {
+    "message": "ప్రాయోజకత్వం"
+  },
+  "gas_free_soon": {
+    "message": "శీఘ్రమే!"
+  },
+  "unknown_chain": {
+    "message": "తెలియని చైన్ #$0"
+  },
+  "manage_wallet": {
+    "message": "వాలెట్ నిర్వహించండి"
+  },
+  "wallet_keys": {
+    "message": "వాలెట్ & కీలు "
+  },
+  "connected_dapps": {
+    "message": "కనెక్ట్ అయిన DApps"
+  },
+  "password": {
+    "message": "పాస్‌వర్డ్"
+  },
+  "theme": {
+    "message": "థీమ్"
+  },
+  "language": {
+    "message": "భాష"
+  },
+  "about": {
+    "message": "గురించి"
+  },
+  "login_out": {
+    "message": "లాగ్ అవుట్"
+  },
+  "login_out_tip": {
+    "message": "ఈ చర్య మీ వాలెట్‌ను తొలగిస్తుంది. కొనసాగడానికి ముందుగా దయచేసి మీ ఖాతాను బ్యాకప్ చేసుకున్నారని నిర్ధారించుకోండి."
+  },
+  "back_up_your_account": {
+    "message": "మీ ఖాతాను బ్యాకప్ చేయండి"
+  },
+  "understand_and_continue": {
+    "message": "నేను అర్థం చేసుకుంటున్నాను, కొనసాగించు"
+  },
+  "gas_price": {
+    "message": "గ్యాస్ ధర"
+  },
+  "switch_network": {
+    "message": "నెట్‌వర్క్ మార్చండి"
+  },
+  "update": {
+    "message": "అప్‌డేట్"
+  },
+  "add_network": {
+    "message": "నెట్‌వర్క్‌ను చేర్చండి"
+  },
+  "request_from": {
+    "message": "మా వద్ద ఒక లావాదేవీ సందర్భం ఉన్న బ్లోక్చైన్ వాలెట్ ఉంది."
+  },
+  "network": {
+    "message": "నెట్‌వర్క్"
+  },
+  "chain_name": {
+    "message": "చైన్ పేరు"
+  },
+  "chain_id": {
+    "message": "చేన్ ఐడీ"
+  },
+  "symbol": {
+    "message": "సింబల్"
+  },
+  "decimals": {
+    "message": "డెసిమల్స్"
+  },
+  "explorer": {
+    "message": "ఎక్స్ప్లోరర్"
+  },
+  "switch_network_tip": {
+    "message": "మీరు మీ అప్రమేయ నెట్‌వర్క్‌ను మార్చబోతున్నారు. మీరు ఈ నెట్‌వర్క్‌ను విశ్వసిస్తే మాత్రమే కొనసాగించండి."
+  },
+  "update_network_tip": {
+    "message": "ఈ చర్య మీ డిఫాల్ట్ నెట్‌వర్క్ సెట్టింగ్స్‌ను నవీకరిస్తుంది. దయచేసి భద్రతా ముప్పులపై అవగాహన కలిగి ఉండండి."
+  },
+  "add_network_tip": {
+    "message": "Lynx కస్టమ్ నెట్‌వర్క్‌లను ధృవీకరించదు. దయచేసి అనుమానాస్పదమైన ప్రమాదాలను గుర్తించండి."
+  },
+  "cancel": {
+    "message": "రద్దు"
+  },
+  "confirm": {
+    "message": "నిర్ధారించు"
+  },
+  "want_connect_wallet": {
+    "message": "మీ వాలెట్‌ను కనెక్ట్ చేయడానికి ఆసక్తి చూపుతోంది"
+  },
+  "account": {
+    "message": "ఖాతా"
+  },
+  "approve_tip1": {
+    "message": "మీ వాలెట్ చిరునామా, నిల్వ, మరియు కార్యాచరణకు ప్రవేశాన్ని అనుమతించండి"
+  },
+  "approve_tip2": {
+    "message": "లావాదేవీ ఆమోదాలను పంపడానికి అనుమతిని ఇవ్వండి"
+  },
+  "approve_tip3": {
+    "message": "మీ అనుమతి లేకుండా ఆస్తులను బదిలీ చేయడాన్ని అనుమతించదు"
+  },
+  "connect": {
+    "message": "కనెక్ట్"
+  },
+  "export_private_key": {
+    "message": "ప్రైవేట్ కీ ఎగుమతి"
+  },
+  "select_network": {
+    "message": "నెట్వర్క్‌ని ఎంచుకోండి"
+  },
+  "nfts": {
+    "message": "NFTలు"
+  },
+  "start": {
+    "message": "ప్రారంభించండి"
+  },
+  "back": {
+    "message": "తిరిగి"
+  },
+  "next": {
+    "message": "తరువాత"
+  },
+  "enter_code": {
+    "message": "దయచేసి 6 అంకెల పాస్‌వర్డ్‌ని నమోదు చేయండి"
+  },
+  "enter_your_code": {
+    "message": "దయచేసి మీ పాస్‌వర్డ్‌ను నమోదు చేయండి"
+  },
+  "enter_code_again": {
+    "message": "దయచేసి 6-అంకెల పాస్వర్డ్‌ను మళ్లీ నమోదు చేయండి"
+  },
+  "forget_password": {
+    "message": "మీ పాస్‌వర్డ్ మర్చిపోయారా?"
+  },
+  "forget_tip1": {
+    "message": "Lynx ఖాతా డేటాను స్టోర్ చేయదు మరియు మీ పాస్‌వర్డ్‌ను రీసెట్ చేయలేడు. మీరు మళ్లీ సైన్ ఇన్ చేయడం ద్వారా మీ ఖాతాను పునరుద్థరించవచ్చు."
+  },
+  "forget_tip2": {
+    "message": "ఈ చర్య వాలెట్ ఖాతాను తొలగిస్తుంది, దయచేసి ముందుకు వెళ్లేముందు మీ ఖాతాను బ్యాకప్ చేసుకున్నారని ఖచ్చితంగా నిర్ధారించుకోండి."
+  },
+  "verify_password": {
+    "message": "పాస్‌వర్డ్ ధృవీకరించండి"
+  },
+  "set_password": {
+    "message": "పాస్వర్డ్ సెట్ చెయ్యండి"
+  },
+  "confirm_password": {
+    "message": "పాస్‌వర్డ్‌ను ఖచ్చితంగా నిర్ధారించండి"
+  },
+  "address": {
+    "message": "చిరునామా"
+  },
+  "receive_tip": {
+    "message": "ఈ వాలెట్‌లో నిధులను అందుకోవడానికి వాలెట్ చిరునామాను కాపీ చేయండి "
+  },
+  "copied": {
+    "message": "కాపీ చేయబడింది"
+  },
+  "gas_fee": {
+    "message": "గ్యాస్ ఫీ"
+  },
+  "fee_settings": {
+    "message": "ఫీజు అమరికలు"
+  },
+  "base_fee": {
+    "message": "బేస్ ఫీజు"
+  },
+  "priority_fee": {
+    "message": "ప్రాధాన్యత రుసుం"
+  },
+  "gas_limit": {
+    "message": "గ్యాస్ లిమిట్"
+  },
+  "normal": {
+    "message": "సాధారణ"
+  },
+  "average": {
+    "message": "సగటు"
+  },
+  "fast": {
+    "message": "빠른"
+  },
+  "website": {
+    "message": "వెబ్‌సైట్"
+  },
+  "custom": {
+    "message": "అనుకూలమై\n"
+  },
+  "transfer_request": {
+    "message": "బదిలీ అభ్యర్ధన"
+  },
+  "deploy_contract": {
+    "message": "కాంట్రాక్ట్ ని అమలు చేయండి"
+  },
+  "sender": {
+    "message": "పంపిన వ్యక్తి"
+  },
+  "amount": {
+    "message": "మొత్తం"
+  },
+  "simulate_transaction": {
+    "message": "లావాదేవీ అనుకరణ"
+  },
+  "transaction": {
+    "message": "లావాదేవీ"
+  },
+  "data": {
+    "message": "డేటా"
+  },
+  "insufficient_token_balance": {
+    "message": "టోకెన్ శేషం తక్కువగా ఉంది"
+  },
+  "required_amount": {
+    "message": "అవసరమైన మొత్తం"
+  },
+  "insufficient_token_tip": {
+    "message": "మీ ఖాతాలో లావాదేవీని పూర్తి చేయడానికి సరిపడా $0 టోకెన్లు లేవు."
+  },
+  "buy": {
+    "message": "కొనుగోలు"
+  },
+  "insufficient_gas_fee": {
+    "message": "గ్యాస్ ఫీజు తక్కువగా ఉంది"
+  },
+  "insufficient_fee_tip": {
+    "message": "మీ ఖాతా వద్ద నెట్‌వర్క్ ఫీజును కవర్లు చేయడానికి తగినంత $0 లేదు."
+  },
+  "required_fee": {
+    "message": "ఆవశ్యమైన ఫీజు"
+  },
+  "session": {
+    "message": "సెషన్"
+  },
+  "disconnect_dapp": {
+    "message": "డాప్ ను అనుసంధానం తెగదెంపు"
+  },
+  "remove_dapp": {
+    "message": "డాప్ తొలగించు"
+  },
+  "signature_request": {
+    "message": "సంతకం అభ్యర్థన"
+  },
+  "message": {
+    "message": "సందేశం"
+  },
+  "market_cap": {
+    "message": "మార్కెట్ కాప్"
+  },
+  "total_supply": {
+    "message": "మొత్తం సరఫరా"
+  },
+  "volume_24h": {
+    "message": "24 గంటల వాల్యూమ్"
+  },
+  "max_supply": {
+    "message": "మొత్తం సరఫరా"
+  },
+  "view_on_explorer": {
+    "message": "ఎక్స్‌ప్లోరర్‌లో చూడండి"
+  },
+  "transactions": {
+    "message": "లావాదేవీలు"
+  },
+  "assets": {
+    "message": "ఆస్తులు"
+  },
+  "tokens": {
+    "message": "టోకెన్లు"
+  },
+  "balance": {
+    "message": "సంతులనం"
+  },
+  "email": {
+    "message": "ఇమెయిల్"
+  },
+  "phone_number": {
+    "message": "ఫోన్ నంబర్"
+  },
+  "login_email_tip": {
+    "message": "మీకు పంపిన ధృవీకరణ కోడ్‌ని నమోదు చేయండి"
+  },
+  "resend_code": {
+    "message": "సరైన కోడ్‌లను తిరిగి పంపండి"
+  },
+  "verify": {
+    "message": "సాధన "
+  },
+  "create_wallet": {
+    "message": "మీ మొదటి వాలెట్‌ను సృష్టించండి"
+  },
+  "sign_in": {
+    "message": "సైన్ ఇन्"
+  },
+  "create_passkey": {
+    "message": "ഒരു പാസ്‌കീ സൃഷ്ടിക്കുക"
+  },
+  "have_passkey": {
+    "message": "నా వద్ద పాస్‌కీ ఉంది"
+  },
+  "phone_login": {
+    "message": "ఫోన్ లాగిన్"
+  },
+  "context_meun_send": {
+    "message": "పంపించు - Lynx వాలెట్"
+  },
+  "context_meun_receive": {
+    "message": "లభించు - Lynx వాలెట్"
+  },
+  "context_meun_swap": {
+    "message": "స్వాప్ - Lynx వాలెట్"
+  },
+  "context_meun_buy": {
+    "message": "కొనుగోలు చేయండి - Lynx వాలెట్"
+  },
+  "selected": {
+    "message": "ఎన్నుకున్న"
+  },
+  "search_network_or_chain": {
+    "message": "నెట్‌వర్క్ లేదా చైన్ ID ని వెతకండి"
+  },
+  "all": {
+    "message": "అన్ని"
+  },
+  "mainnets": {
+    "message": "మైన్‌నెట్లు"
+  },
+  "testnets": {
+    "message": "పరీక్షా నెట్‌వర్క్‌లు"
+  },
+  "all_networks": {
+    "message": "అన్ని నెట్వర్క్‌లు"
+  },
+  "chain_not_listed": {
+    "message": "చెయిన్ జాబితాలో లేదు?"
+  },
+  "oops": {
+    "message": "అయ్యో"
+  },
+  "oops_content": {
+    "message": "మేము సమస్యను తెలుసుకొని మా బృందం దానిపై పని చేస్తోంది. మీ సహనానికి ధన్యవాదాలు!"
+  },
+  "go_back": {
+    "message": "వెనక్కి వెళ్లి"
+  },
+  "saved": {
+    "message": "సేవ్ చేసింది"
+  },
+  "let_start_celebrate": {
+    "message": "ఆరంభించుదాం  పండుగను"
+  },
+  "view_my_assets": {
+    "message": "నా ఆస్తులను వీక్షించు"
+  },
+  "received": {
+    "message": "స్వీకరించబడింది"
+  },
+  "sent": {
+    "message": "పంపించారు"
+  },
+  "swap": {
+    "message": "మార్పిడి"
+  },
+  "fiat": {
+    "message": "ఫియట్"
+  },
+  "transfer": {
+    "message": "బదిలీ"
+  },
+  "transaction_details": {
+    "message": "లావాదేవీ వివరాలు"
+  },
+  "transaction_hash": {
+    "message": "లావాదేవీ హాష్"
+  },
+  "status": {
+    "message": "స్థితి"
+  },
+  "timestamp": {
+    "message": "టైమ్‌స్టాంప్"
+  },
+  "from": {
+    "message": "స్టర్తింగ్ నుంచి"
+  },
+  "to": {
+    "message": "కి"
+  },
+  "value": {
+    "message": "విలువ"
+  },
+  "transaction_fee": {
+    "message": "వ్యవహార రుసుము"
+  }
+}

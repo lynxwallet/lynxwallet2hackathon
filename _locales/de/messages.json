@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Folge Lynx, erkunde Web3"
+  },
+  "wallet_balance": {
+    "message": "Kontostand"
+  },
+  "token_send": {
+    "message": "Senden"
+  },
+  "token_receive": {
+    "message": "Empfangen"
+  },
+  "token_buy": {
+    "message": "Tauschen (Kaufen)"
+  },
+  "token_history": {
+    "message": "Geschichte"
+  },
+  "gas_free": {
+    "message": "Ohne Gasgebühren"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsoring"
+  },
+  "gas_free_soon": {
+    "message": "Bald!"
+  },
+  "unknown_chain": {
+    "message": "Unbekannte Kette #$0"
+  },
+  "manage_wallet": {
+    "message": "Wallet verwalten"
+  },
+  "wallet_keys": {
+    "message": "Brieftasche & Schlüssel"
+  },
+  "connected_dapps": {
+    "message": "Verbundene DApps"
+  },
+  "password": {
+    "message": "Passwort"
+  },
+  "theme": {
+    "message": "Thema"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "about": {
+    "message": "Über"
+  },
+  "login_out": {
+    "message": "Abmelden"
+  },
+  "login_out_tip": {
+    "message": "Durch diese Aktion wird Ihre Wallet gelöscht. Bitte stellen Sie sicher, dass Sie Ihr Konto gesichert haben, bevor Sie fortfahren."
+  },
+  "back_up_your_account": {
+    "message": "Sichern Sie Ihr Konto"
+  },
+  "understand_and_continue": {
+    "message": "Ich verstehe, weitermachen."
+  },
+  "gas_price": {
+    "message": "Gaspreis"
+  },
+  "switch_network": {
+    "message": "Netzwerk wechseln"
+  },
+  "update": {
+    "message": "Aktualisieren"
+  },
+  "add_network": {
+    "message": "Netzwerk hinzufügen"
+  },
+  "request_from": {
+    "message": "Anfrage"
+  },
+  "network": {
+    "message": "Netzwerk"
+  },
+  "chain_name": {
+    "message": "Kettenname"
+  },
+  "chain_id": {
+    "message": "Ketten-ID"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Dezimalstellen"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "Sie sind dabei, Ihr Standardnetzwerk zu ändern. Fahren Sie nur fort, wenn Sie diesem Netzwerk vertrauen."
+  },
+  "update_network_tip": {
+    "message": "Diese Aktion aktualisiert Ihre Standardeinstellungen für das Netzwerk. Bitte beachten Sie potenzielle Sicherheitsrisiken."
+  },
+  "add_network_tip": {
+    "message": "Lynx überprüft benutzerdefinierte Netzwerke nicht. Bitte seien Sie sich der potenziellen Risiken bewusst."
+  },
+  "cancel": {
+    "message": "Stornieren"
+  },
+  "confirm": {
+    "message": "Bestätigen"
+  },
+  "want_connect_wallet": {
+    "message": "Möchte eine Verbindung zu Ihrem Wallet herstellen"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "approve_tip1": {
+    "message": "Erlaube den Zugriff auf deine Wallet-Adresse, dein Guthaben und deine Aktivitäten."
+  },
+  "approve_tip2": {
+    "message": "Erlaube Berechtigungen zur Genehmigung von Transaktionen"
+  },
+  "approve_tip3": {
+    "message": "Erlaubt nicht die Übertragung von Vermögenswerten ohne Ihre Erlaubnis."
+  },
+  "connect": {
+    "message": "verbinden"
+  },
+  "export_private_key": {
+    "message": "Privaten Schlüssel exportieren"
+  },
+  "select_network": {
+    "message": "Netzwerk auswählen"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Zurück"
+  },
+  "next": {
+    "message": "Nächste"
+  },
+  "enter_code": {
+    "message": "Bitte geben Sie das 6-stellige Passwort ein"
+  },
+  "enter_your_code": {
+    "message": "Bitte geben Sie Ihr Passwort ein"
+  },
+  "enter_code_again": {
+    "message": "Bitte geben Sie das 6-stellige Passwort erneut ein."
+  },
+  "forget_password": {
+    "message": "Passwort vergessen?"
+  },
+  "forget_tip1": {
+    "message": "Lynx speichert keine Kontodaten und kann Ihr Passwort nicht zurücksetzen. Sie können Ihr Konto durch erneutes Anmelden wiederherstellen."
+  },
+  "forget_tip2": {
+    "message": "Diese Aktion wird das Wallet-Konto löschen. Bitte stellen Sie sicher, dass Sie Ihr Konto gesichert haben, bevor Sie fortfahren."
+  },
+  "verify_password": {
+    "message": "Passwort überprüfen"
+  },
+  "set_password": {
+    "message": "Passwort festlegen"
+  },
+  "confirm_password": {
+    "message": "Passwort bestätigen"
+  },
+  "address": {
+    "message": "Adresse"
+  },
+  "receive_tip": {
+    "message": "Kopieren Sie die Wallet-Adresse, um Gelder in diesem Wallet zu empfangen"
+  },
+  "copied": {
+    "message": "Kopiert"
+  },
+  "gas_fee": {
+    "message": "Gas-Gebühr"
+  },
+  "fee_settings": {
+    "message": "Gebühr Einstellungen"
+  },
+  "base_fee": {
+    "message": "Grundgebühr"
+  },
+  "priority_fee": {
+    "message": "Prioritätsgebühr"
+  },
+  "gas_limit": {
+    "message": "Gas-Limit"
+  },
+  "normal": {
+    "message": "Normalerweise"
+  },
+  "average": {
+    "message": "Durchschnittlich"
+  },
+  "fast": {
+    "message": "Schnell"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "Benutzerdefiniert"
+  },
+  "transfer_request": {
+    "message": "Überweisungsanforderung"
+  },
+  "deploy_contract": {
+    "message": "Vertrag bereitstellen"
+  },
+  "sender": {
+    "message": "Absender"
+  },
+  "amount": {
+    "message": "Betrag"
+  },
+  "simulate_transaction": {
+    "message": "Transaktion simulieren"
+  },
+  "transaction": {
+    "message": "Transaktion"
+  },
+  "data": {
+    "message": "Daten"
+  },
+  "insufficient_token_balance": {
+    "message": "Unzureichendes Token-Guthaben"
+  },
+  "required_amount": {
+    "message": "Erforderlicher Betrag"
+  },
+  "insufficient_token_tip": {
+    "message": "Ihr Konto verfügt nicht über genügend $0-Token, um die Transaktion abzuschließen."
+  },
+  "buy": {
+    "message": "Kaufen"
+  },
+  "insufficient_gas_fee": {
+    "message": "Unzureichende Gasgebühr"
+  },
+  "insufficient_fee_tip": {
+    "message": "Ihr Konto verfügt nicht über genügend $0, um die Netzwerkgebühr zu decken."
+  },
+  "required_fee": {
+    "message": "Erforderliche Gebühr"
+  },
+  "session": {
+    "message": "Sitzung"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp trennen"
+  },
+  "remove_dapp": {
+    "message": "Dapp entfernen"
+  },
+  "signature_request": {
+    "message": "Signaturanfrage"
+  },
+  "message": {
+    "message": "Nachricht"
+  },
+  "market_cap": {
+    "message": "Marktkapitalisierung"
+  },
+  "total_supply": {
+    "message": "Gesamtangebot"
+  },
+  "volume_24h": {
+    "message": "Volumen 24h"
+  },
+  "max_supply": {
+    "message": "Maximale Versorgung"
+  },
+  "view_on_explorer": {
+    "message": "Im Explorer anzeigen"
+  },
+  "transactions": {
+    "message": "Transaktionen"
+  },
+  "assets": {
+    "message": "Vermögenswerte"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Guthaben"
+  },
+  "email": {
+    "message": "E-Mail"
+  },
+  "phone_number": {
+    "message": "Telefonnummer"
+  },
+  "login_email_tip": {
+    "message": "Geben Sie den Bestätigungscode ein, der gesendet wurde an"
+  },
+  "resend_code": {
+    "message": "Bestätigungscode erneut senden"
+  },
+  "verify": {
+    "message": "Überprüfen"
+  },
+  "create_wallet": {
+    "message": "Erstellen Sie Ihre erste Wallet"
+  },
+  "sign_in": {
+    "message": "Einloggen"
+  },
+  "create_passkey": {
+    "message": "Erstellen Sie einen Passkey"
+  },
+  "have_passkey": {
+    "message": "Ich habe einen Passkey."
+  },
+  "phone_login": {
+    "message": "Telefon-Login"
+  },
+  "context_meun_send": {
+    "message": "Senden - Lynx Wallet"
+  },
+  "context_meun_receive": {
+    "message": "Empfangen - Lynx Wallet"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx-Brieftasche"
+  },
+  "context_meun_buy": {
+    "message": "Kaufen - Lynx Wallet"
+  },
+  "selected": {
+    "message": "Ausgewählt"
+  },
+  "search_network_or_chain": {
+    "message": "Suche Netzwerk oder Chain-ID"
+  },
+  "all": {
+    "message": "Alle"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "Alle Netzwerke"
+  },
+  "chain_not_listed": {
+    "message": "Kette nicht aufgeführt?"
+  },
+  "oops": {
+    "message": "Hoppla"
+  },
+  "oops_content": {
+    "message": "Wir sind uns des Problems bewusst und unser Team arbeitet daran. Danke für Ihre Geduld!"
+  },
+  "go_back": {
+    "message": "Zurück"
+  },
+  "saved": {
+    "message": "Gespeichert"
+  },
+  "let_start_celebrate": {
+    "message": "LASS UNS FEIERN"
+  },
+  "view_my_assets": {
+    "message": "Meine Vermögenswerte anzeigen"
+  },
+  "received": {
+    "message": "Empfangen"
+  },
+  "sent": {
+    "message": "Gesendet"
+  },
+  "swap": {
+    "message": "Tauschen"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Überweisung"
+  },
+  "transaction_details": {
+    "message": "Transaktionsdetails"
+  },
+  "transaction_hash": {
+    "message": "Transaktions-Hash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Zeitstempel"
+  },
+  "from": {
+    "message": "Von"
+  },
+  "to": {
+    "message": "Zu"
+  },
+  "value": {
+    "message": "Wert"
+  },
+  "transaction_fee": {
+    "message": "Transaktionsgebühr"
+  }
+}

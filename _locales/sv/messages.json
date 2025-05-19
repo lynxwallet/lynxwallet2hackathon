@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Följ Lynx, utforska Web3"
+  },
+  "wallet_balance": {
+    "message": "Saldo"
+  },
+  "token_send": {
+    "message": "Skicka"
+  },
+  "token_receive": {
+    "message": "Ta emot"
+  },
+  "token_buy": {
+    "message": "Byt (Köp)"
+  },
+  "token_history": {
+    "message": "Historia"
+  },
+  "gas_free": {
+    "message": "Gasavgift-fri"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsring"
+  },
+  "gas_free_soon": {
+    "message": "Snart!"
+  },
+  "unknown_chain": {
+    "message": "Okänd kedja #$0"
+  },
+  "manage_wallet": {
+    "message": "Hantera Plånbok"
+  },
+  "wallet_keys": {
+    "message": "Plånbok & Nycklar"
+  },
+  "connected_dapps": {
+    "message": "Anslutna DApps"
+  },
+  "password": {
+    "message": "Lösenord"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "login_out": {
+    "message": "Logga ut"
+  },
+  "login_out_tip": {
+    "message": "Den här åtgärden kommer att ta bort din plånbok. Säkerställ att du har säkerhetskopierat ditt konto innan du fortsätter."
+  },
+  "back_up_your_account": {
+    "message": "Säkerhetskopiera ditt konto"
+  },
+  "understand_and_continue": {
+    "message": "Jag förstår, fortsätt"
+  },
+  "gas_price": {
+    "message": "Gaspris"
+  },
+  "switch_network": {
+    "message": "Byt nätverk"
+  },
+  "update": {
+    "message": "uppdatera"
+  },
+  "add_network": {
+    "message": "Lägg till nätverk"
+  },
+  "request_from": {
+    "message": "Förfrågan"
+  },
+  "network": {
+    "message": "Nätverk"
+  },
+  "chain_name": {
+    "message": "Kedjenamn"
+  },
+  "chain_id": {
+    "message": "Kedje-ID"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Decimaler"
+  },
+  "explorer": {
+    "message": "Utforskare"
+  },
+  "switch_network_tip": {
+    "message": "Du håller på att ändra ditt standardnätverk. Fortsätt endast om du litar på detta nätverk."
+  },
+  "update_network_tip": {
+    "message": "Denna åtgärd kommer att uppdatera dina standardinställningar för nätverket. Var medveten om potentiella säkerhetsrisker."
+  },
+  "add_network_tip": {
+    "message": "Lynx verifierar inte anpassade nätverk. Vänligen var medveten om potentiella risker."
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "confirm": {
+    "message": "Bekräfta"
+  },
+  "want_connect_wallet": {
+    "message": "Vill ansluta till din plånbok"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "approve_tip1": {
+    "message": "Tillåt åtkomst till din plånboksadress, saldo och aktivitet"
+  },
+  "approve_tip2": {
+    "message": "Tillåt behörighet att skicka transaktionsgodkännanden"
+  },
+  "approve_tip3": {
+    "message": "Tillåter inte överföring av tillgångar utan ditt tillstånd"
+  },
+  "connect": {
+    "message": "anslut"
+  },
+  "export_private_key": {
+    "message": "Exportera privat nyckel"
+  },
+  "select_network": {
+    "message": "Välj nätverk"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Tillbaka"
+  },
+  "next": {
+    "message": "Nästa"
+  },
+  "enter_code": {
+    "message": "Vänligen ange det 6-siffriga lösenordet"
+  },
+  "enter_your_code": {
+    "message": "Vänligen ange ditt lösenord"
+  },
+  "enter_code_again": {
+    "message": "Vänligen ange det 6-siffriga lösenordet på nytt"
+  },
+  "forget_password": {
+    "message": "Glömt ditt lösenord?"
+  },
+  "forget_tip1": {
+    "message": "Lynx lagrar inte kontouppgifter och kan inte återställa ditt lösenord. Du kan återställa ditt konto genom att logga in igen."
+  },
+  "forget_tip2": {
+    "message": "Denna åtgärd kommer att radera plånbokkonto. Var vänlig och säkerställ att du har säkerhetskopierat ditt konto innan du fortsätter."
+  },
+  "verify_password": {
+    "message": "Verifiera lösenord"
+  },
+  "set_password": {
+    "message": "Ställ in lösenord"
+  },
+  "confirm_password": {
+    "message": "Bekräfta lösenord"
+  },
+  "address": {
+    "message": "Adress"
+  },
+  "receive_tip": {
+    "message": "Kopiera plånboksadressen för att ta emot medel i denna plånbok"
+  },
+  "copied": {
+    "message": "Kopierad"
+  },
+  "gas_fee": {
+    "message": "Transaktionsavgift"
+  },
+  "fee_settings": {
+    "message": "Avgiftinställningar"
+  },
+  "base_fee": {
+    "message": "Grundavgift"
+  },
+  "priority_fee": {
+    "message": "Prioritetsavgift"
+  },
+  "gas_limit": {
+    "message": "Gasgräns"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Genomsnitt"
+  },
+  "fast": {
+    "message": "Snabb"
+  },
+  "website": {
+    "message": "Webbplats"
+  },
+  "custom": {
+    "message": "Anpassad"
+  },
+  "transfer_request": {
+    "message": "Överföringsbegäran"
+  },
+  "deploy_contract": {
+    "message": "Distribuera kontrakt"
+  },
+  "sender": {
+    "message": "Avsändare"
+  },
+  "amount": {
+    "message": "Belopp"
+  },
+  "simulate_transaction": {
+    "message": "Simulera Transaktion"
+  },
+  "transaction": {
+    "message": "Transaktion"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Otillräckligt token-saldo"
+  },
+  "required_amount": {
+    "message": "Krävda belopp"
+  },
+  "insufficient_token_tip": {
+    "message": "Ditt konto har inte tillräckligt med $0 tokens för att slutföra transaktionen."
+  },
+  "buy": {
+    "message": "Köpa"
+  },
+  "insufficient_gas_fee": {
+    "message": "Otillräcklig gasavgift"
+  },
+  "insufficient_fee_tip": {
+    "message": "Ditt konto har inte tillräckligt med $0 för att täcka nätverksavgiften."
+  },
+  "required_fee": {
+    "message": "Obligatorisk avgift"
+  },
+  "session": {
+    "message": "Session"
+  },
+  "disconnect_dapp": {
+    "message": "Koppla från Dapp"
+  },
+  "remove_dapp": {
+    "message": "Ta bort Dapp"
+  },
+  "signature_request": {
+    "message": "Signaturförfrågan"
+  },
+  "message": {
+    "message": "Meddelande"
+  },
+  "market_cap": {
+    "message": "Marknadsvärde"
+  },
+  "total_supply": {
+    "message": "Total tillgång"
+  },
+  "volume_24h": {
+    "message": "Volym 24h"
+  },
+  "max_supply": {
+    "message": "Maximal tillgång"
+  },
+  "view_on_explorer": {
+    "message": "Visa på Explorer"
+  },
+  "transactions": {
+    "message": "Transaktioner"
+  },
+  "assets": {
+    "message": "Tillgångar"
+  },
+  "tokens": {
+    "message": "Token"
+  },
+  "balance": {
+    "message": "Balans"
+  },
+  "email": {
+    "message": "E-post"
+  },
+  "phone_number": {
+    "message": "Telefonnummer"
+  },
+  "login_email_tip": {
+    "message": "Ange verifieringskoden som skickades till"
+  },
+  "resend_code": {
+    "message": "Skicka om verifieringskod"
+  },
+  "verify": {
+    "message": "Verifiera"
+  },
+  "create_wallet": {
+    "message": "Skapa din första plånbok"
+  },
+  "sign_in": {
+    "message": "Logga in"
+  },
+  "create_passkey": {
+    "message": "Skapa en lösenordnyckel"
+  },
+  "have_passkey": {
+    "message": "Jag har en lösenordnyckel"
+  },
+  "phone_login": {
+    "message": "Telefoninloggning"
+  },
+  "context_meun_send": {
+    "message": "Skicka - Lynx plånbok"
+  },
+  "context_meun_receive": {
+    "message": "Ta emot - Lynx-plånbok"
+  },
+  "context_meun_swap": {
+    "message": "Byt - Lynx plånbok"
+  },
+  "context_meun_buy": {
+    "message": "Köp - Lynx plånbok"
+  },
+  "selected": {
+    "message": "Vald"
+  },
+  "search_network_or_chain": {
+    "message": "Sök nätverk eller Chain ID"
+  },
+  "all": {
+    "message": "Alla"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnät"
+  },
+  "all_networks": {
+    "message": "Alla nätverk"
+  },
+  "chain_not_listed": {
+    "message": "Kedja inte listad?"
+  },
+  "oops": {
+    "message": "Hoppsan"
+  },
+  "oops_content": {
+    "message": "Vi är medvetna om problemet och vårt team arbetar på det. Tack för ditt tålamod!"
+  },
+  "go_back": {
+    "message": "Gå tillbaka"
+  },
+  "saved": {
+    "message": "Sparad"
+  },
+  "let_start_celebrate": {
+    "message": "LÅT OSS BÖRJA FIRANDET"
+  },
+  "view_my_assets": {
+    "message": "Visa Mina Tillgångar"
+  },
+  "received": {
+    "message": "Mottaget"
+  },
+  "sent": {
+    "message": "Skickat"
+  },
+  "swap": {
+    "message": "Byt"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Överföring"
+  },
+  "transaction_details": {
+    "message": "Transaktionsdetaljer"
+  },
+  "transaction_hash": {
+    "message": "Transaktionshash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Tidsstämpel"
+  },
+  "from": {
+    "message": "Från"
+  },
+  "to": {
+    "message": "Till"
+  },
+  "value": {
+    "message": "Värde"
+  },
+  "transaction_fee": {
+    "message": "Transaktionsavgift"
+  }
+}

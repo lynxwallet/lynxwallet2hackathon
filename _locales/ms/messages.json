@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Ikuti Lynx, Terokai Web3"
+  },
+  "wallet_balance": {
+    "message": "Baki"
+  },
+  "token_send": {
+    "message": "Hantar"
+  },
+  "token_receive": {
+    "message": "Terima"
+  },
+  "token_buy": {
+    "message": "Swap (Beli)"
+  },
+  "token_history": {
+    "message": "Sejarah"
+  },
+  "gas_free": {
+    "message": "Tanpa Gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Penajaan"
+  },
+  "gas_free_soon": {
+    "message": "Segera!"
+  },
+  "unknown_chain": {
+    "message": "Rantai tidak diketahui #$0"
+  },
+  "manage_wallet": {
+    "message": "Urus Dompet"
+  },
+  "wallet_keys": {
+    "message": "Dompet & Kunci"
+  },
+  "connected_dapps": {
+    "message": "DApps Bersambung"
+  },
+  "password": {
+    "message": "Kata laluan"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "about": {
+    "message": "Mengenai"
+  },
+  "login_out": {
+    "message": "Log Keluar"
+  },
+  "login_out_tip": {
+    "message": "Tindakan ini akan memadamkan dompet anda. Sila pastikan anda telah membuat sandaran akaun anda sebelum meneruskan."
+  },
+  "back_up_your_account": {
+    "message": "Sandarkan akaun anda"
+  },
+  "understand_and_continue": {
+    "message": "Saya faham, teruskan"
+  },
+  "gas_price": {
+    "message": "Harga Gas"
+  },
+  "switch_network": {
+    "message": "Tukar Rangkaian"
+  },
+  "update": {
+    "message": "Kemas kini"
+  },
+  "add_network": {
+    "message": "Tambah Rangkaian"
+  },
+  "request_from": {
+    "message": "Permintaan"
+  },
+  "network": {
+    "message": "Rangkaian"
+  },
+  "chain_name": {
+    "message": "Nama Rantaian"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "Simbol"
+  },
+  "decimals": {
+    "message": "Perpuluhan"
+  },
+  "explorer": {
+    "message": "Penjelajah"
+  },
+  "switch_network_tip": {
+    "message": "Anda akan menukar rangkaian lalai anda. Hanya teruskan jika anda mempercayai rangkaian ini."
+  },
+  "update_network_tip": {
+    "message": "Tindakan ini akan mengemas kini tetapan rangkaian lalai anda. Sila waspada terhadap potensi risiko keselamatan."
+  },
+  "add_network_tip": {
+    "message": "Lynx tidak mengesahkan rangkaian tersuai. Sila sedar akan risiko yang berpotensi."
+  },
+  "cancel": {
+    "message": "Batalkan"
+  },
+  "confirm": {
+    "message": "Sahkan"
+  },
+  "want_connect_wallet": {
+    "message": "Ingin menyambung ke dompet anda"
+  },
+  "account": {
+    "message": "Akaun"
+  },
+  "approve_tip1": {
+    "message": "Benarkan akses kepada alamat dompet, baki, dan aktiviti anda"
+  },
+  "approve_tip2": {
+    "message": "Benarkan kebenaran untuk menghantar kelulusan transaksi"
+  },
+  "approve_tip3": {
+    "message": "Tidak membenarkan pemindahan aset tanpa kebenaran anda"
+  },
+  "connect": {
+    "message": "sambung"
+  },
+  "export_private_key": {
+    "message": "Eksport Kunci Peribadi"
+  },
+  "select_network": {
+    "message": "Pilih Rangkaian"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "MULAKAN"
+  },
+  "back": {
+    "message": "Belakang"
+  },
+  "next": {
+    "message": "Seterusnya"
+  },
+  "enter_code": {
+    "message": "Sila masukkan kata laluan 6 digit"
+  },
+  "enter_your_code": {
+    "message": "Sila masukkan kata laluan anda"
+  },
+  "enter_code_again": {
+    "message": "Sila masukkan semula kata laluan 6 digit"
+  },
+  "forget_password": {
+    "message": "Lupa kata laluan anda?"
+  },
+  "forget_tip1": {
+    "message": "Lynx tidak menyimpan data akaun dan tidak dapat menetapkan semula kata laluan anda. Anda boleh mengembalikan akaun anda dengan log masuk semula."
+  },
+  "forget_tip2": {
+    "message": "Tindakan ini akan memadamkan akaun dompet. Sila pastikan anda telah membuat sandaran akaun anda sebelum meneruskan."
+  },
+  "verify_password": {
+    "message": "Sahkan Kata Laluan"
+  },
+  "set_password": {
+    "message": "Tetapkan Kata Laluan"
+  },
+  "confirm_password": {
+    "message": "Sahkan Kata Laluan"
+  },
+  "address": {
+    "message": "Alamat"
+  },
+  "receive_tip": {
+    "message": "Salin alamat dompet untuk menerima dana dalam dompet ini"
+  },
+  "copied": {
+    "message": "Disalin"
+  },
+  "gas_fee": {
+    "message": "Yuran Gas"
+  },
+  "fee_settings": {
+    "message": "Tetapan Yuran"
+  },
+  "base_fee": {
+    "message": "Yuran Asas"
+  },
+  "priority_fee": {
+    "message": "Yuran Keutamaan"
+  },
+  "gas_limit": {
+    "message": "Had Gas"
+  },
+  "normal": {
+    "message": "Biasa"
+  },
+  "average": {
+    "message": "Purata"
+  },
+  "fast": {
+    "message": "Cepat"
+  },
+  "website": {
+    "message": "Laman sesawang"
+  },
+  "custom": {
+    "message": "Tersuai"
+  },
+  "transfer_request": {
+    "message": "Permohonan Pemindahan"
+  },
+  "deploy_contract": {
+    "message": "Sebarkan Kontrak"
+  },
+  "sender": {
+    "message": "Pengirim"
+  },
+  "amount": {
+    "message": "Jumlah"
+  },
+  "simulate_transaction": {
+    "message": "Simulasikan Transaksi"
+  },
+  "transaction": {
+    "message": "Transaksi"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Baki token tidak mencukupi"
+  },
+  "required_amount": {
+    "message": "Jumlah Diperlukan"
+  },
+  "insufficient_token_tip": {
+    "message": "Akaun anda tidak mempunyai token $0 yang mencukupi untuk menyelesaikan transaksi."
+  },
+  "buy": {
+    "message": "Beli"
+  },
+  "insufficient_gas_fee": {
+    "message": "Yuran gas tidak mencukupi"
+  },
+  "insufficient_fee_tip": {
+    "message": "Akaun anda tidak mempunyai cukup $0 untuk menampung yuran rangkaian."
+  },
+  "required_fee": {
+    "message": "Yuran Diperlukan"
+  },
+  "session": {
+    "message": "Sesi"
+  },
+  "disconnect_dapp": {
+    "message": "Putuskan sambungan Dapp"
+  },
+  "remove_dapp": {
+    "message": "Keluarkan Dapp"
+  },
+  "signature_request": {
+    "message": "Permintaan Tandatangan"
+  },
+  "message": {
+    "message": "Mesej"
+  },
+  "market_cap": {
+    "message": "Penilaian pasaran"
+  },
+  "total_supply": {
+    "message": "Jumlah keseluruhan"
+  },
+  "volume_24h": {
+    "message": "Jumlah 24j"
+  },
+  "max_supply": {
+    "message": "Bekalan maksimum"
+  },
+  "view_on_explorer": {
+    "message": "Lihat di Explorer"
+  },
+  "transactions": {
+    "message": "Transaksi"
+  },
+  "assets": {
+    "message": "Aset"
+  },
+  "tokens": {
+    "message": "Token"
+  },
+  "balance": {
+    "message": "Baki"
+  },
+  "email": {
+    "message": "E-mel"
+  },
+  "phone_number": {
+    "message": "Nombor Telefon"
+  },
+  "login_email_tip": {
+    "message": "Masukkan kod pengesahan yang dihantar ke"
+  },
+  "resend_code": {
+    "message": "Hantar semula kod pengesahan"
+  },
+  "verify": {
+    "message": "Sahkan"
+  },
+  "create_wallet": {
+    "message": "Cipta Dompet Pertama Anda"
+  },
+  "sign_in": {
+    "message": "Log masuk"
+  },
+  "create_passkey": {
+    "message": "Buat Kunci Akses"
+  },
+  "have_passkey": {
+    "message": "Saya mempunyai Passkey"
+  },
+  "phone_login": {
+    "message": "Log Masuk Telefon"
+  },
+  "context_meun_send": {
+    "message": "Hantar - dompet Lynx"
+  },
+  "context_meun_receive": {
+    "message": "Terima - dompet Lynx"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Dompet Lynx"
+  },
+  "context_meun_buy": {
+    "message": "Beli - Dompet Lynx"
+  },
+  "selected": {
+    "message": "Dipilih"
+  },
+  "search_network_or_chain": {
+    "message": "Cari Rangkaian atau ID Rantai"
+  },
+  "all": {
+    "message": "Semua"
+  },
+  "mainnets": {
+    "message": "Mainnet"
+  },
+  "testnets": {
+    "message": "Rangkaian ujian"
+  },
+  "all_networks": {
+    "message": "Semua Rangkaian"
+  },
+  "chain_not_listed": {
+    "message": "Rangkaian tidak tersenarai?"
+  },
+  "oops": {
+    "message": "Oops"
+  },
+  "oops_content": {
+    "message": "Kami menyedari isu ini dan pasukan kami sedang menanganinya. Terima kasih atas kesabaran anda!"
+  },
+  "go_back": {
+    "message": "Kembali"
+  },
+  "saved": {
+    "message": "Disimpan"
+  },
+  "let_start_celebrate": {
+    "message": "MARI KITA MULA MERAIKAN"
+  },
+  "view_my_assets": {
+    "message": "Lihat Aset Saya"
+  },
+  "received": {
+    "message": "Diterima"
+  },
+  "sent": {
+    "message": "Dihantar"
+  },
+  "swap": {
+    "message": "Tukar"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Pindahan"
+  },
+  "transaction_details": {
+    "message": "Butiran Transaksi"
+  },
+  "transaction_hash": {
+    "message": "Hash Transaksi"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Penanda Waktu"
+  },
+  "from": {
+    "message": "Daripada"
+  },
+  "to": {
+    "message": "Untuk"
+  },
+  "value": {
+    "message": "Nilai"
+  },
+  "transaction_fee": {
+    "message": "Yuran Transaksi"
+  }
+}

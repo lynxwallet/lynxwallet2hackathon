@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx വാലറ്റ്"
+  },
+  "extension_description": {
+    "message": "Lynx പിന്തുടരുക, Web3 നെ അനുശീലിക്കുക"
+  },
+  "wallet_balance": {
+    "message": "ബാലൻസ്"
+  },
+  "token_send": {
+    "message": "അയക്കുക"
+  },
+  "token_receive": {
+    "message": "സ്വീകരിക്കുക"
+  },
+  "token_buy": {
+    "message": "സ്വാപ്പ് (വാങ്ങുക)"
+  },
+  "token_history": {
+    "message": "ചരിത്രം"
+  },
+  "gas_free": {
+    "message": "വിലകൂടാതെ"
+  },
+  "gas_free_sponsorship": {
+    "message": "സ്പോൺസർഷിപ്പ്"
+  },
+  "gas_free_soon": {
+    "message": "വെറും!"
+  },
+  "unknown_chain": {
+    "message": "അജ്ഞാതമായ ചെയിൻ #$0"
+  },
+  "manage_wallet": {
+    "message": "വാലറ്റ് അഡ്മിനിസ്റ്റർ ചെയ്യുക"
+  },
+  "wallet_keys": {
+    "message": "വാലറ്റ് & കീകൾ"
+  },
+  "connected_dapps": {
+    "message": "കണക്റ്റുചെയ്ത Dapps"
+  },
+  "password": {
+    "message": "പാസ്വേഡ്"
+  },
+  "theme": {
+    "message": "തീം"
+  },
+  "language": {
+    "message": "ഭാഷ"
+  },
+  "about": {
+    "message": "കുറിച്ച്"
+  },
+  "login_out": {
+    "message": "ലോഗ് ഔട്ട്"
+  },
+  "login_out_tip": {
+    "message": "ഈ പ്രവർത്തനം നിങ്ങളുടെ വാലറ്റ് ഇല്ലാതാക്കും. തുടർക്ക്ന്നും മുമ്പ് നിങ്ങളുടെ അക്കൗണ്ട് ബാക്കപ്പ് എടുത്തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക."
+  },
+  "back_up_your_account": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ട് ബാക്കപ്പ് എടുക്കുക"
+  },
+  "understand_and_continue": {
+    "message": "എനിക്ക് മനസിലാക്കുന്നു, തുടരുക"
+  },
+  "gas_price": {
+    "message": "ഗ്യാസ് വില"
+  },
+  "switch_network": {
+    "message": "നെറ്റ്‌വർക്ക് മാറ്റുക"
+  },
+  "update": {
+    "message": "അപ്ഡേറ്റ്"
+  },
+  "add_network": {
+    "message": "നെറ്റ്വർക്ക് ചേർക്കുക"
+  },
+  "request_from": {
+    "message": "അഭ്യർത്ഥന"
+  },
+  "network": {
+    "message": "നെറ്റ്‌വർക്ക്"
+  },
+  "chain_name": {
+    "message": "ചെയിൻ പേര്"
+  },
+  "chain_id": {
+    "message": "ചെയിൻ ഐഡി"
+  },
+  "symbol": {
+    "message": "ചിഹ്നം"
+  },
+  "decimals": {
+    "message": "ഡെസിമലുകൾ"
+  },
+  "explorer": {
+    "message": "എക്സ്പ്ലോറർ"
+  },
+  "switch_network_tip": {
+    "message": "നിങ്ങളുടെ ഡിഫോൾട്ട് നെറ്റ്വർക്ക് മാറ്റാനാണ് നിങ്ങൾ ഒരുങ്ങുന്നത്. ഈ നെറ്റ്വർക്കിനോട് നിങ്ങൾക്ക് വിശ്വാസമുള്ള പക്ഷം മാത്രമേ മുന്നോട്ട് പോകേണ്ടു."
+  },
+  "update_network_tip": {
+    "message": "ഈ പ്രവർത്തനം നിങ്ങളുടെ ഡിഫോൾട്ട് നെറ്റ്‌വർക്ക് ക്രമീകരണങ്ങൾ അപ്‌ഡേറ്റ് ചെയ്യും. ദയവായി സുരക്ഷാ അപകടസാധ്യതകൾ ശ്രദ്ധിക്കൂ."
+  },
+  "add_network_tip": {
+    "message": "Lynx കസ്റ്റം നെറ്റ്വർക്കുകൾ പരിശോധിക്കുന്നില്ല. ദയവായി സാദ്ധ്യതയുള്ള അപകടങ്ങളെ അറിഞ്ഞിരിക്കുക."
+  },
+  "cancel": {
+    "message": "റദ്ദാക്കുക"
+  },
+  "confirm": {
+    "message": "സ്ഥിരീകരിക്കൂ"
+  },
+  "want_connect_wallet": {
+    "message": "നിങ്ങളുടെ വാലറ്റുമായി കണക്റ്റുചെയ്യാൻ ആഗ്രഹിക്കുന്നു"
+  },
+  "account": {
+    "message": "അക്കൗണ്ട്"
+  },
+  "approve_tip1": {
+    "message": "നിങ്ങളുടെ വാലറ്റ് വിലാസത്തെയും ബാലൻസന്നെയും പ്രവർത്തനത്തെയും പ്രവേശനം അനുവദിക്കുക"
+  },
+  "approve_tip2": {
+    "message": "ഇടപാട് അനുമതികൾ അയക്കാൻ അനുവാദം അനുവദിക്കൂ"
+  },
+  "approve_tip3": {
+    "message": "നിങ്ങളുടെ അനുമതി കൂടാതെയാണ് ആസ്തികൾ കൈമാറ്റം ചെയ്യാൻ അനുവദിക്കാത്തത്"
+  },
+  "connect": {
+    "message": "കണക്റ്റ്"
+  },
+  "export_private_key": {
+    "message": "സ്വകാര്യ കീ എക്‌സ്പോർട്ട് ചെയ്യുക"
+  },
+  "select_network": {
+    "message": "നെറ്റ്‌വർക്കിൽ തിരഞ്ഞെടുക്കുക"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "തുടക്കം"
+  },
+  "back": {
+    "message": "തിരികെ"
+  },
+  "next": {
+    "message": "അടുത്തത്"
+  },
+  "enter_code": {
+    "message": "ദയവായി 6-അക്ക പാസ്‌വേഡ് നൽകുക"
+  },
+  "enter_your_code": {
+    "message": "ദയവായി നിങ്ങളുടെ പാസ്വേഡ് നൽകുക"
+  },
+  "enter_code_again": {
+    "message": "6-അക്കത്തിലെ പാസ്വേഡ് വീണ്ടും നല്കുക"
+  },
+  "forget_password": {
+    "message": "നിങ്ങളുടെ പാസ്‌വേഡ് മറന്നോ?"
+  },
+  "forget_tip1": {
+    "message": "Lynx അക്കൗണ്ട് ഡാറ്റ സംരക്ഷിക്കുന്നില്ല കൂടാതെ നിങ്ങളുടെ പാസ്‌വേഡ് പുനസജ്ജമാക്കാനും കഴിയില്ല. നിങ്ങൾ വീണ്ടും സൈൻ ഇൻ ചെയ്‌ത് നിങ്ങളുടെ അക്കൗണ്ട് പുനസ്ഥാപിക്കാൻ കഴിയും."
+  },
+  "forget_tip2": {
+    "message": "ഈ നടപടി വാലറ്റ് അക്കൗണ്ട് ആണ് ഇല്ലാതാക്കുക, മുൻപ് നിങ്ങളുടെ അക്കൗണ്ട് ബാക്കപ്പ് എടുത്തിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക."
+  },
+  "verify_password": {
+    "message": " പാസ്വേഡ് സ്ഥിരീകരിക്കുക"
+  },
+  "set_password": {
+    "message": "പാസ്വേഡ് ക്രമീകരിക്കുക"
+  },
+  "confirm_password": {
+    "message": "पासवर्ड की पुष्टि करें"
+  },
+  "address": {
+    "message": "വിലാസം "
+  },
+  "receive_tip": {
+    "message": "ഈ വാലറ്റിൽ ഫണ്ട് സ്വീകരിക്കാൻ വാലറ്റ് വിലാസം പകർത്തുക"
+  },
+  "copied": {
+    "message": "പകര്‍ത്തിയത്"
+  },
+  "gas_fee": {
+    "message": "ഗാസ് ഫീസ്"
+  },
+  "fee_settings": {
+    "message": "ഫീസ് ക്രമീകരണങ്ങൾ"
+  },
+  "base_fee": {
+    "message": "അടിസ്ഥാന ഫീ"
+  },
+  "priority_fee": {
+    "message": "പ്രാധാന്യ ഫീസ്"
+  },
+  "gas_limit": {
+    "message": "ഗാസ് ലിമിറ്റ്"
+  },
+  "normal": {
+    "message": "സാധാരണ"
+  },
+  "average": {
+    "message": "ശരാശരി"
+  },
+  "fast": {
+    "message": "വേഗം"
+  },
+  "website": {
+    "message": "വെബ്സൈറ്റ്"
+  },
+  "custom": {
+    "message": "കസ്റ്റം"
+  },
+  "transfer_request": {
+    "message": "ട്രാൻസ്ഫർ അഭ്യർഥന"
+  },
+  "deploy_contract": {
+    "message": "കോൺട്രാക്ട് വിന്യോജിപ്പിക്കുക"
+  },
+  "sender": {
+    "message": "പ്രയോക്താവ്"
+  },
+  "amount": {
+    "message": "വില('{}')"
+  },
+  "simulate_transaction": {
+    "message": "ഇടപാട് പരിണമിപ്പിക്കുക"
+  },
+  "transaction": {
+    "message": " ഇടപാട്"
+  },
+  "data": {
+    "message": "ഡേറ്റ"
+  },
+  "insufficient_token_balance": {
+    "message": "സമാപ്തിയുടെ അളവിൽ കുറവുണ്ട്"
+  },
+  "required_amount": {
+    "message": "ആവശ്യമായ തുക"
+  },
+  "insufficient_token_tip": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ടിൽ ഇടപാട് പൂർത്തിയാക്കാൻ ആവശ്യമായ $0 ടോകണുകൾ ഉള്ളതില്ല."
+  },
+  "buy": {
+    "message": "വാങ്ങുക"
+  },
+  "insufficient_gas_fee": {
+    "message": "അപരാജിതമായ ഗ്യാസ് ഫീസ്"
+  },
+  "insufficient_fee_tip": {
+    "message": "നിങ്ങളുടെ അക്കൗണ്ടില്‍ നെറ്റ്‌വർക്ക് ഫീസ് അടയ്‌ക്കാനുള്ള മതിയുള്ള $0 ഇല്ല."
+  },
+  "required_fee": {
+    "message": "ആവശ്യമായ ഫീസ്"
+  },
+  "session": {
+    "message": "സെഷൻ"
+  },
+  "disconnect_dapp": {
+    "message": "ഡാപ്പിനെ ബന്ധമുറിക്കുക"
+  },
+  "remove_dapp": {
+    "message": "Dapp നീക്കം ചെയ്യുക"
+  },
+  "signature_request": {
+    "message": "ഹസ്താക്ഷരത്തിന് അഭ്യർത്ഥന"
+  },
+  "message": {
+    "message": "സന്ദേശം"
+  },
+  "market_cap": {
+    "message": "മാർക്കറ്റ് ക്യാപ്പ്"
+  },
+  "total_supply": {
+    "message": "മൊത്ത വാഗ്ദാനം"
+  },
+  "volume_24h": {
+    "message": "24 മണി വോള്യം"
+  },
+  "max_supply": {
+    "message": "പരമാവധി വിതരണം"
+  },
+  "view_on_explorer": {
+    "message": "എക്സ്‌പ്ലോററിൽ കാണുക"
+  },
+  "transactions": {
+    "message": " ഇടപാടുകൾ"
+  },
+  "assets": {
+    "message": "ആസ്തികൾ"
+  },
+  "tokens": {
+    "message": "ടോക്കണുകൾ"
+  },
+  "balance": {
+    "message": "ബാലൻസ്"
+  },
+  "email": {
+    "message": "ഇമെയിൽ"
+  },
+  "phone_number": {
+    "message": "ഫോൺ നമ്പർ"
+  },
+  "login_email_tip": {
+    "message": "നിങ്ങൾക്ക് അയച്ച പരിശോധന കോഡ് നൽകുക"
+  },
+  "resend_code": {
+    "message": "പരിശോധന കോഡ് വീണ്ടും അയയ്ക്കുക"
+  },
+  "verify": {
+    "message": "സ്ഥിരീകരിക്കുക"
+  },
+  "create_wallet": {
+    "message": "നിങ്ങളുടെ ആദ്യ വാലറ്റ് സൃഷ്ടിക്കുക"
+  },
+  "sign_in": {
+    "message": "സൈൻ ഇൻ"
+  },
+  "create_passkey": {
+    "message": "ഒരു പാസ്‌കീ സൃഷ്ടിക്കുക"
+  },
+  "have_passkey": {
+    "message": "എനിക്ക് ഒരു പാസ്‌കീ ഉണ്ട്"
+  },
+  "phone_login": {
+    "message": "ഫോൺ ലോഗിൻ"
+  },
+  "context_meun_send": {
+    "message": "അയയ്ക്കുക - Lynx വാലറ്റ്"
+  },
+  "context_meun_receive": {
+    "message": "ലഭ്യം - Lynx钱包"
+  },
+  "context_meun_swap": {
+    "message": "സ്വാപ്പ് - Lynx Wallet"
+  },
+  "context_meun_buy": {
+    "message": "വാങ്ങുക - Lynx വാലറ്റ്"
+  },
+  "selected": {
+    "message": "തിരഞ്ഞെടുത്ത"
+  },
+  "search_network_or_chain": {
+    "message": "നെറ്റ്‌വർക്ക് അല്ലെങ്കിൽ ചെയിൻ ഐഡി തിരയുക"
+  },
+  "all": {
+    "message": "എല്ലാം"
+  },
+  "mainnets": {
+    "message": "മെർപ്പ്പാതകൾ"
+  },
+  "testnets": {
+    "message": "ടെസ്റ്റ്നെറ്റുകൾ"
+  },
+  "all_networks": {
+    "message": "എക്കാലത്തേയും നെറ്റ്‌വർക്കുകൾ"
+  },
+  "chain_not_listed": {
+    "message": "ചെയിൻ പട്ടികപ്പെടുത്തീസ്?"
+  },
+  "oops": {
+    "message": "ഓപ്സ്"
+  },
+  "oops_content": {
+    "message": "നമ്മൾ പ്രശ്നത്തെക്കുറിച്ച് അറിയുന്നു, നമ്മുടെ സംഘത്തിനെല്ലാം കുമ്മായാണ്. നിങ്ങളുടെ ക്ഷമയ്‌ക്ക് നന്ദി!"
+  },
+  "go_back": {
+    "message": "തിരികെ പോകുക"
+  },
+  "saved": {
+    "message": "സേവ്ഡ് ചെയ്തു"
+  },
+  "let_start_celebrate": {
+    "message": "ആനന്ദം ആഘോഷിക്കാം"
+  },
+  "view_my_assets": {
+    "message": "എന്റെ ആസ്തികൾ കാണുക"
+  },
+  "received": {
+    "message": "ലഭിച്ചു"
+  },
+  "sent": {
+    "message": "അയച്ചു"
+  },
+  "swap": {
+    "message": "സ്വാപ്പ്"
+  },
+  "fiat": {
+    "message": "ഫിയറ്റ്"
+  },
+  "transfer": {
+    "message": "ട്രാൻസ്ഫർ"
+  },
+  "transaction_details": {
+    "message": "ഇടപാട് വിശദാംശങ്ങൾ"
+  },
+  "transaction_hash": {
+    "message": "വിനിമയ ഹാഷ്"
+  },
+  "status": {
+    "message": "സ്ഥിതി"
+  },
+  "timestamp": {
+    "message": "ടൈംസ്റ്റാമ്പ്"
+  },
+  "from": {
+    "message": "മുതൽ"
+  },
+  "to": {
+    "message": "യ്ക്കായി"
+  },
+  "value": {
+    "message": "മൂല്യം"
+  },
+  "transaction_fee": {
+    "message": "ഇടപാട് ഫീസ്"
+  }
+}

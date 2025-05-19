@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx 지갑"
+  },
+  "extension_description": {
+    "message": "Lynx를 따르고 Web3를 탐험하십시오"
+  },
+  "wallet_balance": {
+    "message": "잔액"
+  },
+  "token_send": {
+    "message": "보내기"
+  },
+  "token_receive": {
+    "message": "받기"
+  },
+  "token_buy": {
+    "message": "교환 (구매)"
+  },
+  "token_history": {
+    "message": "역사"
+  },
+  "gas_free": {
+    "message": "가스 비용 없음"
+  },
+  "gas_free_sponsorship": {
+    "message": "후원"
+  },
+  "gas_free_soon": {
+    "message": "곧!"
+  },
+  "unknown_chain": {
+    "message": "알 수 없는 체인 #$0"
+  },
+  "manage_wallet": {
+    "message": "지갑 관리"
+  },
+  "wallet_keys": {
+    "message": "지갑 & 키"
+  },
+  "connected_dapps": {
+    "message": "연결된 DApps"
+  },
+  "password": {
+    "message": "비밀번호"
+  },
+  "theme": {
+    "message": "테마"
+  },
+  "language": {
+    "message": "언어"
+  },
+  "about": {
+    "message": "소개"
+  },
+  "login_out": {
+    "message": "로그아웃"
+  },
+  "login_out_tip": {
+    "message": "이 작업은 지갑을 삭제합니다. 계속 진행하기 전에 계정을 백업했는지 확인하세요."
+  },
+  "back_up_your_account": {
+    "message": "계정을 백업하세요."
+  },
+  "understand_and_continue": {
+    "message": "이해했습니다, 계속하세요."
+  },
+  "gas_price": {
+    "message": "가스 가격"
+  },
+  "switch_network": {
+    "message": "네트워크 전환"
+  },
+  "update": {
+    "message": "업데이트"
+  },
+  "add_network": {
+    "message": "네트워크 추가"
+  },
+  "request_from": {
+    "message": "요청"
+  },
+  "network": {
+    "message": "네트워크"
+  },
+  "chain_name": {
+    "message": "체인 이름"
+  },
+  "chain_id": {
+    "message": "체인 아이디"
+  },
+  "symbol": {
+    "message": "심볼"
+  },
+  "decimals": {
+    "message": "소수点"
+  },
+  "explorer": {
+    "message": "탐색기"
+  },
+  "switch_network_tip": {
+    "message": "기본 네트워크를 변경하려고 합니다. 이 네트워크를 신뢰하는 경우에만 진행하십시오."
+  },
+  "update_network_tip": {
+    "message": "이 작업은 기본 네트워크 설정을 업데이트합니다. 잠재적인 보안 위험에 유의하십시오."
+  },
+  "add_network_tip": {
+    "message": "Lynx는 사용자 정의 네트워크를 검증하지 않습니다. 잠재적 위험에 유의하시기 바랍니다."
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "confirm": {
+    "message": "확인"
+  },
+  "want_connect_wallet": {
+    "message": "당신의 지갑에 연결하려고 합니다."
+  },
+  "account": {
+    "message": "계정"
+  },
+  "approve_tip1": {
+    "message": "지갑 주소, 잔액 및 활동에 대한 액세스를 허용하십시오."
+  },
+  "approve_tip2": {
+    "message": "트랜잭션 승인을 보내기 위한 권한 허용"
+  },
+  "approve_tip3": {
+    "message": "당신의 허가 없이 자산 전송을 허용하지 않음"
+  },
+  "connect": {
+    "message": "연결"
+  },
+  "export_private_key": {
+    "message": "개인 키 내보내기"
+  },
+  "select_network": {
+    "message": "네트워크 선택"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "시작"
+  },
+  "back": {
+    "message": "뒤로"
+  },
+  "next": {
+    "message": "다음"
+  },
+  "enter_code": {
+    "message": "6자리 비밀번호를 입력하세요"
+  },
+  "enter_your_code": {
+    "message": "비밀번호를 입력하세요"
+  },
+  "enter_code_again": {
+    "message": "6자리 비밀번호를 다시 입력하십시오"
+  },
+  "forget_password": {
+    "message": "비밀번호를 잊으셨나요?"
+  },
+  "forget_tip1": {
+    "message": "Lynx는 계정 데이터를 저장하지 않으며 비밀번호를 재설정할 수 없습니다. 다시 로그인하여 계정을 복구할 수 있습니다."
+  },
+  "forget_tip2": {
+    "message": "이 작업은 지갑 계정을 삭제합니다. 진행하기 전에 계정을 백업했는지 확인하십시오."
+  },
+  "verify_password": {
+    "message": "비밀번호 확인"
+  },
+  "set_password": {
+    "message": "비밀번호 설정"
+  },
+  "confirm_password": {
+    "message": "암호 확인"
+  },
+  "address": {
+    "message": "주소"
+  },
+  "receive_tip": {
+    "message": "이 지갑에서 자금을 받기 위해 지갑 주소 복사"
+  },
+  "copied": {
+    "message": "복사됨"
+  },
+  "gas_fee": {
+    "message": "가스비"
+  },
+  "fee_settings": {
+    "message": "수수료 설정"
+  },
+  "base_fee": {
+    "message": "기본 수수료"
+  },
+  "priority_fee": {
+    "message": "우선 수수료"
+  },
+  "gas_limit": {
+    "message": "가스 한도"
+  },
+  "normal": {
+    "message": "정상"
+  },
+  "average": {
+    "message": "평균"
+  },
+  "fast": {
+    "message": "빠름"
+  },
+  "website": {
+    "message": "웹사이트"
+  },
+  "custom": {
+    "message": "커스텀"
+  },
+  "transfer_request": {
+    "message": "이체 요청"
+  },
+  "deploy_contract": {
+    "message": "컨트랙트 배포"
+  },
+  "sender": {
+    "message": "송신자"
+  },
+  "amount": {
+    "message": "수량"
+  },
+  "simulate_transaction": {
+    "message": "거래 시뮬레이션"
+  },
+  "transaction": {
+    "message": "거래"
+  },
+  "data": {
+    "message": "데이터"
+  },
+  "insufficient_token_balance": {
+    "message": "토큰 잔액이 부족합니다."
+  },
+  "required_amount": {
+    "message": "필요한 금액"
+  },
+  "insufficient_token_tip": {
+    "message": "귀하의 계좌에는 거래를 완료하기에 충분한 $0 토큰이 없습니다."
+  },
+  "buy": {
+    "message": "구매"
+  },
+  "insufficient_gas_fee": {
+    "message": "가스 요금 부족"
+  },
+  "insufficient_fee_tip": {
+    "message": "귀하의 계정에는 네트워크 수수료를 부담할 만큼 충분한 $0가 없습니다."
+  },
+  "required_fee": {
+    "message": "필수 수수료"
+  },
+  "session": {
+    "message": "세션"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp 연결 끊기"
+  },
+  "remove_dapp": {
+    "message": "Dapp 제거"
+  },
+  "signature_request": {
+    "message": "서명 요청"
+  },
+  "message": {
+    "message": "메시지"
+  },
+  "market_cap": {
+    "message": "시가 총액"
+  },
+  "total_supply": {
+    "message": "총 공급량"
+  },
+  "volume_24h": {
+    "message": "24시간 거래량"
+  },
+  "max_supply": {
+    "message": "최대 공급량"
+  },
+  "view_on_explorer": {
+    "message": "탐색기에서 보기"
+  },
+  "transactions": {
+    "message": "거래"
+  },
+  "assets": {
+    "message": "자산"
+  },
+  "tokens": {
+    "message": "토큰"
+  },
+  "balance": {
+    "message": "잔액"
+  },
+  "email": {
+    "message": "이메일"
+  },
+  "phone_number": {
+    "message": "전화번호"
+  },
+  "login_email_tip": {
+    "message": "전송된 인증 코드를 입력하십시오."
+  },
+  "resend_code": {
+    "message": "인증 코드 다시 보내기"
+  },
+  "verify": {
+    "message": "확인"
+  },
+  "create_wallet": {
+    "message": "첫 지갑 생성"
+  },
+  "sign_in": {
+    "message": "로그인"
+  },
+  "create_passkey": {
+    "message": "암호 만들기"
+  },
+  "have_passkey": {
+    "message": "저는 패스키를 가지고 있습니다."
+  },
+  "phone_login": {
+    "message": "전화 로그인"
+  },
+  "context_meun_send": {
+    "message": "전송 - Lynx 지갑"
+  },
+  "context_meun_receive": {
+    "message": "받기 - Lynx 지갑"
+  },
+  "context_meun_swap": {
+    "message": "스왑 - Lynx 지갑"
+  },
+  "context_meun_buy": {
+    "message": "구매 - Lynx 지갑"
+  },
+  "selected": {
+    "message": "선택됨"
+  },
+  "search_network_or_chain": {
+    "message": "네트워크 또는 체인 ID 검색"
+  },
+  "all": {
+    "message": "모두"
+  },
+  "mainnets": {
+    "message": "메인넷"
+  },
+  "testnets": {
+    "message": "테스트넷"
+  },
+  "all_networks": {
+    "message": "모든 네트워크"
+  },
+  "chain_not_listed": {
+    "message": "체인이 목록에 없습니까?"
+  },
+  "oops": {
+    "message": "이런"
+  },
+  "oops_content": {
+    "message": "문제를 인지하고 있으며, 우리 팀이 해결 중입니다. 인내심을 가져주셔서 감사합니다!"
+  },
+  "go_back": {
+    "message": "뒤로 가기"
+  },
+  "saved": {
+    "message": "저장됨"
+  },
+  "let_start_celebrate": {
+    "message": "축하를 시작합시다"
+  },
+  "view_my_assets": {
+    "message": "내 자산 보기"
+  },
+  "received": {
+    "message": "받음"
+  },
+  "sent": {
+    "message": "전송"
+  },
+  "swap": {
+    "message": "스왑"
+  },
+  "fiat": {
+    "message": "명목 화폐"
+  },
+  "transfer": {
+    "message": "송금"
+  },
+  "transaction_details": {
+    "message": "거래 세부사항"
+  },
+  "transaction_hash": {
+    "message": "트랜잭션 해시"
+  },
+  "status": {
+    "message": "상태"
+  },
+  "timestamp": {
+    "message": "타임스탬프"
+  },
+  "from": {
+    "message": "부터"
+  },
+  "to": {
+    "message": "에게"
+  },
+  "value": {
+    "message": "가치"
+  },
+  "transaction_fee": {
+    "message": "거래 수수료"
+  }
+}

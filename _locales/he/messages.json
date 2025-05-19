@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx ארנק"
+  },
+  "extension_description": {
+    "message": "עקוב אחרי Lynx, גלה את Web3"
+  },
+  "wallet_balance": {
+    "message": "מאזן"
+  },
+  "token_send": {
+    "message": "שלח"
+  },
+  "token_receive": {
+    "message": "לקבל"
+  },
+  "token_buy": {
+    "message": "המרה (קנייה)"
+  },
+  "token_history": {
+    "message": "היסטוריה"
+  },
+  "gas_free": {
+    "message": "ללא גז"
+  },
+  "gas_free_sponsorship": {
+    "message": "חסות"
+  },
+  "gas_free_soon": {
+    "message": "בקרוב!"
+  },
+  "unknown_chain": {
+    "message": "רשת לא ידועה #$0"
+  },
+  "manage_wallet": {
+    "message": "נהל ארנק"
+  },
+  "wallet_keys": {
+    "message": "ארנק ומפתחות"
+  },
+  "connected_dapps": {
+    "message": "אפליקציות מבוזרות מחוברות"
+  },
+  "password": {
+    "message": "סיסמה"
+  },
+  "theme": {
+    "message": "נושא"
+  },
+  "language": {
+    "message": "שפה"
+  },
+  "about": {
+    "message": "על "
+  },
+  "login_out": {
+    "message": "התנתקות"
+  },
+  "login_out_tip": {
+    "message": "פעולה זו תמחוק את הארנק שלך. אנא וודא שיצרת גיבוי לחשבון שלך לפני שתמשיך."
+  },
+  "back_up_your_account": {
+    "message": "גבה את החשבון שלך"
+  },
+  "understand_and_continue": {
+    "message": "אני מבין, המשך"
+  },
+  "gas_price": {
+    "message": "מחיר גז"
+  },
+  "switch_network": {
+    "message": "החלף רשת"
+  },
+  "update": {
+    "message": "לעדכן"
+  },
+  "add_network": {
+    "message": "הוסף רשת"
+  },
+  "request_from": {
+    "message": "בקשה"
+  },
+  "network": {
+    "message": "רשת"
+  },
+  "chain_name": {
+    "message": "שם הרשת"
+  },
+  "chain_id": {
+    "message": "מזהה שרשרת"
+  },
+  "symbol": {
+    "message": "סמל"
+  },
+  "decimals": {
+    "message": "נקודות עשרוניות"
+  },
+  "explorer": {
+    "message": "אקספלורר"
+  },
+  "switch_network_tip": {
+    "message": "אתה עומד לשנות את הרשת המוגדרת כברירת מחדל. המשך רק אם אתה סומך על רשת זו."
+  },
+  "update_network_tip": {
+    "message": "פעולה זו תעדכן את הגדרות הרשת המוגדרות כברירת מחדל. אנא היו מודעים לסיכונים פוטנציאליים לביטחון."
+  },
+  "add_network_tip": {
+    "message": "Lynx אינו מאמת רשתות מותאמות אישית. אנא היו מודעים לסיכונים האפשריים."
+  },
+  "cancel": {
+    "message": "לבטל"
+  },
+  "confirm": {
+    "message": "אשר"
+  },
+  "want_connect_wallet": {
+    "message": "רוצה להתחבר לארנק שלך"
+  },
+  "account": {
+    "message": "חשבון"
+  },
+  "approve_tip1": {
+    "message": "אפשר גישה לכתובת הארנק שלך, יתרה ופעילות"
+  },
+  "approve_tip2": {
+    "message": "אפשר הרשאה לשלוח אישורי עסקאות"
+  },
+  "approve_tip3": {
+    "message": "לא מאפשר העברת נכסים ללא רשותך"
+  },
+  "connect": {
+    "message": "התחבר"
+  },
+  "export_private_key": {
+    "message": "ייצוא מפתח פרטי"
+  },
+  "select_network": {
+    "message": "בחר רשת"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "התחל"
+  },
+  "back": {
+    "message": "חזרה"
+  },
+  "next": {
+    "message": "הבא"
+  },
+  "enter_code": {
+    "message": "אנא הזן את הסיסמה בת 6 הספרות"
+  },
+  "enter_your_code": {
+    "message": "אנא הזן את הסיסמה שלך"
+  },
+  "enter_code_again": {
+    "message": "נא הזן מחדש את הסיסמה בת 6 הספרות"
+  },
+  "forget_password": {
+    "message": "שכחת את הסיסמה שלך?"
+  },
+  "forget_tip1": {
+    "message": "לינקס אינה שומרת נתוני חשבונות ולא יכולה לאפס את הסיסמה שלך. תוכל לשחזר את החשבון שלך על ידי כניסה מחדש."
+  },
+  "forget_tip2": {
+    "message": "פעולה זו תמחק את חשבון הארנק, אנא ודא שגיבית את החשבון שלך לפני שתמשיך."
+  },
+  "verify_password": {
+    "message": "אמת סיסמה"
+  },
+  "set_password": {
+    "message": "הגדר סיסמה"
+  },
+  "confirm_password": {
+    "message": "אשר סיסמה"
+  },
+  "address": {
+    "message": "כתובת"
+  },
+  "receive_tip": {
+    "message": "העתק את כתובת הארנק כדי לקבל כספים בארנק הזה"
+  },
+  "copied": {
+    "message": "הועתק"
+  },
+  "gas_fee": {
+    "message": "עמלות גז"
+  },
+  "fee_settings": {
+    "message": "הגדרות עמלות"
+  },
+  "base_fee": {
+    "message": "דמי בסיס"
+  },
+  "priority_fee": {
+    "message": "דמי עדיפות"
+  },
+  "gas_limit": {
+    "message": "הגבלת גז"
+  },
+  "normal": {
+    "message": "רגיל"
+  },
+  "average": {
+    "message": "ממוצע"
+  },
+  "fast": {
+    "message": "מהיר"
+  },
+  "website": {
+    "message": "אתר אינטרנט"
+  },
+  "custom": {
+    "message": "מותאם אישית"
+  },
+  "transfer_request": {
+    "message": "בקשת העברה"
+  },
+  "deploy_contract": {
+    "message": "לפרוס חוזה"
+  },
+  "sender": {
+    "message": "שולח"
+  },
+  "amount": {
+    "message": "סכום"
+  },
+  "simulate_transaction": {
+    "message": "הדמיית עסקה"
+  },
+  "transaction": {
+    "message": "עסקה"
+  },
+  "data": {
+    "message": "נתונים"
+  },
+  "insufficient_token_balance": {
+    "message": "יתרת אסימונים לא מספיקה"
+  },
+  "required_amount": {
+    "message": "סכום נדרש"
+  },
+  "insufficient_token_tip": {
+    "message": "החשבון שלך אינו מכיל מספיק אסימוני $0 כדי להשלים את העסקה."
+  },
+  "buy": {
+    "message": "קנה"
+  },
+  "insufficient_gas_fee": {
+    "message": "דמי גז לא מספיקים"
+  },
+  "insufficient_fee_tip": {
+    "message": "אין לחשבון שלך מספיק $0 כדי לכסות את עמלת הרשת."
+  },
+  "required_fee": {
+    "message": "אגרה נדרשת"
+  },
+  "session": {
+    "message": "סשן"
+  },
+  "disconnect_dapp": {
+    "message": "התנתק מ-Dapp"
+  },
+  "remove_dapp": {
+    "message": "הסר את הדאפ"
+  },
+  "signature_request": {
+    "message": "בקשת חתימה"
+  },
+  "message": {
+    "message": "הודעה"
+  },
+  "market_cap": {
+    "message": "שווי שוק"
+  },
+  "total_supply": {
+    "message": "סה\"כ אספקה"
+  },
+  "volume_24h": {
+    "message": "נפח 24 שעות"
+  },
+  "max_supply": {
+    "message": "היצע מקסימלי"
+  },
+  "view_on_explorer": {
+    "message": "הצג ב-Explorer"
+  },
+  "transactions": {
+    "message": "עסקאות"
+  },
+  "assets": {
+    "message": "נכסים"
+  },
+  "tokens": {
+    "message": "אסימונים"
+  },
+  "balance": {
+    "message": "מאזן"
+  },
+  "email": {
+    "message": "אימייל"
+  },
+  "phone_number": {
+    "message": "מספר טלפון"
+  },
+  "login_email_tip": {
+    "message": "הזן את קוד האימות שנשלח ל"
+  },
+  "resend_code": {
+    "message": "שלח מחדש קוד אימות"
+  },
+  "verify": {
+    "message": "וודא"
+  },
+  "create_wallet": {
+    "message": "צור את הארנק הראשון שלך"
+  },
+  "sign_in": {
+    "message": "התחבר"
+  },
+  "create_passkey": {
+    "message": "צור קוד גישה"
+  },
+  "have_passkey": {
+    "message": "יש לי מפתח מעבר"
+  },
+  "phone_login": {
+    "message": "התחברות באמצעות טלפון"
+  },
+  "context_meun_send": {
+    "message": "שלח - ארנק Lynx"
+  },
+  "context_meun_receive": {
+    "message": "קבלה - ארנק Lynx"
+  },
+  "context_meun_swap": {
+    "message": "החלפה - ארנק Lynx"
+  },
+  "context_meun_buy": {
+    "message": "קנה - Lynx ארנק"
+  },
+  "selected": {
+    "message": "נבחר"
+  },
+  "search_network_or_chain": {
+    "message": "חפש רשת או מזהה שרשרת"
+  },
+  "all": {
+    "message": "הכל"
+  },
+  "mainnets": {
+    "message": "רשתות ראשיות"
+  },
+  "testnets": {
+    "message": "רשתות בדיקה"
+  },
+  "all_networks": {
+    "message": "כל הרשתות"
+  },
+  "chain_not_listed": {
+    "message": "שרשרת לא רשומה?"
+  },
+  "oops": {
+    "message": "אופס"
+  },
+  "oops_content": {
+    "message": "אנחנו מודעים לבעיה והצוות שלנו מטפל בזה. תודה על הסבלנות שלך!"
+  },
+  "go_back": {
+    "message": "חזור"
+  },
+  "saved": {
+    "message": "נשמר"
+  },
+  "let_start_celebrate": {
+    "message": "בואו נתחיל לחגוג"
+  },
+  "view_my_assets": {
+    "message": "הצג את הנכסים שלי"
+  },
+  "received": {
+    "message": "נתקבל"
+  },
+  "sent": {
+    "message": "נשלח"
+  },
+  "swap": {
+    "message": "החלפה"
+  },
+  "fiat": {
+    "message": "פיאט"
+  },
+  "transfer": {
+    "message": "העברה"
+  },
+  "transaction_details": {
+    "message": "פרטי עסקה"
+  },
+  "transaction_hash": {
+    "message": "מזהה עסקה"
+  },
+  "status": {
+    "message": "סטטוס"
+  },
+  "timestamp": {
+    "message": "חותמת זמן"
+  },
+  "from": {
+    "message": "מ"
+  },
+  "to": {
+    "message": "אל"
+  },
+  "value": {
+    "message": "ערך"
+  },
+  "transaction_fee": {
+    "message": "עמלת עסקה"
+  }
+}

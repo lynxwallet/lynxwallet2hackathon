@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx வாலெட்"
+  },
+  "extension_description": {
+    "message": "Lynx ஐப் பின்தொடரவும், Web3 ஐ ஆராயவும்"
+  },
+  "wallet_balance": {
+    "message": "மீதி"
+  },
+  "token_send": {
+    "message": "அனுப்பு"
+  },
+  "token_receive": {
+    "message": "பெறுதல்"
+  },
+  "token_buy": {
+    "message": "பரிமாற்றம் (வாங்குதல்)"
+  },
+  "token_history": {
+    "message": "வரலாறு"
+  },
+  "gas_free": {
+    "message": "எंधன கட்டணம் இல்லாமல்"
+  },
+  "gas_free_sponsorship": {
+    "message": "நிர்வாக ஆதரவு"
+  },
+  "gas_free_soon": {
+    "message": "விரைவில்!"
+  },
+  "unknown_chain": {
+    "message": "அறியப்படாத சங்கிலி #$0"
+  },
+  "manage_wallet": {
+    "message": "வாலட்டை நிர்வகிக்கவும்"
+  },
+  "wallet_keys": {
+    "message": "பணப்பை மற்றும் விசைகள்"
+  },
+  "connected_dapps": {
+    "message": "இணைக்கப்பட்ட DApps"
+  },
+  "password": {
+    "message": "கடவுச்சொல்"
+  },
+  "theme": {
+    "message": "தீம்"
+  },
+  "language": {
+    "message": "மொழி"
+  },
+  "about": {
+    "message": "பற்றி"
+  },
+  "login_out": {
+    "message": "வெளியேறு"
+  },
+  "login_out_tip": {
+    "message": "இந்த செயல் உங்கள் வாலட்டைப் மட்டும் நீக்கிவிடும். தொடருவதற்கு முன் உங்கள் கணக்கை ஆதாரப்படுத்தி வைத்திருக்க வேண்டும்."
+  },
+  "back_up_your_account": {
+    "message": "உங்கள் கணக்கினை காப்புப்பதிவு செய்யவும்"
+  },
+  "understand_and_continue": {
+    "message": "நான் புரிந்து கொண்டேன், தொடருங்கள்"
+  },
+  "gas_price": {
+    "message": "கோஸ் விலை"
+  },
+  "switch_network": {
+    "message": "நெட்வொர்க் மாறவும்"
+  },
+  "update": {
+    "message": "புதுப்பிப்பு"
+  },
+  "add_network": {
+    "message": "நெட்வொர்க் சேர்க்கவும்"
+  },
+  "request_from": {
+    "message": "கோரிக்கை"
+  },
+  "network": {
+    "message": "நெட்வொர்க்"
+  },
+  "chain_name": {
+    "message": "சங்கிலி பெயர்"
+  },
+  "chain_id": {
+    "message": "செயின் ஐடி"
+  },
+  "symbol": {
+    "message": "சின்னம்"
+  },
+  "decimals": {
+    "message": "தசமங்கள்"
+  },
+  "explorer": {
+    "message": "எக்ஸ்ப்ளோரர்"
+  },
+  "switch_network_tip": {
+    "message": "இணையத்தை மாற்றப் போகிறீர்கள். இந்த இணையத்தில் நம்பிக்கை இருந்தால் மட்டுமே தொடங்கவும்."
+  },
+  "update_network_tip": {
+    "message": "இந்த செயல் உங்கள் இயல்புநிலை நெட்வொர்க் அமைப்புகளை புதுப்பிக்கும். சாத்தியமான பாதுகாப்பு அபாயங்களை பற்றி விழிப்புணர்வுடன் இருக்கவும்."
+  },
+  "add_network_tip": {
+    "message": "Lynx தனிப்பயன் நெட்வொர்க்குகளை உறுதிப்படுத்தாது. சாத்தியமான அபாயங்களை கவனத்தில் கொள்ளவும்."
+  },
+  "cancel": {
+    "message": "ரத்து"
+  },
+  "confirm": {
+    "message": "உறுதிப்படுத்தவும்"
+  },
+  "want_connect_wallet": {
+    "message": "உங்கள் பணப்பையை இணைக்க விரும்பുന്നു"
+  },
+  "account": {
+    "message": "கணக்கு"
+  },
+  "approve_tip1": {
+    "message": "உங்கள் வாலட் முகவரி, இருப்பு, மற்றும் செயல்பாட்டிற்கான அணுகலை அனுமதிக்கவும்"
+  },
+  "approve_tip2": {
+    "message": "பரிவர்த்தனை ஒப்புதல்களை அனுப்ப அனுமதி அளிக்கவும்"
+  },
+  "approve_tip3": {
+    "message": "உங்கள் அனுமதியின்றி சொத்துக்களை மாற்ற அனுமதிக்காது"
+  },
+  "connect": {
+    "message": "இணைக்கவும்"
+  },
+  "export_private_key": {
+    "message": "தனிப்பட்ட யாழ்.ஊசியை வெளிநடத்தவும்"
+  },
+  "select_network": {
+    "message": "நெட்வொர்க் தேர்ந்தெடுக்கவும்"
+  },
+  "nfts": {
+    "message": "NFTகள்"
+  },
+  "start": {
+    "message": "தொடக்கம்"
+  },
+  "back": {
+    "message": "மீண்டும்"
+  },
+  "next": {
+    "message": "அடுத்தது"
+  },
+  "enter_code": {
+    "message": "கூகுள் 6-எண் கடவுச்சொல்லை உள்ளிடவும்"
+  },
+  "enter_your_code": {
+    "message": "தயவுசெய்து உங்கள் கடவுச்சொல்லை உள்ளிடவும்"
+  },
+  "enter_code_again": {
+    "message": "6 இலக்க கடவுச்சொல்லை மீண்டும் நுழைக்கவும்."
+  },
+  "forget_password": {
+    "message": "உங்கள் கடவுச்சொல்லை மறந்துவிட்டீர்களா?"
+  },
+  "forget_tip1": {
+    "message": "Lynx கணக்கு தரவுகளை சேமிக்காது மற்றும் உங்கள் கடவுச்சொல்லை மீட்டமைக்க முடியாது. நீங்கள் மீண்டும் உள்நுழைவு செய்வதன் மூலம் உங்கள் கணக்கை மீட்டமைக்கலாம்."
+  },
+  "forget_tip2": {
+    "message": "இந்த நடவடிக்கை வாலட் கணக்கை நீக்கிவிடும், தொடருவதற்குப் முன் உங்கள் கணக்கை காப்பு எடுத்திருப்பதை உறுதிப்படுத்தவும்."
+  },
+  "verify_password": {
+    "message": "கடவுச்சொல்லை பரிசோதிக்கவும்"
+  },
+  "set_password": {
+    "message": "கடவுச்சொல்லை அமைக்கவும்"
+  },
+  "confirm_password": {
+    "message": "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
+  },
+  "address": {
+    "message": "முகவரி"
+  },
+  "receive_tip": {
+    "message": "இந்த பணப்பைவில் நிதிகளைப் பெற பணப்பை முகவரியை பிரதி எடுத்துக்கொள்வது"
+  },
+  "copied": {
+    "message": "நகல் செய்யப்பட்டு"
+  },
+  "gas_fee": {
+    "message": "பரிமாற்ற கட்டணம்"
+  },
+  "fee_settings": {
+    "message": "கட்டண அமைப்புகள்"
+  },
+  "base_fee": {
+    "message": "அடிப்படை கட்டணம்"
+  },
+  "priority_fee": {
+    "message": "முந்துரிமை கட்டணம்"
+  },
+  "gas_limit": {
+    "message": "காஸ் வரம்பு"
+  },
+  "normal": {
+    "message": "சாதாரணம்"
+  },
+  "average": {
+    "message": "சராசரி"
+  },
+  "fast": {
+    "message": "வேகமாக"
+  },
+  "website": {
+    "message": "இணையதளம்"
+  },
+  "custom": {
+    "message": "இயந்திரம்"
+  },
+  "transfer_request": {
+    "message": "பரிமாற்ற கோரிக்கை"
+  },
+  "deploy_contract": {
+    "message": "ஒப்பந்தத்தை நடைமுறைப்படுத்தவும்"
+  },
+  "sender": {
+    "message": "அனுப்புநர்"
+  },
+  "amount": {
+    "message": "தொகை"
+  },
+  "simulate_transaction": {
+    "message": "பரிவர்த்தனை சித்தரிப்பு"
+  },
+  "transaction": {
+    "message": "பரிவர்த்தனை"
+  },
+  "data": {
+    "message": "தகவல்கள்"
+  },
+  "insufficient_token_balance": {
+    "message": "போதுமான டோக்கன் இருப்பு இல்லை"
+  },
+  "required_amount": {
+    "message": "தேவையான தொகை"
+  },
+  "insufficient_token_tip": {
+    "message": "உங்கள் கணக்கில் பரிவர்த்தனையை முடிக்க போதிய $0 டோகன்கள் இல்லை."
+  },
+  "buy": {
+    "message": "வாங்கவும்"
+  },
+  "insufficient_gas_fee": {
+    "message": "மிக குறைவான எரிபொருள் கட்டணம்"
+  },
+  "insufficient_fee_tip": {
+    "message": "உங்கள் கணக்கில் பிணைய கட்டணத்தை பாதுகாப்பதற்குக் குறைவான $0 உள்ளது."
+  },
+  "required_fee": {
+    "message": "தேவையான கட்டணம்"
+  },
+  "session": {
+    "message": "அமர்வு"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp-ஐ துண்டிக்கவும்"
+  },
+  "remove_dapp": {
+    "message": "Dapp ஐ அகற்று"
+  },
+  "signature_request": {
+    "message": "கையொப்ப கோரிக்கை"
+  },
+  "message": {
+    "message": "செய்தி"
+  },
+  "market_cap": {
+    "message": "சந்தை மதிப்பு"
+  },
+  "total_supply": {
+    "message": "மொத்த வழங்கல்"
+  },
+  "volume_24h": {
+    "message": "மொத்த பரிமாற்றம் 24 மணி நேரம்"
+  },
+  "max_supply": {
+    "message": "அதிகபட்ச வழங்கல்"
+  },
+  "view_on_explorer": {
+    "message": "எக்ஸ்ப்ளோரரில் காண்க"
+  },
+  "transactions": {
+    "message": "பரிவர்த்தனைகள்"
+  },
+  "assets": {
+    "message": "சொத்து"
+  },
+  "tokens": {
+    "message": "டோக்கன்கள்"
+  },
+  "balance": {
+    "message": "மீதி"
+  },
+  "email": {
+    "message": "மின்னஞ்சல்"
+  },
+  "phone_number": {
+    "message": "தொலைபேசி எண்"
+  },
+  "login_email_tip": {
+    "message": "அனுப்பப்பட்ட சரிபார்ப்புக் குறியீட்டை உள்ளிடவும்"
+  },
+  "resend_code": {
+    "message": "சரிபார்ப்பு குறியீட்டை மீண்டும் அனுப்பவும்"
+  },
+  "verify": {
+    "message": "சரிபார்"
+  },
+  "create_wallet": {
+    "message": "உங்கள் முதல் வாலட்டை உருவாக்குங்கள்"
+  },
+  "sign_in": {
+    "message": "உள்நுழையவும்"
+  },
+  "create_passkey": {
+    "message": "ஒரு பாஸ்கியை உருவாக்கவும்"
+  },
+  "have_passkey": {
+    "message": "என்னிடம் ஒரு பாஸ்ஃகீ உள்ளது"
+  },
+  "phone_login": {
+    "message": "தொலைபேசி உள்நுழைவு"
+  },
+  "context_meun_send": {
+    "message": "அனுப்பு - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "லாபம் பெற - Lynx பணப்பை"
+  },
+  "context_meun_swap": {
+    "message": "மாற்றவும் - Lynx பணப்பையை"
+  },
+  "context_meun_buy": {
+    "message": "வாங்க - Lynx பணப்பை"
+  },
+  "selected": {
+    "message": "தேர்ந்தெடுக்கப்பட்டது"
+  },
+  "search_network_or_chain": {
+    "message": "பிணையம் அல்லது சங்கிலி அடையாளத்தைத் தேடுங்கள்."
+  },
+  "all": {
+    "message": "அனைத்து"
+  },
+  "mainnets": {
+    "message": "மெய்நிகர் நெட்வொர்க்"
+  },
+  "testnets": {
+    "message": "டெஸ்ட் நெட்வொர்க்kள்"
+  },
+  "all_networks": {
+    "message": "அனைத்து நெட்வொர்க்கள்"
+  },
+  "chain_not_listed": {
+    "message": "சந்தையில் இல்லை?"
+  },
+  "oops": {
+    "message": "ஓப்ஸ்"
+  },
+  "oops_content": {
+    "message": "எங்களுக்கு பிரச்சினை பற்றி தெரியும் மற்றும் எங்கள் குழு அதில் ஈடுபட்டு வருகிறது. உங்கள் பொறுமைக்கு நன்றி!"
+  },
+  "go_back": {
+    "message": "திரும்பிச் செல்"
+  },
+  "saved": {
+    "message": "சேமிக்கப்பட்டது"
+  },
+  "let_start_celebrate": {
+    "message": "வாழ்த்துக்களைத் தொடங்குங்கள்"
+  },
+  "view_my_assets": {
+    "message": "என்னுடைய சொத்துகளைப் பார்க்கவும்"
+  },
+  "received": {
+    "message": "பெறப்பட்டது"
+  },
+  "sent": {
+    "message": "அனுப்பப்பட்டது"
+  },
+  "swap": {
+    "message": "ஸ்வாப்"
+  },
+  "fiat": {
+    "message": "பணவகை"
+  },
+  "transfer": {
+    "message": "மாற்றம்"
+  },
+  "transaction_details": {
+    "message": "ஒப்பந்த விவரங்கள்"
+  },
+  "transaction_hash": {
+    "message": "பரிவர்த்தனை சரம்"
+  },
+  "status": {
+    "message": "நிலை"
+  },
+  "timestamp": {
+    "message": "டைம்ஸ்டாம்பு"
+  },
+  "from": {
+    "message": "இருந்து"
+  },
+  "to": {
+    "message": "க்கு"
+  },
+  "value": {
+    "message": "மதிப்பு"
+  },
+  "transaction_fee": {
+    "message": "பரிமாற்றக் கட்டணம்"
+  }
+}

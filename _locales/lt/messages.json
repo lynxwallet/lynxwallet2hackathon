@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx piniginė"
+  },
+  "extension_description": {
+    "message": "Sekite Lynx, atraskite Web3"
+  },
+  "wallet_balance": {
+    "message": "Balansas"
+  },
+  "token_send": {
+    "message": "Siųsti"
+  },
+  "token_receive": {
+    "message": "Gauti"
+  },
+  "token_buy": {
+    "message": "Mainai (Pirkti)"
+  },
+  "token_history": {
+    "message": "Istorija"
+  },
+  "gas_free": {
+    "message": "Be dujų mokesčio"
+  },
+  "gas_free_sponsorship": {
+    "message": "Rėmimas"
+  },
+  "gas_free_soon": {
+    "message": "Greičiausiai! "
+  },
+  "unknown_chain": {
+    "message": "Nežinoma grandinė #$0"
+  },
+  "manage_wallet": {
+    "message": "Tvarkyti piniginę"
+  },
+  "wallet_keys": {
+    "message": "Piniginė ir Raktai"
+  },
+  "connected_dapps": {
+    "message": "Prijungtos Dapp"
+  },
+  "password": {
+    "message": "Slaptažodis"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "about": {
+    "message": "Apie"
+  },
+  "login_out": {
+    "message": "Atsijungti"
+  },
+  "login_out_tip": {
+    "message": "Šis veiksmas ištrins jūsų piniginę. Prieš tęsiant, įsitikinkite, kad esate sukūrę paskyros atsarginę kopiją."
+  },
+  "back_up_your_account": {
+    "message": "Atsarginė kopija jūsų paskyrai"
+  },
+  "understand_and_continue": {
+    "message": "Supratau, tęskite"
+  },
+  "gas_price": {
+    "message": "Dujų kaina"
+  },
+  "switch_network": {
+    "message": "Perjungti tinklą"
+  },
+  "update": {
+    "message": "Atnaujinti"
+  },
+  "add_network": {
+    "message": "Pridėti Tinklą"
+  },
+  "request_from": {
+    "message": "Prašymas"
+  },
+  "network": {
+    "message": "Tinklas"
+  },
+  "chain_name": {
+    "message": "Grandinės pavadinimas"
+  },
+  "chain_id": {
+    "message": "Grandinės ID"
+  },
+  "symbol": {
+    "message": "Simbolis"
+  },
+  "decimals": {
+    "message": "Dešimtainės dalys"
+  },
+  "explorer": {
+    "message": "Naršyklė"
+  },
+  "switch_network_tip": {
+    "message": "Jūs ketinate pakeisti savo numatytąjį tinklą. Tęskite tik tada, jei pasitikite šiuo tinklu."
+  },
+  "update_network_tip": {
+    "message": "Šis veiksmas atnaujins jūsų numatytuosius tinklo nustatymus. Atkreipkite dėmesį į galimas saugumo rizikas."
+  },
+  "add_network_tip": {
+    "message": "„Lynx“ netikrina tinkintų tinklų. Prašome suvokti galimas rizikas."
+  },
+  "cancel": {
+    "message": "Atšaukti"
+  },
+  "confirm": {
+    "message": "Patvirtinti"
+  },
+  "want_connect_wallet": {
+    "message": "Nori susieti su jūsų pinigine"
+  },
+  "account": {
+    "message": "Paskyra"
+  },
+  "approve_tip1": {
+    "message": "Leisti prieiti prie jūsų piniginės adreso, likučio ir veiklos"
+  },
+  "approve_tip2": {
+    "message": "Leisti leidimą siųsti sandorių patvirtinimus"
+  },
+  "approve_tip3": {
+    "message": "Neleidžia perkelti turto be jūsų leidimo"
+  },
+  "connect": {
+    "message": "prisijungti"
+  },
+  "export_private_key": {
+    "message": "Eksportuoti privačią raktą"
+  },
+  "select_network": {
+    "message": "Pasirinkti tinklą"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "PRADĖTI"
+  },
+  "back": {
+    "message": "Atgal"
+  },
+  "next": {
+    "message": "Kitas"
+  },
+  "enter_code": {
+    "message": "Įveskite 6 skaitmenų slaptažodį"
+  },
+  "enter_your_code": {
+    "message": "Prašome įvesti savo slaptažodį"
+  },
+  "enter_code_again": {
+    "message": "Prašome dar kartą įvesti 6 skaitmenų slaptažodį"
+  },
+  "forget_password": {
+    "message": "Pamiršote slaptažodį?"
+  },
+  "forget_tip1": {
+    "message": "„Lynx“ nesaugo paskyros duomenų ir negali atkurti jūsų slaptažodžio. Jūs galite atkurti savo paskyrą prisijungdami dar kartą."
+  },
+  "forget_tip2": {
+    "message": "Šis veiksmas ištrins piniginės paskyrą. Įsitikinkite, kad prieš tęsdami atsarginę savo paskyros kopiją."
+  },
+  "verify_password": {
+    "message": "Patvirtinkite slaptažodį"
+  },
+  "set_password": {
+    "message": "Nustatyti slaptažodį"
+  },
+  "confirm_password": {
+    "message": "Patvirtinkite slaptažodį"
+  },
+  "address": {
+    "message": "Adresas"
+  },
+  "receive_tip": {
+    "message": "Nukopijuokite piniginės adresą, kad galėtumėte gauti lėšas šioje piniginėje"
+  },
+  "copied": {
+    "message": "Nukopijuota"
+  },
+  "gas_fee": {
+    "message": "Sandorio mokestis"
+  },
+  "fee_settings": {
+    "message": "Mokesčių nustatymai"
+  },
+  "base_fee": {
+    "message": "Bazinis mokestis"
+  },
+  "priority_fee": {
+    "message": "Pirmenybės mokestis"
+  },
+  "gas_limit": {
+    "message": "Dujų riba"
+  },
+  "normal": {
+    "message": "Įprastas"
+  },
+  "average": {
+    "message": "vidutinis"
+  },
+  "fast": {
+    "message": "Greitas"
+  },
+  "website": {
+    "message": "Interneto svetainė"
+  },
+  "custom": {
+    "message": "Pasirinktinis"
+  },
+  "transfer_request": {
+    "message": "Pervedimo užklausa"
+  },
+  "deploy_contract": {
+    "message": "Vykdyti sutartį"
+  },
+  "sender": {
+    "message": "Siuntėjas"
+  },
+  "amount": {
+    "message": "Suma"
+  },
+  "simulate_transaction": {
+    "message": "Imituoti Sandorį"
+  },
+  "transaction": {
+    "message": "Operacija"
+  },
+  "data": {
+    "message": "Duomenys"
+  },
+  "insufficient_token_balance": {
+    "message": "Nepakankamas tokenų balansas"
+  },
+  "required_amount": {
+    "message": "Reikalinga suma"
+  },
+  "insufficient_token_tip": {
+    "message": "Jūsų sąskaitoje nėra pakankamai $0 žetonų, kad užbaigtumėte operaciją."
+  },
+  "buy": {
+    "message": "Pirkti"
+  },
+  "insufficient_gas_fee": {
+    "message": "Nepakankamas dujų mokestis"
+  },
+  "insufficient_fee_tip": {
+    "message": "Jūsų sąskaitoje nėra pakankamai $0, kad padengtumėte tinklo mokestį."
+  },
+  "required_fee": {
+    "message": "Reikalingas mokestis"
+  },
+  "session": {
+    "message": "Sesija"
+  },
+  "disconnect_dapp": {
+    "message": "Atsijungti nuo Dapp"
+  },
+  "remove_dapp": {
+    "message": "Pašalinti Dapp"
+  },
+  "signature_request": {
+    "message": "Parašo užklausa"
+  },
+  "message": {
+    "message": "Žinutė"
+  },
+  "market_cap": {
+    "message": "Rinkos kapitalizacija"
+  },
+  "total_supply": {
+    "message": "Bendra pasiūla"
+  },
+  "volume_24h": {
+    "message": "24h tūris"
+  },
+  "max_supply": {
+    "message": "Maksimalus tiekimas"
+  },
+  "view_on_explorer": {
+    "message": "Peržiūrėti eksploreryje"
+  },
+  "transactions": {
+    "message": "Sandoriai"
+  },
+  "assets": {
+    "message": "Turtas"
+  },
+  "tokens": {
+    "message": "Žetonai"
+  },
+  "balance": {
+    "message": "Likutis"
+  },
+  "email": {
+    "message": "El. paštas"
+  },
+  "phone_number": {
+    "message": "Telefono numeris"
+  },
+  "login_email_tip": {
+    "message": "Įveskite patvirtinimo kodą, išsiųstą į"
+  },
+  "resend_code": {
+    "message": "Išsiųsti patvirtinimo kodą dar kartą"
+  },
+  "verify": {
+    "message": "Patvirtinti"
+  },
+  "create_wallet": {
+    "message": "Sukurkite savo pirmąją piniginę"
+  },
+  "sign_in": {
+    "message": "Prisijungti"
+  },
+  "create_passkey": {
+    "message": "Sukurkite slaptažodį"
+  },
+  "have_passkey": {
+    "message": "Turiu raktą"
+  },
+  "phone_login": {
+    "message": "Prisijungimas telefonu"
+  },
+  "context_meun_send": {
+    "message": "Siųsti - Lynx piniginė"
+  },
+  "context_meun_receive": {
+    "message": "Gauti - Lynx piniginė"
+  },
+  "context_meun_swap": {
+    "message": "Apsikeisti - Lynx piniginė"
+  },
+  "context_meun_buy": {
+    "message": "Pirkite - Lynx piniginė"
+  },
+  "selected": {
+    "message": "Pasirinktas"
+  },
+  "search_network_or_chain": {
+    "message": "Ieškoti tinklo arba grandinės ID"
+  },
+  "all": {
+    "message": "Viskas"
+  },
+  "mainnets": {
+    "message": "Pagrindiniai tinklai"
+  },
+  "testnets": {
+    "message": "Testnetai"
+  },
+  "all_networks": {
+    "message": "Visi tinklai"
+  },
+  "chain_not_listed": {
+    "message": "Grandinė nepateikta?"
+  },
+  "oops": {
+    "message": "Oi"
+  },
+  "oops_content": {
+    "message": "Esame informuoti apie problemą ir mūsų komanda jau ją sprendžia. Ačiū už jūsų kantrybę!"
+  },
+  "go_back": {
+    "message": "Atgal"
+  },
+  "saved": {
+    "message": "Išsaugota"
+  },
+  "let_start_celebrate": {
+    "message": "PRADĖKIME ŠVĘSTI"
+  },
+  "view_my_assets": {
+    "message": "Peržiūrėti mano turtą"
+  },
+  "received": {
+    "message": "Gauta"
+  },
+  "sent": {
+    "message": "Išsiųsta"
+  },
+  "swap": {
+    "message": "Mainykite"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Perdavimas"
+  },
+  "transaction_details": {
+    "message": "Sandorio detalės"
+  },
+  "transaction_hash": {
+    "message": "Sandorio maišos algoritmo išvestis"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Laiko žyma"
+  },
+  "from": {
+    "message": "Nuo"
+  },
+  "to": {
+    "message": "Į"
+  },
+  "value": {
+    "message": "Vertė"
+  },
+  "transaction_fee": {
+    "message": "Sandorio mokestis"
+  }
+}

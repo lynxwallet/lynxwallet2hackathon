@@ -1,0 +1,423 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Follow Lynx, Explore Web3"
+  },
+  "wallet_balance": {
+    "message": "Balance"
+  },
+  "token_send": {
+    "message": "Send"
+  },
+  "token_receive": {
+    "message": "Receive"
+  },
+  "token_buy": {
+    "message": "Swap (Buy)"
+  },
+  "token_history": {
+    "message": "History"
+  },
+  "gas_free": {
+    "message": "Gas-Free"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsorship"
+  },
+  "gas_free_soon": {
+    "message": "Soon!"
+  },
+  "unknown_chain": {
+    "message": "Unknown chain #$0"
+  },
+  "manage_wallet": {
+    "message": "Manage Wallet"
+  },
+  "wallet_keys": {
+    "message": "Wallet & Keys"
+  },
+  "connected_dapps": {
+    "message": "Connected DApps"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "theme": {
+    "message": "Theme"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "about": {
+    "message": "About"
+  },
+  "login_out": {
+    "message": "Log Out"
+  },
+  "login_out_tip": {
+    "message": "This action will delete your wallet. Please make sure you have backed up your account before continuing."
+  },
+  "back_up_your_account": {
+    "message": "Back up your account"
+  },
+  "understand_and_continue": {
+    "message": "I understand, continue"
+  },
+  "gas_price": {
+    "message": "Gas Price"
+  },
+  "switch_network": {
+    "message": "Switch Network"
+  },
+  "update": {
+    "message": "Update"
+  },
+  "add_network": {
+    "message": "Add Network"
+  },
+  "request_from": {
+    "message": "Request"
+  },
+  "network": {
+    "message": "Network"
+  },
+  "chain_name": {
+    "message": "Chain Name"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Decimals"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "You're about to change your default network. Only proceed if you trust this network."
+  },
+  "update_network_tip": {
+    "message": "This action will update your default network settings. Please be aware of potential security risks."
+  },
+  "add_network_tip": {
+    "message": "Lynx does not verify custom networks. Please be aware of potential risks."
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "confirm": {
+    "message": "Confirm"
+  },
+  "want_connect_wallet": {
+    "message": "Wants to connect to your wallet"
+  },
+  "account": {
+    "message": "Account"
+  },
+  "approve_tip1": {
+    "message": "Allow access to your wallet address, balance, and activity"
+  },
+  "approve_tip2": {
+    "message": "Allow permission to send transaction approvals"
+  },
+  "approve_tip3": {
+    "message": "Does not allow transferring assets without your permission"
+  },
+  "connect": {
+    "message": "connect"
+  },
+  "export_private_key": {
+    "message": "Export Private Key"
+  },
+  "select_network": {
+    "message": "Select Network"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "next": {
+    "message": "Next"
+  },
+  "enter_code": {
+    "message": "Please enter the 6-digit password"
+  },
+  "enter_your_code": {
+    "message": "Please enter your password"
+  },
+  "enter_code_again": {
+    "message": "Please re-enter the 6-digit password"
+  },
+  "forget_password": {
+    "message": "Forgot your password?"
+  },
+  "forget_tip1": {
+    "message": "Lynx does not store account data and cannot reset your password. You can restore your account by signing in again."
+  },
+  "forget_tip2": {
+    "message": "This action will delete wallet account, Please make sure you have backed up your account before proceeding."
+  },
+  "verify_password": {
+    "message": "Verify Password"
+  },
+  "set_password": {
+    "message": "Set Password"
+  },
+  "confirm_password": {
+    "message": "Confirm Password"
+  },
+  "address": {
+    "message": "Address"
+  },
+  "receive_tip": {
+    "message": "Copy the wallet address to receive funds in this wallet"
+  },
+  "copied": {
+    "message": "Copied"
+  },
+  "gas_fee": {
+    "message": "Gas Fee"
+  },
+  "fee_settings": {
+    "message": "Fee Settings"
+  },
+  "base_fee": {
+    "message": "Base Fee"
+  },
+  "priority_fee": {
+    "message": "Priority Fee"
+  },
+  "gas_limit": {
+    "message": "Gas Limit"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Average"
+  },
+  "fast": {
+    "message": "Fast"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "Custom"
+  },
+  "transfer_request": {
+    "message": "Transfer Request"
+  },
+  "deploy_contract": {
+    "message": "Deploy Contract"
+  },
+  "sender": {
+    "message": "Sender"
+  },
+  "amount": {
+    "message": "Amount"
+  },
+  "simulate_transaction": {
+    "message": "Simulate Transaction"
+  },
+  "transaction": {
+    "message": "Transaction"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Insufficient token balance"
+  },
+  "required_amount": {
+    "message": "Required Amount"
+  },
+  "insufficient_token_tip": {
+    "message": "Your account doesn't have enough $0 tokens to complete the transaction."
+  },
+  "buy": {
+    "message": "Buy"
+  },
+  "insufficient_gas_fee": {
+    "message": "Insufficient gas fee"
+  },
+  "insufficient_fee_tip": {
+    "message": "Your account doesn't have enough $0 to cover the network fee."
+  },
+  "required_fee": {
+    "message": "Required Fee"
+  },
+  "session": {
+    "message": "Session"
+  },
+  "disconnect_dapp": {
+    "message": "Disconnect Dapp"
+  },
+  "remove_dapp": {
+    "message": "Remove Dapp"
+  },
+  "signature_request": {
+    "message": "Signature Request"
+  },
+  "message": {
+    "message": "Message"
+  },
+  "market_cap": {
+    "message": "Market cap"
+  },
+  "total_supply": {
+    "message": "Total supply"
+  },
+  "volume_24h": {
+    "message": "Volume 24h"
+  },
+  "max_supply": {
+    "message": "Max supply"
+  },
+  "view_on_explorer": {
+    "message": "View on Explorer"
+  },
+  "transactions": {
+    "message": "Transactions"
+  },
+  "assets": {
+    "message": "Assets"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Balance"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "phone_number": {
+    "message": "Phone Number"
+  },
+  "login_email_tip": {
+    "message": "Enter the verification code sent to"
+  },
+  "resend_code": {
+    "message": "Resend verification code"
+  },
+  "verify": {
+    "message": "Verify"
+  },
+  "create_wallet": {
+    "message": "Create Your First Wallet"
+  },
+  "sign_in": {
+    "message": "Sign in"
+  },
+  "create_passkey": {
+    "message": "Create a Passkey"
+  },
+  "have_passkey": {
+    "message": "I have a Passkey"
+  },
+  "phone_login": {
+    "message": "Phone Login"
+  },
+  "context_meun_send": {
+    "message": "Send - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Receive - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Buy - Lynx wallet"
+  },
+  "selected": {
+    "message": "Selected"
+  },
+  "search_network_or_chain": {
+    "message": "Search Network or Chain ID"
+  },
+  "all": {
+    "message": "All"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "All Networks"
+  },
+  "chain_not_listed": {
+    "message": "Chain not listed?"
+  },
+  "oops": {
+    "message": "Oops"
+  },
+  "oops_content": {
+    "message": "We're aware of the issue and our team is on it. Thanks for your patience!"
+  },
+  "go_back": {
+    "message": "Go Back"
+  },
+  "saved": {
+    "message": "Saved"
+  },
+  "let_start_celebrate": {
+    "message": "LET'S START CELEBRATING"
+  },
+  "view_my_assets": {
+    "message": "View My Assets"
+  },
+  "received": {
+    "message": "Received"
+  },
+  "sent": {
+    "message": "Sent"
+  },
+  "swap": {
+    "message": "Swap"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transfer"
+  },
+  "transaction_details": {
+    "message": "Transaction Details"
+  },
+  "transaction_hash": {
+    "message": "Transaction Hash"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Timestamp"
+  },
+  "from": {
+    "message": "From"
+  },
+  "to": {
+    "message": "To"
+  },
+  "value": {
+    "message": "Value"
+  },
+  "transaction_fee": {
+    "message": "Transaction Fee"
+  }
+
+}

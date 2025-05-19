@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Seguiu Lynx, Exploreu Web3"
+  },
+  "wallet_balance": {
+    "message": "Balanç"
+  },
+  "token_send": {
+    "message": "Enviar"
+  },
+  "token_receive": {
+    "message": "Rebre"
+  },
+  "token_buy": {
+    "message": "Intercanvi (Comprar)"
+  },
+  "token_history": {
+    "message": "Història"
+  },
+  "gas_free": {
+    "message": "Sense gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Patrocini"
+  },
+  "gas_free_soon": {
+    "message": "Aviat!"
+  },
+  "unknown_chain": {
+    "message": "Cadena desconeguda #$0"
+  },
+  "manage_wallet": {
+    "message": "Gestionar moneder"
+  },
+  "wallet_keys": {
+    "message": "Moneder i Claus"
+  },
+  "connected_dapps": {
+    "message": "DApps connectades"
+  },
+  "password": {
+    "message": "Contrasenya"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "about": {
+    "message": "Quant a"
+  },
+  "login_out": {
+    "message": "Tanca Sessió"
+  },
+  "login_out_tip": {
+    "message": "Aquesta acció suprimirà la vostra cartera. Assegureu-vos que heu fet una còpia de seguretat del vostre compte abans de continuar."
+  },
+  "back_up_your_account": {
+    "message": "Fes una còpia de seguretat del teu compte"
+  },
+  "understand_and_continue": {
+    "message": "Entenc, continua"
+  },
+  "gas_price": {
+    "message": "Preu del gas"
+  },
+  "switch_network": {
+    "message": "Canvia la xarxa"
+  },
+  "update": {
+    "message": "Actualització"
+  },
+  "add_network": {
+    "message": "Afegeix xarxa"
+  },
+  "request_from": {
+    "message": "Sol·licitud"
+  },
+  "network": {
+    "message": "Xarxa"
+  },
+  "chain_name": {
+    "message": "Nom de la Cadena"
+  },
+  "chain_id": {
+    "message": "ID de cadena"
+  },
+  "symbol": {
+    "message": "Símbol"
+  },
+  "decimals": {
+    "message": "Decimals"
+  },
+  "explorer": {
+    "message": "Explorador"
+  },
+  "switch_network_tip": {
+    "message": "Estàs a punt de canviar la teva xarxa per defecte. Només continua si confies en aquesta xarxa."
+  },
+  "update_network_tip": {
+    "message": "Aquesta acció actualitzarà la configuració predeterminada de la vostra xarxa. Si us plau, tingueu en compte els riscos de seguretat potencials."
+  },
+  "add_network_tip": {
+    "message": "Lynx no verifica xarxes personalitzades. Si us plau, sigues conscient dels possibles riscos."
+  },
+  "cancel": {
+    "message": "Cancel·lar"
+  },
+  "confirm": {
+    "message": "Confirmar"
+  },
+  "want_connect_wallet": {
+    "message": "Vol connectar-se a la teva cartera"
+  },
+  "account": {
+    "message": "Compte"
+  },
+  "approve_tip1": {
+    "message": "Permet l'accés a l'adreça del teu moneder, al saldo i a l'activitat"
+  },
+  "approve_tip2": {
+    "message": "Permet l'enviament d'aprovacions de transaccions"
+  },
+  "approve_tip3": {
+    "message": "No permet transferir actius sense el teu permís"
+  },
+  "connect": {
+    "message": "connecta"
+  },
+  "export_private_key": {
+    "message": "Exporta la clau privada"
+  },
+  "select_network": {
+    "message": "Seleccionar xarxa"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "INICIA"
+  },
+  "back": {
+    "message": "Enrere"
+  },
+  "next": {
+    "message": "Següent"
+  },
+  "enter_code": {
+    "message": "Si us plau, introdueix la contrasenya de 6 dígits"
+  },
+  "enter_your_code": {
+    "message": "Si us plau, introdueix la teva contrasenya"
+  },
+  "enter_code_again": {
+    "message": "Si us plau, torni a introduir la contrasenya de 6 dígits"
+  },
+  "forget_password": {
+    "message": "Has oblidat la teva contrasenya?"
+  },
+  "forget_tip1": {
+    "message": "Lynx no emmagatzema les dades del compte i no pot restablir la teva contrasenya. Pots restaurar el teu compte iniciant sessió de nou."
+  },
+  "forget_tip2": {
+    "message": "Aquesta acció suprimirà el compte de la cartera. Assegureu-vos que heu fet una còpia de seguretat del vostre compte abans de continuar."
+  },
+  "verify_password": {
+    "message": "Verifica la contrasenya"
+  },
+  "set_password": {
+    "message": "Configura contrasenya"
+  },
+  "confirm_password": {
+    "message": "Confirma la contrasenya"
+  },
+  "address": {
+    "message": "Adreça"
+  },
+  "receive_tip": {
+    "message": "Copia l'adreça de la cartera per rebre fons en aquesta cartera"
+  },
+  "copied": {
+    "message": "Copiat"
+  },
+  "gas_fee": {
+    "message": "Tarifa de Gas"
+  },
+  "fee_settings": {
+    "message": "Configuració de taxes"
+  },
+  "base_fee": {
+    "message": "Tarifa Base"
+  },
+  "priority_fee": {
+    "message": "Tarifa de prioritat"
+  },
+  "gas_limit": {
+    "message": "Límit de Gas"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Mitjà"
+  },
+  "fast": {
+    "message": "Ràpid"
+  },
+  "website": {
+    "message": "Lloc web"
+  },
+  "custom": {
+    "message": "Personalitzat"
+  },
+  "transfer_request": {
+    "message": "Sol·licitud de transferència"
+  },
+  "deploy_contract": {
+    "message": "Desplegar Contracte"
+  },
+  "sender": {
+    "message": "Remitent"
+  },
+  "amount": {
+    "message": "Import"
+  },
+  "simulate_transaction": {
+    "message": "Simula Transacció"
+  },
+  "transaction": {
+    "message": "Transacció"
+  },
+  "data": {
+    "message": "Dades"
+  },
+  "insufficient_token_balance": {
+    "message": "Saldo de tokens insuficient"
+  },
+  "required_amount": {
+    "message": "Import necessari"
+  },
+  "insufficient_token_tip": {
+    "message": "El teu compte no té prou $0 fitxes per completar la transacció."
+  },
+  "buy": {
+    "message": "Comprar"
+  },
+  "insufficient_gas_fee": {
+    "message": "Comissió de gas insuficient"
+  },
+  "insufficient_fee_tip": {
+    "message": "El teu compte no té prou $0 per cobrir la comissió de la xarxa."
+  },
+  "required_fee": {
+    "message": "Comissió requerida"
+  },
+  "session": {
+    "message": "Sessió"
+  },
+  "disconnect_dapp": {
+    "message": "Desconnecta Dapp"
+  },
+  "remove_dapp": {
+    "message": "Eliminar Dapp"
+  },
+  "signature_request": {
+    "message": "Sol·licitud de signatura"
+  },
+  "message": {
+    "message": "Missatge"
+  },
+  "market_cap": {
+    "message": "Capitalització de mercat"
+  },
+  "total_supply": {
+    "message": "Subministrament total"
+  },
+  "volume_24h": {
+    "message": "Volum 24h"
+  },
+  "max_supply": {
+    "message": "Oferta màxima"
+  },
+  "view_on_explorer": {
+    "message": "Veure a l'Explorador"
+  },
+  "transactions": {
+    "message": "Transaccions"
+  },
+  "assets": {
+    "message": "Actius"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Saldo"
+  },
+  "email": {
+    "message": "Correu electrònic"
+  },
+  "phone_number": {
+    "message": "Número de telèfon"
+  },
+  "login_email_tip": {
+    "message": "Introduïu el codi de verificació enviat a"
+  },
+  "resend_code": {
+    "message": "Torna a enviar el codi de verificació"
+  },
+  "verify": {
+    "message": "Verificar"
+  },
+  "create_wallet": {
+    "message": "Crea la teva primera cartera"
+  },
+  "sign_in": {
+    "message": "Inicia sessió"
+  },
+  "create_passkey": {
+    "message": "Crea una clau d'accés"
+  },
+  "have_passkey": {
+    "message": "Tinc una clau mestra"
+  },
+  "phone_login": {
+    "message": "Inici de sessió amb telèfon"
+  },
+  "context_meun_send": {
+    "message": "Enviar - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Rebre - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Intercanvi - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Comprar - Lynx wallet"
+  },
+  "selected": {
+    "message": "Seleccionat"
+  },
+  "search_network_or_chain": {
+    "message": "Cerca la xarxa o ID de cadena"
+  },
+  "all": {
+    "message": "Tot"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "Totes les xarxes"
+  },
+  "chain_not_listed": {
+    "message": "Cadena no llistada?"
+  },
+  "oops": {
+    "message": "Ui!"
+  },
+  "oops_content": {
+    "message": "Som conscients del problema i el nostre equip hi està treballant. Gràcies per la vostra paciència!"
+  },
+  "go_back": {
+    "message": "Enrere"
+  },
+  "saved": {
+    "message": "Desat"
+  },
+  "let_start_celebrate": {
+    "message": "COMENCEM A CELEBRAR"
+  },
+  "view_my_assets": {
+    "message": "Veure els meus actius"
+  },
+  "received": {
+    "message": "Rebut"
+  },
+  "sent": {
+    "message": "Enviat"
+  },
+  "swap": {
+    "message": "Intercanvi"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transferència"
+  },
+  "transaction_details": {
+    "message": "Detalls de la transacció"
+  },
+  "transaction_hash": {
+    "message": "Hash de transacció"
+  },
+  "status": {
+    "message": "Estat"
+  },
+  "timestamp": {
+    "message": "Marca de temps"
+  },
+  "from": {
+    "message": "Des de"
+  },
+  "to": {
+    "message": "A"
+  },
+  "value": {
+    "message": "Valor"
+  },
+  "transaction_fee": {
+    "message": "Comissió de Transacció"
+  }
+}

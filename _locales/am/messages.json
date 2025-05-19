@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "ሊንክስ ኪስ ጋር ይዘምብ"
+  },
+  "extension_description": {
+    "message": "ሊንክስን ይከተሉ፣ Web3ን ያሳዩ"
+  },
+  "wallet_balance": {
+    "message": "ቀሪ ገንዘብ"
+  },
+  "token_send": {
+    "message": "ላክ"
+  },
+  "token_receive": {
+    "message": "ተቀበል"
+  },
+  "token_buy": {
+    "message": "ለዋጥ (ግዢ)"
+  },
+  "token_history": {
+    "message": "ታሪክ"
+  },
+  "gas_free": {
+    "message": "ነካሽ ነፃ"
+  },
+  "gas_free_sponsorship": {
+    "message": "እርዳታ"
+  },
+  "gas_free_soon": {
+    "message": "በቅርቡ!"
+  },
+  "unknown_chain": {
+    "message": "አልታወቀ ሰንሰለት #$0"
+  },
+  "manage_wallet": {
+    "message": "የኪስ አቀናኝ"
+  },
+  "wallet_keys": {
+    "message": "ቦርሳ እና ቁልፎች"
+  },
+  "connected_dapps": {
+    "message": "የተገናኙ ዲአፕ ስርእሶች"
+  },
+  "password": {
+    "message": "የይለፍ ቃል"
+  },
+  "theme": {
+    "message": "እቅፍ"
+  },
+  "language": {
+    "message": "ቋንቋ"
+  },
+  "about": {
+    "message": "ስለ እኛ"
+  },
+  "login_out": {
+    "message": "ውጣ"
+  },
+  "login_out_tip": {
+    "message": "ይህ እርምጃ የእርሶን ዋሌት ያጥፋል። ከመቀጠልዎ በፊት እባኮትን መለያዎን ዋስትና ያድርጉ።"
+  },
+  "back_up_your_account": {
+    "message": "አካውንትዎን ዯክሬብ ያድርጉ "
+  },
+  "understand_and_continue": {
+    "message": "አስተውለዋለሁ፣ ቀጥለህ ትሂድ።"
+  },
+  "gas_price": {
+    "message": "ጋዝ ዋጋ"
+  },
+  "switch_network": {
+    "message": "አውታረ መላሾችን ለውጥ"
+  },
+  "update": {
+    "message": "አሻሻል"
+  },
+  "add_network": {
+    "message": "አዲስ ነትወርክ አስገባ"
+  },
+  "request_from": {
+    "message": "ጥያቄ"
+  },
+  "network": {
+    "message": "ኔትወርክ"
+  },
+  "chain_name": {
+    "message": "ሰንሰለት ስም"
+  },
+  "chain_id": {
+    "message": "ማህበረሰብ መታወቂያ"
+  },
+  "symbol": {
+    "message": "ኣበል"
+  },
+  "decimals": {
+    "message": "የአሰስ ክፍል"
+  },
+  "explorer": {
+    "message": "አስስብ"
+  },
+  "switch_network_tip": {
+    "message": "ነባሪ ኔትወርክዎን ማለወጥ ነው ያለብዎት። ሙሉ እምነት ካልሰጠዎት በርካታ የሚከፈለው አዲሱ ኔትወርክ ነው።"
+  },
+  "update_network_tip": {
+    "message": "ይህ እንቅስቃሴ ነባሪ የኔትወርክ ቅንብሮችዎን ይዘመናል። እባኮትን ግን እንቅስቃሴው ሊያመጣው የሚችሉ የደህንነት አደጋዎች እንዲኖሩ ይረዳችሁ።"
+  },
+  "add_network_tip": {
+    "message": "Lynx ብጁ ኔትወርኮችን አያረጋግጥም። እቅፍ ላይ ያሉ አደጋዎችን እትቅበሩ።"
+  },
+  "cancel": {
+    "message": "መሰረዝ"
+  },
+  "confirm": {
+    "message": "አረጋግጥ"
+  },
+  "want_connect_wallet": {
+    "message": "መቀነየት ወሌትዎ ሚይዝያ።"
+  },
+  "account": {
+    "message": "መለያ"
+  },
+  "approve_tip1": {
+    "message": "እቁዋሙ አካል፤ የዊያሌትዋ አድራሻ ፣ ሚያነ እና እድገቱ ላ.\n"
+  },
+  "approve_tip2": {
+    "message": "የግብይት ማረጋገጫዎችን ለመላክ ፍቃድ ይፍቀዱ"
+  },
+  "approve_tip3": {
+    "message": "ሳይፈቀድህ ንብረቶችን ማላክ አይፈቀድም "
+  },
+  "connect": {
+    "message": "ገናጽ "
+  },
+  "export_private_key": {
+    "message": "የግል ቁልፍ ላክ"
+  },
+  "select_network": {
+    "message": "ኔትወርክ ይምረጡ"
+  },
+  "nfts": {
+    "message": "ኤን ኤፍ ቲ አባላት"
+  },
+  "start": {
+    "message": "ጀምር"
+  },
+  "back": {
+    "message": "ወደ ኋላ"
+  },
+  "next": {
+    "message": "ቀጣይ"
+  },
+  "enter_code": {
+    "message": "እባክዎን 6-አሀዝ ያለውን የይለፍ ቃል ያስገቡ"
+  },
+  "enter_your_code": {
+    "message": "እቃዎን አስገባ እቃ ቁልፍ በተጠይቆ የቀረበ пароль"
+  },
+  "enter_code_again": {
+    "message": "እባክዎን ስድስት ቁጥር ያለው የይለፍ ቃል መግባት ይጀምሩ።"
+  },
+  "forget_password": {
+    "message": "የይለፍ ቃልዎን አረሳሽ? "
+  },
+  "forget_tip1": {
+    "message": "Lynx ባለሙያ እናተጠቃሚ መረጃ አይቆጥብም እና የይለፍ ቃልዎን ማደስ አይችልም። በመመለስ በመግባት ሂደት መለወጥጥ አቀማመጥ ማድረግ ይችላሉ።"
+  },
+  "forget_tip2": {
+    "message": "ይህ ተግባር የዋሌት መለያውን ያጥፋል፣ እቅፋል ከመቀጠልዎ በፊት መለያዎን ዋስትና ማድረግ እትም ተገቢ ነው።"
+  },
+  "verify_password": {
+    "message": "ፕስወርድ አረጋግጥ "
+  },
+  "set_password": {
+    "message": "የይለፍ ቃል ያስቁሙ"
+  },
+  "confirm_password": {
+    "message": "የይልፍ ቃል አረጋግጥ"
+  },
+  "address": {
+    "message": "አድራሻ"
+  },
+  "receive_tip": {
+    "message": "እባኮትን ገንዘብ ለመቀበል በዚህ ቦርሳ አድራሻውን ቅዳ ያገኛዋል።"
+  },
+  "copied": {
+    "message": "ተቀድቷል"
+  },
+  "gas_fee": {
+    "message": "ጋዝ ክፍያ"
+  },
+  "fee_settings": {
+    "message": "ክፍያ ቅንብሮች"
+  },
+  "base_fee": {
+    "message": "መሰረታዊ ክፍያ"
+  },
+  "priority_fee": {
+    "message": "ቅድሚያ ክፍያ"
+  },
+  "gas_limit": {
+    "message": "ጋስ ወሰን"
+  },
+  "normal": {
+    "message": "መደበኛ"
+  },
+  "average": {
+    "message": "አማካይ"
+  },
+  "fast": {
+    "message": "በፍጥነት"
+  },
+  "website": {
+    "message": "ድህረ ገፅ"
+  },
+  "custom": {
+    "message": "ብጁ"
+  },
+  "transfer_request": {
+    "message": "ተፈላጊ ተላላፊ ጥያቄ"
+  },
+  "deploy_contract": {
+    "message": "ኮንትራት ማስተካየት"
+  },
+  "sender": {
+    "message": "ላኪ"
+  },
+  "amount": {
+    "message": "መጠን"
+  },
+  "simulate_transaction": {
+    "message": "ግብይትን ይመልሱ"
+  },
+  "transaction": {
+    "message": "ግብይት"
+  },
+  "data": {
+    "message": "ውሂብ"
+  },
+  "insufficient_token_balance": {
+    "message": "በቂ ያልሆነ የቶክን ሚዛን"
+  },
+  "required_amount": {
+    "message": "ፈለገ መጠን"
+  },
+  "insufficient_token_tip": {
+    "message": "እታኝ መጋራችዎ ለንቅናቄው በቂ የ$0 ቶከን የለውም።"
+  },
+  "buy": {
+    "message": "ግዢ"
+  },
+  "insufficient_gas_fee": {
+    "message": "የአገልግሎት ክፍያ ይቀራል "
+  },
+  "insufficient_fee_tip": {
+    "message": "እቁምነትዎ የኔትወርክ ክፍያ ለማምለክ በቂ $0 የለውም።"
+  },
+  "required_fee": {
+    "message": "የሚያስፈልገው ክፍያ"
+  },
+  "session": {
+    "message": "ክፍለ ጊዜ"
+  },
+  "disconnect_dapp": {
+    "message": "ዳፕን ለማቋረጥ"
+  },
+  "remove_dapp": {
+    "message": "ዳፕን ያስወግዱ"
+  },
+  "signature_request": {
+    "message": "የፊርማ ጥያቄ"
+  },
+  "message": {
+    "message": "መልእክት"
+  },
+  "market_cap": {
+    "message": "ገንዘብ ገፅ"
+  },
+  "total_supply": {
+    "message": "አጠቃላይ እቅፍ"
+  },
+  "volume_24h": {
+    "message": "መጠን 24 ሰዓት"
+  },
+  "max_supply": {
+    "message": "ከፍተኛ ቅርእሽ"
+  },
+  "view_on_explorer": {
+    "message": "በመርምረቢው እይ "
+  },
+  "transactions": {
+    "message": "ግብይቶች"
+  },
+  "assets": {
+    "message": "ንብረት"
+  },
+  "tokens": {
+    "message": "ቶከኖች"
+  },
+  "balance": {
+    "message": "አክል"
+  },
+  "email": {
+    "message": "ኢሜይል"
+  },
+  "phone_number": {
+    "message": "ስልክ ቁጥር"
+  },
+  "login_email_tip": {
+    "message": "እባኮትን የተላከውን እውነተኛ የማረጋግጫ ኮድ ያስገቡ።"
+  },
+  "resend_code": {
+    "message": "የማረጋገጫ ኮድ ዳግመ ላክ"
+  },
+  "verify": {
+    "message": "አረጋግጥ"
+  },
+  "create_wallet": {
+    "message": "የመጀመሪያዎ ዋሌት ይፍጠሩ"
+  },
+  "sign_in": {
+    "message": "ግባ"
+  },
+  "create_passkey": {
+    "message": "ፓስኪ ይፍጠሩ"
+  },
+  "have_passkey": {
+    "message": "እኔ ተለጠፍኩ ቁልፍ አለኝ"
+  },
+  "phone_login": {
+    "message": "የስልክ መግቢያ"
+  },
+  "context_meun_send": {
+    "message": "ላንክስ ዋሌት ላክ "
+  },
+  "context_meun_receive": {
+    "message": "ተቀበል - Lynx ኪስ ዕቃ"
+  },
+  "context_meun_swap": {
+    "message": "ማለዋወጥ - Lynx ኪስ ቦርሳ"
+  },
+  "context_meun_buy": {
+    "message": "ግዢ - Lynx ኪስ ፋይል"
+  },
+  "selected": {
+    "message": "ተመርጧል"
+  },
+  "search_network_or_chain": {
+    "message": "መስመር ወይም ሰንደቅ መታወቂያ ፈልግ"
+  },
+  "all": {
+    "message": "ሁሉም"
+  },
+  "mainnets": {
+    "message": "መዋቅሮች ዋነት"
+  },
+  "testnets": {
+    "message": "ቴስትኔቶች"
+  },
+  "all_networks": {
+    "message": "እስራኤል ኔትወርክ ሁሉ"
+  },
+  "chain_not_listed": {
+    "message": "እንግዲህ ኬይን ባለማንዝራት?"
+  },
+  "oops": {
+    "message": "አይዞህ"
+  },
+  "oops_content": {
+    "message": "ችግሩን እንደተረዳን እና ቡድኣችንም እንደሚሰራበት እንገነዝ፡፡ እንባለኝታ ማሳደግዎን! "
+  },
+  "go_back": {
+    "message": "ተመለስ"
+  },
+  "saved": {
+    "message": "ተቀምጧል"
+  },
+  "let_start_celebrate": {
+    "message": "መሥራትን እንጀምር!"
+  },
+  "view_my_assets": {
+    "message": "ንብረቴን እይ "
+  },
+  "received": {
+    "message": "ተቀበለ"
+  },
+  "sent": {
+    "message": "ተልኳል"
+  },
+  "swap": {
+    "message": "አልቋል"
+  },
+  "fiat": {
+    "message": "ፊያት ገንዘብ"
+  },
+  "transfer": {
+    "message": "ተላላፊ"
+  },
+  "transaction_details": {
+    "message": "ግብይት ዝርዝር"
+  },
+  "transaction_hash": {
+    "message": "ግብይት ዳቦ ማህበር"
+  },
+  "status": {
+    "message": "ሁኔታ"
+  },
+  "timestamp": {
+    "message": "ጊዜ ማህደር"
+  },
+  "from": {
+    "message": "ከ"
+  },
+  "to": {
+    "message": "እንደ "
+  },
+  "value": {
+    "message": "ዋጋ"
+  },
+  "transaction_fee": {
+    "message": "የግብይት ክፍያ"
+  }
+}

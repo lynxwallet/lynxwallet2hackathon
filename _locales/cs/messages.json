@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx peněženka"
+  },
+  "extension_description": {
+    "message": "Sledujte Lynx, prozkoumejte Web3"
+  },
+  "wallet_balance": {
+    "message": "Zůstatek"
+  },
+  "token_send": {
+    "message": "Odeslat"
+  },
+  "token_receive": {
+    "message": "Přijmout"
+  },
+  "token_buy": {
+    "message": "Výměna (Koupit)"
+  },
+  "token_history": {
+    "message": "Historie"
+  },
+  "gas_free": {
+    "message": "Bez poplatků za gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponzorství"
+  },
+  "gas_free_soon": {
+    "message": "Brzy!"
+  },
+  "unknown_chain": {
+    "message": "Neznámý řetězec #$0"
+  },
+  "manage_wallet": {
+    "message": "Spravovat peněženku"
+  },
+  "wallet_keys": {
+    "message": "Peněženka a Klíče"
+  },
+  "connected_dapps": {
+    "message": "Připojené DApps"
+  },
+  "password": {
+    "message": "Heslo"
+  },
+  "theme": {
+    "message": "Téma"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "about": {
+    "message": "O nás"
+  },
+  "login_out": {
+    "message": "Odhlásit se"
+  },
+  "login_out_tip": {
+    "message": "Tato akce vymaže vaši peněženku. Před pokračováním se ujistěte, že máte zálohovaný svůj účet."
+  },
+  "back_up_your_account": {
+    "message": "Zálohujte svůj účet"
+  },
+  "understand_and_continue": {
+    "message": "Rozumím, pokračujte"
+  },
+  "gas_price": {
+    "message": "Poplatek za plyn"
+  },
+  "switch_network": {
+    "message": "Přepnout síť"
+  },
+  "update": {
+    "message": "Aktualizace"
+  },
+  "add_network": {
+    "message": "Přidat síť"
+  },
+  "request_from": {
+    "message": "Žádost"
+  },
+  "network": {
+    "message": "Síť"
+  },
+  "chain_name": {
+    "message": "Název řetězce"
+  },
+  "chain_id": {
+    "message": "ID řetězce"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Desetinná místa"
+  },
+  "explorer": {
+    "message": "Průzkumník"
+  },
+  "switch_network_tip": {
+    "message": "Chystáte se změnit svou výchozí síť. Pokračujte pouze tehdy, pokud této síti důvěřujete."
+  },
+  "update_network_tip": {
+    "message": "Tato akce aktualizuje vaše výchozí nastavení sítě. Buďte si vědomi možných bezpečnostních rizik."
+  },
+  "add_network_tip": {
+    "message": "Lynx neověřuje vlastní sítě. Prosím, buďte si vědomi možných rizik."
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "confirm": {
+    "message": "Potvrdit"
+  },
+  "want_connect_wallet": {
+    "message": "Chce se připojit k vaší peněžence"
+  },
+  "account": {
+    "message": "Účet"
+  },
+  "approve_tip1": {
+    "message": "Povolit přístup k adrese vaší peněženky, zůstatku a aktivitě"
+  },
+  "approve_tip2": {
+    "message": "Povolit oprávnění k odesílání schválení transakcí"
+  },
+  "approve_tip3": {
+    "message": "Nepovoluje převod aktiv bez vašeho svolení"
+  },
+  "connect": {
+    "message": "připojit"
+  },
+  "export_private_key": {
+    "message": "Exportovat soukromý klíč"
+  },
+  "select_network": {
+    "message": "Vybrat síť"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Zpět"
+  },
+  "next": {
+    "message": "Další"
+  },
+  "enter_code": {
+    "message": "Zadejte 6místné heslo"
+  },
+  "enter_your_code": {
+    "message": "Prosím, zadejte své heslo"
+  },
+  "enter_code_again": {
+    "message": "Prosím, zadejte znovu 6místné heslo"
+  },
+  "forget_password": {
+    "message": "Zapomněli jste heslo?"
+  },
+  "forget_tip1": {
+    "message": "Lynx neukládá údaje o účtu a nemůže resetovat vaše heslo. Svůj účet můžete obnovit opětovným přihlášením."
+  },
+  "forget_tip2": {
+    "message": "Tato akce smaže účet peněženky. Ujistěte se, že jste si před pokračováním účet zálohovali."
+  },
+  "verify_password": {
+    "message": "Ověřit heslo"
+  },
+  "set_password": {
+    "message": "Nastavit heslo"
+  },
+  "confirm_password": {
+    "message": "Potvrdit heslo"
+  },
+  "address": {
+    "message": "Adresa"
+  },
+  "receive_tip": {
+    "message": "Zkopírujte adresu peněženky, abyste mohli přijímat prostředky v této peněžence."
+  },
+  "copied": {
+    "message": "Zkopírováno"
+  },
+  "gas_fee": {
+    "message": "Poplatek za plyn"
+  },
+  "fee_settings": {
+    "message": "Nastavení poplatků"
+  },
+  "base_fee": {
+    "message": "Základní poplatek"
+  },
+  "priority_fee": {
+    "message": "Prioritní poplatek"
+  },
+  "gas_limit": {
+    "message": "Limit plynu"
+  },
+  "normal": {
+    "message": "Normální"
+  },
+  "average": {
+    "message": "Průměrný"
+  },
+  "fast": {
+    "message": "Rychlý"
+  },
+  "website": {
+    "message": "Webová stránka"
+  },
+  "custom": {
+    "message": "Vlastní"
+  },
+  "transfer_request": {
+    "message": "Žádost o převod"
+  },
+  "deploy_contract": {
+    "message": "Nasadit smlouvu"
+  },
+  "sender": {
+    "message": "Odesílatel"
+  },
+  "amount": {
+    "message": "Částka"
+  },
+  "simulate_transaction": {
+    "message": "Simulovat transakci"
+  },
+  "transaction": {
+    "message": "Transakce"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Nedostatečný zůstatek tokenů"
+  },
+  "required_amount": {
+    "message": "Požadovaná částka"
+  },
+  "insufficient_token_tip": {
+    "message": "Na vašem účtu není dostatek $0 tokenů pro dokončení transakce."
+  },
+  "buy": {
+    "message": "Koupit"
+  },
+  "insufficient_gas_fee": {
+    "message": "Nedostatečný poplatek za plyn"
+  },
+  "insufficient_fee_tip": {
+    "message": "Na vašem účtu není dostatek $0 k pokrytí poplatku za síť."
+  },
+  "required_fee": {
+    "message": "Požadovaný poplatek"
+  },
+  "session": {
+    "message": "Relace"
+  },
+  "disconnect_dapp": {
+    "message": "Odpojit Dapp"
+  },
+  "remove_dapp": {
+    "message": "Odstranit Dapp"
+  },
+  "signature_request": {
+    "message": "Žádost o podpis"
+  },
+  "message": {
+    "message": "Zpráva"
+  },
+  "market_cap": {
+    "message": "Tržní kapitalizace"
+  },
+  "total_supply": {
+    "message": "Celková zásoba"
+  },
+  "volume_24h": {
+    "message": "Objem za posledních 24 hodin"
+  },
+  "max_supply": {
+    "message": "Maximální nabídka"
+  },
+  "view_on_explorer": {
+    "message": "Zobrazit v Exploreru"
+  },
+  "transactions": {
+    "message": "Transakce"
+  },
+  "assets": {
+    "message": "Aktiva"
+  },
+  "tokens": {
+    "message": "Tokeny"
+  },
+  "balance": {
+    "message": "Zůstatek"
+  },
+  "email": {
+    "message": "E-mail"
+  },
+  "phone_number": {
+    "message": "Telefonní číslo"
+  },
+  "login_email_tip": {
+    "message": "Zadejte ověřovací kód zaslaný na"
+  },
+  "resend_code": {
+    "message": "Znovu odeslat ověřovací kód"
+  },
+  "verify": {
+    "message": "Ověřit"
+  },
+  "create_wallet": {
+    "message": "Vytvořte si svou první peněženku"
+  },
+  "sign_in": {
+    "message": "Přihlásit se"
+  },
+  "create_passkey": {
+    "message": "Vytvořit klíč hesla"
+  },
+  "have_passkey": {
+    "message": "Mám přístupový klíč"
+  },
+  "phone_login": {
+    "message": "Přihlášení telefonem"
+  },
+  "context_meun_send": {
+    "message": "Odeslat - Lynx peněženka"
+  },
+  "context_meun_receive": {
+    "message": "Příjem - Lynx peněženka"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx peněženka"
+  },
+  "context_meun_buy": {
+    "message": "Koupit - Lynx peněženka"
+  },
+  "selected": {
+    "message": "Vybráno"
+  },
+  "search_network_or_chain": {
+    "message": "Vyhledejte síť nebo ID řetězce"
+  },
+  "all": {
+    "message": "Vše"
+  },
+  "mainnets": {
+    "message": "Hlavní sítě"
+  },
+  "testnets": {
+    "message": "Testnety"
+  },
+  "all_networks": {
+    "message": "Všechny sítě"
+  },
+  "chain_not_listed": {
+    "message": "Řetězec není uveden?"
+  },
+  "oops": {
+    "message": "Jejda"
+  },
+  "oops_content": {
+    "message": "Jsme si vědomi problému a náš tým na něm pracuje. Děkujeme za vaši trpělivost!"
+  },
+  "go_back": {
+    "message": "Zpět"
+  },
+  "let_start_celebrate": {
+    "message": "ZAČNĚME SLAVIT"
+  },
+  "view_my_assets": {
+    "message": "Zobrazit mé aktiva"
+  },
+  "saved": {
+    "message": "Uloženo"
+  },
+  "received": {
+    "message": "Přijato"
+  },
+  "sent": {
+    "message": "Odesláno"
+  },
+  "swap": {
+    "message": "Výměna"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Převod"
+  },
+  "transaction_details": {
+    "message": "Podrobnosti o transakci"
+  },
+  "transaction_hash": {
+    "message": "Transakční hash"
+  },
+  "status": {
+    "message": "Stav"
+  },
+  "timestamp": {
+    "message": "Časová značka"
+  },
+  "from": {
+    "message": "Od"
+  },
+  "to": {
+    "message": "Do"
+  },
+  "value": {
+    "message": "Hodnota"
+  },
+  "transaction_fee": {
+    "message": "Transakční poplatek"
+  }
+}

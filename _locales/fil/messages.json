@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Sundan ang Lynx, Tuklasin ang Web3"
+  },
+  "wallet_balance": {
+    "message": "Balanse"
+  },
+  "token_send": {
+    "message": "Ipadala"
+  },
+  "token_receive": {
+    "message": "Tumanggap"
+  },
+  "token_buy": {
+    "message": "Swap (Bumili)"
+  },
+  "token_history": {
+    "message": "Kasaysayan"
+  },
+  "gas_free": {
+    "message": "Walang Gas Fee"
+  },
+  "gas_free_sponsorship": {
+    "message": "Pag-sponsor"
+  },
+  "gas_free_soon": {
+    "message": "Malapit na!"
+  },
+  "unknown_chain": {
+    "message": "Hindi kilalang chain #$0"
+  },
+  "manage_wallet": {
+    "message": "Pamahalaan ang Wallet"
+  },
+  "wallet_keys": {
+    "message": "Pitaka at Mga Susi"
+  },
+  "connected_dapps": {
+    "message": "Nakakonektang DApps"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Wika"
+  },
+  "about": {
+    "message": "Tungkol"
+  },
+  "login_out": {
+    "message": "Mag-logout"
+  },
+  "login_out_tip": {
+    "message": "Ang aksyong ito ay magtatanggal ng iyong wallet. Mangyaring tiyakin na na-back up mo ang iyong account bago magpatuloy."
+  },
+  "back_up_your_account": {
+    "message": "I-back up ang iyong account"
+  },
+  "understand_and_continue": {
+    "message": "Naiintindihan ko, ipagpatuloy"
+  },
+  "gas_price": {
+    "message": "Presyo ng Gas"
+  },
+  "switch_network": {
+    "message": "Palitan ang Network"
+  },
+  "update": {
+    "message": "I-update"
+  },
+  "add_network": {
+    "message": "Magdagdag ng Network"
+  },
+  "request_from": {
+    "message": "Kahilingan"
+  },
+  "network": {
+    "message": "Network"
+  },
+  "chain_name": {
+    "message": "Pangalan ng Chain"
+  },
+  "chain_id": {
+    "message": "Chain Id"
+  },
+  "symbol": {
+    "message": "Simbulo"
+  },
+  "decimals": {
+    "message": "Mga desimal"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "Papalitan mo ang iyong default na network. Magpatuloy lamang kung pinagkakatiwalaan mo ang network na ito."
+  },
+  "update_network_tip": {
+    "message": "Ang aksyong ito ay mag-a-update sa iyong default na mga setting ng network. Mangyaring maging maingat sa mga potensyal na panganib sa seguridad."
+  },
+  "add_network_tip": {
+    "message": "Hindi Sinusuri ng Lynx ang mga custom na network. Mangyaring maging alerto sa posibleng mga panganib."
+  },
+  "cancel": {
+    "message": "Kanselahin"
+  },
+  "confirm": {
+    "message": "Kumpirma"
+  },
+  "want_connect_wallet": {
+    "message": "Nais kumonekta sa iyong pitaka"
+  },
+  "account": {
+    "message": "Account"
+  },
+  "approve_tip1": {
+    "message": "Pahintulutan ang pag-access sa address ng iyong wallet, balanse, at aktibidad"
+  },
+  "approve_tip2": {
+    "message": "Pahintulutan ang pahintulot na magpadala ng mga pag-apruba sa transaksyon"
+  },
+  "approve_tip3": {
+    "message": "Hindi pinapayagan ang paglilipat ng mga assets nang walang iyong pahintulot"
+  },
+  "connect": {
+    "message": "kumonekta"
+  },
+  "export_private_key": {
+    "message": "I-export ang Pribadong Susi"
+  },
+  "select_network": {
+    "message": "Pumili ng Network"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "SIMULA"
+  },
+  "back": {
+    "message": "Bumalik"
+  },
+  "next": {
+    "message": "Susunod"
+  },
+  "enter_code": {
+    "message": "Paki-enter ang 6-digit na password"
+  },
+  "enter_your_code": {
+    "message": "Pakilagay ang iyong password"
+  },
+  "enter_code_again": {
+    "message": "Pakisuyo, muling ipasok ang 6-digit na password"
+  },
+  "forget_password": {
+    "message": "Nakalimutan ang iyong password?"
+  },
+  "forget_tip1": {
+    "message": "Ang Lynx ay hindi nag-iimbak ng data ng account at hindi maaaring i-reset ang iyong password. Maaari mong ibalik ang iyong account sa pamamagitan ng muling pag-sign in."
+  },
+  "forget_tip2": {
+    "message": "Ang aksyon na ito ay magbubura sa wallet account. Siguraduhin na nai-backup mo ang iyong account bago magpatuloy."
+  },
+  "verify_password": {
+    "message": "I-verify ang Password"
+  },
+  "set_password": {
+    "message": "Itakda ang Password"
+  },
+  "confirm_password": {
+    "message": "Kumpirmahin ang Password"
+  },
+  "address": {
+    "message": "Address"
+  },
+  "receive_tip": {
+    "message": "Kopyahin ang address ng wallet upang makatanggap ng pondo sa wallet na ito."
+  },
+  "copied": {
+    "message": "Kinopya"
+  },
+  "gas_fee": {
+    "message": "Bayad sa Gas"
+  },
+  "fee_settings": {
+    "message": "Mga Setting ng Bayad"
+  },
+  "base_fee": {
+    "message": "Batayang Bayad"
+  },
+  "priority_fee": {
+    "message": "Bayarin sa Prayoridad"
+  },
+  "gas_limit": {
+    "message": "Limitasyon sa Gas"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Karaniwan"
+  },
+  "fast": {
+    "message": "Mabilis"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "Pasadyang"
+  },
+  "transfer_request": {
+    "message": "Kahilingan sa Paglipat"
+  },
+  "deploy_contract": {
+    "message": "Idiskarga ang Kontrata"
+  },
+  "sender": {
+    "message": "Nagpadala"
+  },
+  "amount": {
+    "message": "Halaga"
+  },
+  "simulate_transaction": {
+    "message": "Magsimula ng Transaksyon"
+  },
+  "transaction": {
+    "message": "Transaksyon"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Hindi sapat na balanse ng token"
+  },
+  "required_amount": {
+    "message": "Kinakailangang Halaga"
+  },
+  "insufficient_token_tip": {
+    "message": "Ang iyong account ay walang sapat na $0 tokens upang makumpleto ang transaksyon."
+  },
+  "buy": {
+    "message": "Bumili"
+  },
+  "insufficient_gas_fee": {
+    "message": "Hindi sapat na bayad sa gas"
+  },
+  "insufficient_fee_tip": {
+    "message": "Ang iyong account ay walang sapat na $0 upang masakop ang network fee."
+  },
+  "required_fee": {
+    "message": "Kinakailangang Bayad"
+  },
+  "session": {
+    "message": "Sesyon"
+  },
+  "disconnect_dapp": {
+    "message": "Idiskonekta ang Dapp"
+  },
+  "remove_dapp": {
+    "message": "Alisin ang Dapp"
+  },
+  "signature_request": {
+    "message": "Kahilingan sa Lagda"
+  },
+  "message": {
+    "message": "Mensahe"
+  },
+  "market_cap": {
+    "message": "Market cap"
+  },
+  "total_supply": {
+    "message": "Kabuuang suplay"
+  },
+  "volume_24h": {
+    "message": "Dami ng transaksyon sa loob ng 24 oras"
+  },
+  "max_supply": {
+    "message": "Pinakamataas na supply"
+  },
+  "view_on_explorer": {
+    "message": "Tingnan sa Explorer"
+  },
+  "transactions": {
+    "message": "Mga Transaksyon"
+  },
+  "assets": {
+    "message": "Mga Ari-arian"
+  },
+  "tokens": {
+    "message": "Mga Token"
+  },
+  "balance": {
+    "message": "Balanse"
+  },
+  "email": {
+    "message": "Email"
+  },
+  "phone_number": {
+    "message": "Numero ng Telepono"
+  },
+  "login_email_tip": {
+    "message": "Ipasok ang verification code na ipinadala sa"
+  },
+  "resend_code": {
+    "message": "Ipadala muli ang verification code"
+  },
+  "verify": {
+    "message": "Beripika"
+  },
+  "create_wallet": {
+    "message": "Gumawa ng Iyong Unang Wallet"
+  },
+  "sign_in": {
+    "message": "Mag-sign in"
+  },
+  "create_passkey": {
+    "message": "Lumikha ng Passkey"
+  },
+  "have_passkey": {
+    "message": "Mayroon akong Passkey"
+  },
+  "phone_login": {
+    "message": "Pag-login gamit ang Telepono"
+  },
+  "context_meun_send": {
+    "message": "Ipadala - Lynx wallet"
+  },
+  "context_meun_receive": {
+    "message": "Tanggapin - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Bumili - Lynx wallet"
+  },
+  "selected": {
+    "message": "Napili"
+  },
+  "search_network_or_chain": {
+    "message": "Maghanap ng Network o Chain ID"
+  },
+  "all": {
+    "message": "Lahat"
+  },
+  "mainnets": {
+    "message": "Mga Mainnet"
+  },
+  "testnets": {
+    "message": "Mga Testnet"
+  },
+  "all_networks": {
+    "message": "Lahat ng Mga Network"
+  },
+  "chain_not_listed": {
+    "message": "Walang nakalistang chain?"
+  },
+  "oops": {
+    "message": "Naku"
+  },
+  "oops_content": {
+    "message": "Alam namin ang isyu at ang aming koponan ay inaayos na ito. Salamat sa iyong pasensya!"
+  },
+  "go_back": {
+    "message": "Bumalik"
+  },
+  "saved": {
+    "message": "Nakasave"
+  },
+  "let_start_celebrate": {
+    "message": "MAGSIMULA NA TAYONG MAGDIWANG"
+  },
+  "view_my_assets": {
+    "message": "Tingnan ang Aking Mga Asset"
+  },
+  "received": {
+    "message": "Natanggap"
+  },
+  "sent": {
+    "message": "Ipinadala"
+  },
+  "swap": {
+    "message": "Palitan"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Maglipat"
+  },
+  "transaction_details": {
+    "message": "Mga Detalye ng Transaksyon"
+  },
+  "transaction_hash": {
+    "message": "Transaction Hash"
+  },
+  "status": {
+    "message": "Katayuan"
+  },
+  "timestamp": {
+    "message": "Timestamp"
+  },
+  "from": {
+    "message": "Mula"
+  },
+  "to": {
+    "message": "Sa"
+  },
+  "value": {
+    "message": "Halaga"
+  },
+  "transaction_fee": {
+    "message": "Bayad sa Transaksiyon"
+  }
+}

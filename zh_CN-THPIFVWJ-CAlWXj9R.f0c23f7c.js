@@ -1,0 +1,1349 @@
+var e,t;"function"==typeof(e=globalThis.define)&&(t=e,e=null),function(t,i,s,n,o){var p="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{},l="function"==typeof p[n]&&p[n],r=l.cache||{},c="undefined"!=typeof module&&"function"==typeof module.require&&module.require.bind(module);function d(e,i){if(!r[e]){if(!t[e]){var s="function"==typeof p[n]&&p[n];if(!i&&s)return s(e,!0);if(l)return l(e,!0);if(c&&"string"==typeof e)return c(e);var o=Error("Cannot find module '"+e+"'");throw o.code="MODULE_NOT_FOUND",o}b.resolve=function(i){var s=t[e][1][i];return null!=s?s:i},b.cache={};var a=r[e]=new d.Module(e);t[e][0].call(a.exports,b,a,a.exports,this)}return r[e].exports;function b(e){var t=b.resolve(e);return!1===t?{}:d(t)}}d.isParcelRequire=!0,d.Module=function(e){this.id=e,this.bundle=d,this.exports={}},d.modules=t,d.cache=r,d.parent=l,d.register=function(e,i){t[e]=[function(e,t){t.exports=i},{}]},Object.defineProperty(d,"root",{get:function(){return p[n]}}),p[n]=d;for(var a=0;a<i.length;a++)d(i[a]);if(s){var b=d(s);"object"==typeof exports&&"undefined"!=typeof module?module.exports=b:"function"==typeof e&&e.amd?e(function(){return b}):o&&(this[o]=b)}}({"1UvsB":[function(e,t,i){var s=e("@parcel/transformer-js/src/esmodule-helpers.js");s.defineInteropFlag(i),s.export(i,"default",()=>n);var n=`{
+  "connect_wallet": {
+    "label": "\u8fde\u63a5\u94b1\u5305",
+    "wrong_network": {
+      "label": "\u9519\u8bef\u7684\u7f51\u7edc"
+    }
+  },
+  "intro": {
+    "title": "\u4ec0\u4e48\u662f\u94b1\u5305\uff1f",
+    "description": "\u94b1\u5305\u7528\u4e8e\u53d1\u9001\u3001\u63a5\u6536\u3001\u5b58\u50a8\u548c\u663e\u793a\u6570\u5b57\u8d44\u4ea7\u3002\u5b83\u4e5f\u662f\u4e00\u79cd\u65b0\u578b\u7684\u767b\u5f55\u65b9\u5f0f\uff0c\u65e0\u9700\u5728\u6bcf\u4e2a\u7f51\u7ad9\u4e0a\u521b\u5efa\u65b0\u8d26\u6237\u548c\u5bc6\u7801\u3002",
+    "digital_asset": {
+      "title": "\u60a8\u7684\u6570\u5b57\u8d44\u4ea7\u4e4b\u5bb6",
+      "description": "\u94b1\u5305\u7528\u4e8e\u53d1\u9001\u3001\u63a5\u6536\u3001\u5b58\u50a8\u548c\u663e\u793a\u50cf\u4ee5\u592a\u574a\u548cNFT\u8fd9\u6837\u7684\u6570\u5b57\u8d44\u4ea7\u3002"
+    },
+    "login": {
+      "title": "\u4e00\u79cd\u65b0\u7684\u767b\u5f55\u65b9\u5f0f",
+      "description": "\u800c\u4e0d\u662f\u5728\u6bcf\u4e2a\u7f51\u7ad9\u4e0a\u521b\u5efa\u65b0\u7684\u8d26\u6237\u548c\u5bc6\u7801\uff0c\u53ea\u9700\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+    },
+    "get": {
+      "label": "\u83b7\u53d6\u94b1\u5305"
+    },
+    "learn_more": {
+      "label": "\u4e86\u89e3\u66f4\u591a"
+    }
+  },
+  "sign_in": {
+    "label": "\u9a8c\u8bc1\u60a8\u7684\u8d26\u6237",
+    "description": "\u4e3a\u4e86\u5b8c\u6210\u8fde\u63a5\uff0c\u60a8\u5fc5\u987b\u5728\u94b1\u5305\u4e2d\u7b7e\u7f72\u4e00\u6761\u6d88\u606f\uff0c\u4ee5\u9a8c\u8bc1\u60a8\u662f\u6b64\u8d26\u6237\u7684\u6240\u6709\u8005\u3002",
+    "message": {
+      "send": "\u53d1\u9001\u6d88\u606f",
+      "preparing": "\u51c6\u5907\u6d88\u606f\u4e2d...",
+      "cancel": "\u53d6\u6d88",
+      "preparing_error": "\u51c6\u5907\u6d88\u606f\u65f6\u51fa\u9519\uff0c\u8bf7\u91cd\u8bd5\uff01"
+    },
+    "signature": {
+      "waiting": "\u7b49\u5f85\u7b7e\u540d...",
+      "verifying": "\u6b63\u5728\u9a8c\u8bc1\u7b7e\u540d...",
+      "signing_error": "\u7b7e\u7f72\u6d88\u606f\u65f6\u51fa\u9519\uff0c\u8bf7\u91cd\u8bd5\uff01",
+      "verifying_error": "\u9a8c\u8bc1\u7b7e\u540d\u65f6\u51fa\u9519\uff0c\u8bf7\u91cd\u8bd5\uff01",
+      "oops_error": "\u54ce\u5440\uff0c\u51fa\u4e86\u70b9\u95ee\u9898\uff01"
+    }
+  },
+  "connect": {
+    "label": "\u8fde\u63a5",
+    "title": "\u8fde\u63a5\u94b1\u5305",
+    "new_to_ethereum": {
+      "description": "\u5bf9\u4ee5\u592a\u574a\u94b1\u5305\u4e0d\u719f\u6089\uff1f",
+      "learn_more": {
+        "label": "\u4e86\u89e3\u66f4\u591a"
+      }
+    },
+    "learn_more": {
+      "label": "\u4e86\u89e3\u66f4\u591a"
+    },
+    "recent": "\u8fd1\u671f",
+    "status": {
+      "opening": "\u6b63\u5728\u6253\u5f00 %{wallet}...",
+      "connecting": "\u6b63\u5728\u8fde\u63a5",
+      "connect_mobile": "\u5728 %{wallet}\u4e2d\u7ee7\u7eed",
+      "not_installed": "%{wallet} \u5c1a\u672a\u5b89\u88c5",
+      "not_available": "%{wallet} \u4e0d\u53ef\u7528",
+      "confirm": "\u5728\u6269\u5c55\u4e2d\u786e\u8ba4\u8fde\u63a5",
+      "confirm_mobile": "\u5728\u94b1\u5305\u4e2d\u63a5\u53d7\u8fde\u63a5\u8bf7\u6c42"
+    },
+    "secondary_action": {
+      "get": {
+        "description": "\u6ca1\u6709 %{wallet}\u5417\uff1f",
+        "label": "\u83b7\u53d6"
+      },
+      "install": {
+        "label": "\u5b89\u88c5"
+      },
+      "retry": {
+        "label": "\u91cd\u8bd5"
+      }
+    },
+    "walletconnect": {
+      "description": {
+        "full": "\u9700\u8981\u5b98\u65b9\u7684 WalletConnect \u5f39\u7a97\u5417\uff1f",
+        "compact": "\u9700\u8981 WalletConnect \u5f39\u7a97\u5417\uff1f"
+      },
+      "open": {
+        "label": "\u6253\u5f00"
+      }
+    }
+  },
+  "connect_scan": {
+    "title": "\u4f7f\u7528 %{wallet}\u626b\u63cf",
+    "fallback_title": "\u4f7f\u7528\u60a8\u7684\u624b\u673a\u626b\u63cf"
+  },
+  "connector_group": {
+    "installed": "\u5df2\u5b89\u88c5",
+    "recommended": "\u63a8\u8350",
+    "other": "\u5176\u4ed6",
+    "popular": "\u6d41\u884c",
+    "more": "\u66f4\u591a",
+    "others": "\u5176\u4ed6\u7684"
+  },
+  "get": {
+    "title": "\u83b7\u53d6\u4e00\u4e2a\u94b1\u5305",
+    "action": {
+      "label": "\u83b7\u53d6"
+    },
+    "mobile": {
+      "description": "\u79fb\u52a8\u94b1\u5305"
+    },
+    "extension": {
+      "description": "\u6d4f\u89c8\u5668\u6269\u5c55"
+    },
+    "mobile_and_extension": {
+      "description": "\u79fb\u52a8\u94b1\u5305\u548c\u6269\u5c55"
+    },
+    "mobile_and_desktop": {
+      "description": "\u79fb\u52a8\u548c\u684c\u9762\u94b1\u5305"
+    },
+    "looking_for": {
+      "title": "\u4e0d\u662f\u4f60\u8981\u627e\u7684\u5417\uff1f",
+      "mobile": {
+        "description": "\u5728\u4e3b\u5c4f\u5e55\u4e0a\u9009\u62e9\u4e00\u4e2a\u94b1\u5305\uff0c\u4ee5\u5f00\u59cb\u4f7f\u7528\u4e0d\u540c\u7684\u94b1\u5305\u63d0\u4f9b\u5546\u3002"
+      },
+      "desktop": {
+        "compact_description": "\u5728\u4e3b\u5c4f\u5e55\u4e0a\u9009\u62e9\u4e00\u4e2a\u94b1\u5305\uff0c\u4ee5\u5f00\u59cb\u4f7f\u7528\u4e0d\u540c\u7684\u94b1\u5305\u63d0\u4f9b\u5546\u3002",
+        "wide_description": "\u5728\u5de6\u4fa7\u9009\u62e9\u4e00\u4e2a\u94b1\u5305\uff0c\u4ee5\u5f00\u59cb\u4f7f\u7528\u4e0d\u540c\u7684\u94b1\u5305\u63d0\u4f9b\u5546\u3002"
+      }
+    }
+  },
+  "get_options": {
+    "title": "\u5f00\u59cb\u4f7f\u7528 %{wallet}",
+    "short_title": "\u83b7\u53d6 %{wallet}",
+    "mobile": {
+      "title": "%{wallet} \u7528\u4e8e\u79fb\u52a8",
+      "description": "\u4f7f\u7528\u79fb\u52a8\u94b1\u5305\u63a2\u7d22\u4ee5\u592a\u574a\u7684\u4e16\u754c\u3002",
+      "download": {
+        "label": "\u83b7\u53d6\u5e94\u7528"
+      }
+    },
+    "extension": {
+      "title": "%{wallet} \u4e3a %{browser}",
+      "description": "\u4ece\u60a8\u6700\u559c\u6b22\u7684\u7f51\u7edc\u6d4f\u89c8\u5668\u76f4\u63a5\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+      "download": {
+        "label": "\u6dfb\u52a0\u5230 %{browser}"
+      }
+    },
+    "desktop": {
+      "title": "%{wallet} \u5bf9\u4e8e %{platform}",
+      "description": "\u4ece\u60a8\u5f3a\u5927\u7684\u684c\u9762\u539f\u751f\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+      "download": {
+        "label": "\u6dfb\u52a0\u5230 %{platform}"
+      }
+    }
+  },
+  "get_mobile": {
+    "title": "\u5b89\u88c5 %{wallet}",
+    "description": "\u7528\u624b\u673a\u626b\u63cf\u4e0b\u8f7d iOS \u6216 Android",
+    "continue": {
+      "label": "\u7ee7\u7eed"
+    }
+  },
+  "get_instructions": {
+    "mobile": {
+      "connect": {
+        "label": "\u8fde\u63a5"
+      },
+      "learn_more": {
+        "label": "\u4e86\u89e3\u66f4\u591a"
+      }
+    },
+    "extension": {
+      "refresh": {
+        "label": "\u5237\u65b0"
+      },
+      "learn_more": {
+        "label": "\u4e86\u89e3\u66f4\u591a"
+      }
+    },
+    "desktop": {
+      "connect": {
+        "label": "\u8fde\u63a5"
+      },
+      "learn_more": {
+        "label": "\u4e86\u89e3\u66f4\u591a"
+      }
+    }
+  },
+  "chains": {
+    "title": "\u5207\u6362\u7f51\u7edc",
+    "wrong_network": "\u68c0\u6d4b\u5230\u9519\u8bef\u7684\u7f51\u7edc\uff0c\u8bf7\u5207\u6362\u6216\u65ad\u5f00\u8fde\u63a5\u4ee5\u7ee7\u7eed\u3002",
+    "confirm": "\u5728\u94b1\u5305\u4e2d\u786e\u8ba4",
+    "switching_not_supported": "\u60a8\u7684\u94b1\u5305\u4e0d\u652f\u6301\u4ece %{appName}\u5207\u6362\u7f51\u7edc\u3002\u8bf7\u5c1d\u8bd5\u4ece\u60a8\u7684\u94b1\u5305\u5185\u90e8\u5207\u6362\u7f51\u7edc\u3002",
+    "switching_not_supported_fallback": "\u60a8\u7684\u94b1\u5305\u4e0d\u652f\u6301\u4ece\u6b64\u5e94\u7528\u5207\u6362\u7f51\u7edc\u3002\u5c1d\u8bd5\u4ece\u60a8\u7684\u94b1\u5305\u5185\u5207\u6362\u7f51\u7edc\u3002",
+    "disconnect": "\u65ad\u5f00\u8fde\u63a5",
+    "connected": "\u5df2\u8fde\u63a5"
+  },
+  "profile": {
+    "disconnect": {
+      "label": "\u65ad\u5f00\u8fde\u63a5"
+    },
+    "copy_address": {
+      "label": "\u590d\u5236\u5730\u5740",
+      "copied": "\u5df2\u590d\u5236\uff01"
+    },
+    "explorer": {
+      "label": "\u5728\u6d4f\u89c8\u5668\u4e0a\u67e5\u770b\u66f4\u591a"
+    },
+    "transactions": {
+      "description": "%{appName} \u4ea4\u6613\u5c06\u4f1a\u51fa\u73b0\u5728\u8fd9\u91cc...",
+      "description_fallback": "\u60a8\u7684\u4ea4\u6613\u5c06\u4f1a\u51fa\u73b0\u5728\u8fd9\u91cc...",
+      "recent": {
+        "title": "\u6700\u8fd1\u4ea4\u6613"
+      },
+      "clear": {
+        "label": "\u6e05\u9664\u5168\u90e8"
+      }
+    }
+  },
+  "wallet_connectors": {
+    "argent": {
+      "qr_code": {
+        "step1": {
+          "description": "\u5c06 Argent \u653e\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00 Argent \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u521b\u5efa\u94b1\u5305\u548c\u7528\u6237\u540d\uff0c\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u4e8c\u7ef4\u7801\u6309\u94ae"
+        }
+      }
+    },
+    "berasig": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 BeraSig \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 BeraSig \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u8f7b\u677e\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u4e00\u4e2a\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "best": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Best Wallet\u5e94\u7528",
+          "description": "\u5c06Best Wallet\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "bifrost": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Bifrost Wallet\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00 Bifrost Wallet \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u4f7f\u7528\u6062\u590d\u77ed\u8bed\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      }
+    },
+    "bitget": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Bitget\u94b1\u5305\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00Bitget\u94b1\u5305\u5e94\u7528\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Bitget\u94b1\u5305\u56fa\u5b9a\u5728\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Bitget Wallet\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u5f0f\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u7edd\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "bitski": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Bitski\u56fa\u5b9a\u5728\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Bitski\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u8bf7\u786e\u4fdd\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u7edd\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5171\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u5b8c\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "bitverse": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Bitverse Wallet \u5e94\u7528",
+          "description": "\u5c06 Bitverse Wallet \u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "bloom": {
+      "desktop": {
+        "step1": {
+          "title": "\u6253\u5f00 Bloom \u94b1\u5305\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Bloom \u94b1\u5305\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "description": "\u4f7f\u7528\u6062\u590d\u77ed\u8bed\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u62e5\u6709\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u8fde\u63a5\u4ee5\u901a\u8fc7 Bloom \u8fde\u63a5\u3002\u5e94\u7528\u4e2d\u4f1a\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u786e\u8ba4\u8fde\u63a5\u3002",
+          "title": "\u70b9\u51fb\u8fde\u63a5"
+        }
+      }
+    },
+    "bybit": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Bybit \u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00 Bybit \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u624b\u673a\u4e0a\u7684\u5907\u4efd\u529f\u80fd\u8f7b\u677e\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u70b9\u51fb\u6d4f\u89c8\u5668\u53f3\u4e0a\u89d2\u5e76\u56fa\u5b9a Bybit Wallet\uff0c\u4fbf\u4e8e\u5feb\u901f\u8bbf\u95ee\u3002",
+          "title": "\u5b89\u88c5 Bybit Wallet \u6269\u5c55\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e Bybit Wallet \u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "binance": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Binance\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00 Binance \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u624b\u673a\u4e0a\u7684\u5907\u4efd\u529f\u80fd\u8f7b\u677e\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fbWalletConnect\u6309\u94ae"
+        }
+      }
+    },
+    "coin98": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Coin98\u94b1\u5305\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00Coin98\u94b1\u5305\u5e94\u7528\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u624b\u673a\u4e0a\u7684\u5907\u4efd\u529f\u80fd\u8f7b\u677e\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fbWalletConnect\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u70b9\u51fb\u6d4f\u89c8\u5668\u53f3\u4e0a\u89d2\u5e76\u56fa\u5b9aCoin98\u94b1\u5305\uff0c\u4ee5\u4fbf\u8f7b\u677e\u8bbf\u95ee\u3002",
+          "title": "\u5b89\u88c5Coin98\u94b1\u5305\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u5b8c\u6210Coin98 \u94b1\u5305\u540e\uff0c\u5355\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "coinbase": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u628aCoinbase\u94b1\u5305\u653e\u5230\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00Coinbase\u94b1\u5305\u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u8f7b\u677e\u5730\u4f7f\u7528\u4e91\u5907\u4efd\u529f\u80fd\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Coinbase\u94b1\u5305\u56fa\u5b9a\u5728\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Coinbase\u94b1\u5305\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u597d\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "compass": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Compass Wallet\u56fa\u5b9a\u5728\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Compass Wallet\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "core": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Core\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00Core\u5e94\u7528\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u624b\u673a\u5907\u4efd\u529f\u80fd\u8f7b\u677e\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fbWalletConnect\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Core \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5 Core \u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u4e00\u5b9a\u8981\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u597d\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u4f60\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "fox": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06 FoxWallet \u653e\u5230\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u7684\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00 FoxWallet \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5171\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      }
+    },
+    "frontier": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Frontier \u94b1\u5305\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00 Frontier \u94b1\u5305\u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5171\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Frontier\u94b1\u5305\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Frontier\u94b1\u5305\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u5b8c\u6210\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u4f60\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "im_token": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00imToken\u5e94\u7528",
+          "description": "\u5c06imToken\u5e94\u7528\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u5df2\u6709\u7684\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u53f3\u4e0a\u89d2\u7684\u626b\u63cf\u56fe\u6807",
+          "description": "\u9009\u62e9\u65b0\u8fde\u63a5\uff0c\u7136\u540e\u626b\u63cf\u4e8c\u7ef4\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "iopay": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06ioPay\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00ioPay\u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u624b\u673a\u4e0a\u7684\u5907\u4efd\u529f\u80fd\u8f7b\u677e\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fbWalletConnect\u6309\u94ae"
+        }
+      }
+    },
+    "kaikas": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Kaikas \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5 Kaikas \u6269\u5c55\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Kaikas \u5e94\u7528",
+          "description": "\u5c06 Kaikas \u5e94\u7528\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u53f3\u4e0a\u89d2\u7684\u626b\u63cf\u56fe\u6807",
+          "description": "\u9009\u62e9\u65b0\u8fde\u63a5\uff0c\u7136\u540e\u626b\u63cf\u4e8c\u7ef4\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "kaia": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Kaia\u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Kaia\u6269\u5c55\u7a0b\u5e8f"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Kaia\u5e94\u7528",
+          "description": "\u5c06Kaia\u5e94\u7528\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u53f3\u4e0a\u89d2\u7684\u626b\u63cf\u56fe\u6807",
+          "description": "\u9009\u62e9\u65b0\u8fde\u63a5\uff0c\u7136\u540e\u626b\u63cf\u4e8c\u7ef4\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "kraken": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Kraken Wallet\u5e94\u7528\u7a0b\u5e8f",
+          "description": "\u5c06Kraken Wallet\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "kresus": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Kresus \u94b1\u5305\u5e94\u7528",
+          "description": "\u5c06Kresus\u94b1\u5305\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "magicEden": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Magic Eden \u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Magic Eden \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u8f7b\u677e\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u6062\u590d\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "metamask": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 MetaMask \u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 MetaMask \u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u4f60\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4ee5\u4fbf\u4f60\u8fde\u63a5\u4f60\u7684\u94b1\u5305\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 MetaMask \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06MetaMask\u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u8bf7\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u4e00\u65e6\u60a8\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\uff0c\u70b9\u51fb\u4e0b\u9762\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "nestwallet": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 NestWallet \u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06NestWallet\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u901f\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "okx": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00OKX\u94b1\u5305\u5e94\u7528\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06OKX\u94b1\u5305\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5343\u4e07\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 OKX \u94b1\u5305\u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 OKX \u94b1\u5305\u56fa\u5b9a\u5230\u60a8\u7684\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5343\u4e07\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u4e00\u65e6\u4f60\u8bbe\u7f6e\u597d\u4f60\u7684\u94b1\u5305\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "omni": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Omni\u5e94\u7528",
+          "description": "\u5c06Omni\u6dfb\u52a0\u5230\u4f60\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u4f60\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u7684\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u7684\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u70b9\u51fb\u9996\u9875\u7684\u4e8c\u7ef4\u7801\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "1inch": {
+      "qr_code": {
+        "step1": {
+          "description": "\u5c06 1inch Wallet \u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u6253\u5f00 1inch Wallet \u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u521b\u5efa\u94b1\u5305\u548c\u7528\u6237\u540d\uff0c\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u4e8c\u7ef4\u7801\u6309\u94ae"
+        }
+      }
+    },
+    "token_pocket": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00TokenPocket\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06TokenPocket\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u4ee5\u4fbf\u66f4\u5feb\u7684\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u4e00\u5b9a\u8981\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u94b1\u5305\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5TokenPocket\u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06TokenPocket\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u4e00\u4e2a\u94b1\u5305",
+          "description": "\u4e00\u5b9a\u8981\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u7edd\u5bf9\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u9762\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "trust": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Trust Wallet\u5e94\u7528",
+          "description": "\u5c06Trust Wallet\u653e\u5728\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u4e00\u4e2a\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u7684\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u7684\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u5728\u8bbe\u7f6e\u4e2d\u70b9\u51fbWalletConnect",
+          "description": "\u9009\u62e9\u65b0\u7684\u8fde\u63a5\uff0c\u7136\u540e\u626b\u63cf\u4e8c\u7ef4\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5Trust Wallet\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u5728\u6d4f\u89c8\u5668\u7684\u53f3\u4e0a\u89d2\u70b9\u51fb\u5e76\u56fa\u5b9aTrust Wallet\u4ee5\u4fbf\u4e8e\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u7684\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u7684\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6eTrust Wallet\u540e\uff0c\u70b9\u51fb\u4e0b\u9762\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "uniswap": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Uniswap\u5e94\u7528",
+          "description": "\u5c06Uniswap\u94b1\u5305\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "zerion": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Zerion\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Zerion\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u5f0f\u5907\u4efd\u4f60\u7684\u94b1\u5305\u3002\u7edd\u5bf9\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u4f60\u7684\u79c1\u4eba\u5bc6\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u4f60\u626b\u63cf\u540e\uff0c\u4f1a\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\u8ba9\u4f60\u8fde\u63a5\u4f60\u7684\u94b1\u5305\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Zerion \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Zerion \u56fa\u5b9a\u5728\u4f60\u7684\u4efb\u52a1\u680f\u4ee5\u4fbf\u66f4\u5feb\u8bbf\u95ee\u4f60\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u4f60\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u4f60\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u9762\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "rainbow": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Rainbow \u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Rainbow \u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u60a8\u53ef\u4ee5\u4f7f\u7528\u6211\u4eec\u7684\u5907\u4efd\u529f\u80fd\u5728\u60a8\u7684\u624b\u673a\u4e0a\u8f7b\u677e\u5907\u4efd\u4f60\u7684\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u8ba9\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+        }
+      }
+    },
+    "enkrypt": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Enkrypt Wallet\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Enkrypt Wallet\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u8bf7\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u94b1\u5305\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u9762\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "frame": {
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Frame\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Frame\u53ca\u5176\u914d\u5957\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u4f60\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "one_key": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5OneKey Wallet\u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06OneKey Wallet\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "paraswap": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00ParaSwap\u5e94\u7528",
+          "description": "\u5c06ParaSwap Wallet\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "phantom": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Phantom \u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Phantom \u56fa\u5b9a\u5230\u60a8\u7684\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5bb9\u6613\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u6062\u590d\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "rabby": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Rabby \u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Rabby \u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u4e00\u5b9a\u8981\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u5bc6\u94a5\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u4e00\u65e6\u60a8\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\uff0c\u70b9\u51fb\u4ee5\u4e0b\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "ronin": {
+      "qr_code": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Ronin\u94b1\u5305\u6dfb\u52a0\u5230\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002",
+          "title": "\u6253\u5f00Ronin\u94b1\u5305\u5e94\u7528"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae"
+        }
+      },
+      "extension": {
+        "step1": {
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Ronin\u94b1\u5305\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002",
+          "title": "\u5b89\u88c5Ronin\u94b1\u5305\u6269\u5c55"
+        },
+        "step2": {
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002",
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305"
+        },
+        "step3": {
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002",
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668"
+        }
+      }
+    },
+    "ramper": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5Ramper\u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u60a8\u5c06Ramper\u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5bb9\u6613\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u4e00\u4e2a\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "safeheron": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Core \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Safeheron \u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "taho": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5Taho\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Taho\u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u5207\u52ff\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "wigwam": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5Wigwam\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Wigwam\u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "talisman": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Talisman \u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Talisman \u56fa\u5b9a\u5728\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u4ee5\u592a\u574a\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u6062\u590d\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u597d\u60a8\u7684\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u4ee5\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      }
+    },
+    "xdefi": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 XDEFI \u94b1\u5305\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06XDEFI\u94b1\u5305\u56fa\u5b9a\u5230\u60a8\u7684\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5171\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u4e00\u65e6\u4f60\u8bbe\u7f6e\u597d\u4f60\u7684\u94b1\u5305\uff0c\u70b9\u51fb\u4e0b\u9762\u5237\u65b0\u6d4f\u89c8\u5668\u548c\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "zeal": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Zeal \u5e94\u7528",
+          "description": "\u5c06Zeal\u94b1\u5305\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fbQR\u56fe\u6807\u5e76\u626b\u63cf",
+          "description": "\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u70b9\u51fbQR\u56fe\u6807\uff0c\u626b\u63cf\u4ee3\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      },
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5Zeal\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Zeal\u56fa\u5b9a\u5728\u60a8\u7684\u4efb\u52a1\u680f\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "safepal": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5SafePal Wallet\u6269\u5c55\u7a0b\u5e8f",
+          "description": "\u70b9\u51fb\u6d4f\u89c8\u5668\u53f3\u4e0a\u89d2\u5e76\u56fa\u5b9aSafePal Wallet\u4ee5\u4fbf\u4e8e\u5feb\u901f\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305\u3002",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u4e00\u65e6\u8bbe\u7f6e\u4e86SafePal\u94b1\u5305\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u7a0b\u5e8f\u3002"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00SafePal\u94b1\u5305\u5e94\u7528\u7a0b\u5e8f",
+          "description": "\u5c06SafePal\u94b1\u5305\u653e\u5728\u4e3b\u5c4f\u5e55\u4e0a\u4ee5\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u5728\u8bbe\u7f6e\u4e2d\u70b9\u51fbWalletConnect",
+          "description": "\u9009\u62e9\u65b0\u8fde\u63a5\uff0c\u7136\u540e\u626b\u63cf\u4e8c\u7ef4\u7801\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fdb\u884c\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "desig": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 Desig \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Desig \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u8f7b\u677e\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u4e00\u4e2a\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      }
+    },
+    "subwallet": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 SubWallet \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 SubWallet \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u786e\u4fdd\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u6c38\u8fdc\u4e0d\u8981\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u6062\u590d\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 SubWallet \u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 SubWallet \u653e\u7f6e\u5728\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+        }
+      }
+    },
+    "clv": {
+      "extension": {
+        "step1": {
+          "title": "\u5b89\u88c5 CLV Wallet \u6269\u5c55",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 CLV Wallet \u56fa\u5b9a\u5230\u4efb\u52a1\u680f\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u60a8\u7684\u94b1\u5305\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u5237\u65b0\u60a8\u7684\u6d4f\u89c8\u5668",
+          "description": "\u8bbe\u7f6e\u94b1\u5305\u540e\uff0c\u70b9\u51fb\u4e0b\u65b9\u5237\u65b0\u6d4f\u89c8\u5668\u5e76\u52a0\u8f7d\u6269\u5c55\u3002"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 CLV \u94b1\u5305\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 CLV \u94b1\u5305\u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u52a1\u5fc5\u4f7f\u7528\u5b89\u5168\u7684\u65b9\u6cd5\u5907\u4efd\u60a8\u7684\u94b1\u5305\u3002\u51b3\u4e0d\u4e0e\u4efb\u4f55\u4eba\u5206\u4eab\u60a8\u7684\u79d8\u5bc6\u77ed\u8bed\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+        }
+      }
+    },
+    "okto": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00 Okto \u5e94\u7528",
+          "description": "\u5c06 Okto \u6dfb\u52a0\u5230\u60a8\u7684\u4e3b\u5c4f\u5e55\u4ee5\u4fbf\u5feb\u901f\u8bbf\u95ee"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u4e00\u4e2a MPC \u94b1\u5305",
+          "description": "\u521b\u5efa\u4e00\u4e2a\u8d26\u6237\u5e76\u751f\u6210\u4e00\u4e2a\u94b1\u5305"
+        },
+        "step3": {
+          "title": "\u5728\u8bbe\u7f6e\u4e2d\u70b9\u51fbWalletConnect",
+          "description": "\u70b9\u51fb\u53f3\u4e0a\u89d2\u7684\u626b\u63cf\u4e8c\u7ef4\u7801\u56fe\u6807\uff0c\u5e76\u786e\u8ba4\u63d0\u793a\u4ee5\u8fde\u63a5\u3002"
+        }
+      }
+    },
+    "ledger": {
+      "desktop": {
+        "step1": {
+          "title": "\u6253\u5f00Ledger Live\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Ledger Live\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u8bbe\u7f6e\u60a8\u7684Ledger",
+          "description": "\u8bbe\u7f6e\u4e00\u4e2a\u65b0\u7684Ledger\u6216\u8fde\u63a5\u5230\u4e00\u4e2a\u73b0\u6709\u7684\u3002"
+        },
+        "step3": {
+          "title": "\u8fde\u63a5",
+          "description": "\u4f60\u626b\u63cf\u540e\uff0c\u4f1a\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\u8ba9\u4f60\u8fde\u63a5\u4f60\u7684\u94b1\u5305\u3002"
+        }
+      },
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Ledger Live\u5e94\u7528",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06Ledger Live\u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\uff0c\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u8bbe\u7f6e\u60a8\u7684Ledger",
+          "description": "\u60a8\u53ef\u4ee5\u540c\u6b65\u684c\u9762\u5e94\u7528\u7a0b\u5f0f\uff0c\u6216\u8fde\u63a5\u60a8\u7684Ledger\u3002"
+        },
+        "step3": {
+          "title": "\u626b\u63cf\u4ee3\u7801",
+          "description": "\u70b9\u51fb WalletConnect \u7136\u540e\u5207\u6362\u5230\u626b\u63cf\u5668\u3002\u4f60\u626b\u63cf\u540e\uff0c\u4f1a\u51fa\u73b0\u4e00\u4e2a\u8fde\u63a5\u63d0\u793a\u8ba9\u4f60\u8fde\u63a5\u4f60\u7684\u94b1\u5305\u3002"
+        }
+      }
+    },
+    "valora": {
+      "qr_code": {
+        "step1": {
+          "title": "\u6253\u5f00Valora\u5e94\u7528\u7a0b\u5e8f",
+          "description": "\u6211\u4eec\u5efa\u8bae\u5c06 Valora \u653e\u5728\u60a8\u7684\u4e3b\u5c4f\u5e55\u4e0a\u4ee5\u4fbf\u66f4\u5feb\u5730\u8bbf\u95ee\u3002"
+        },
+        "step2": {
+          "title": "\u521b\u5efa\u6216\u5bfc\u5165\u94b1\u5305",
+          "description": "\u521b\u5efa\u65b0\u94b1\u5305\u6216\u5bfc\u5165\u73b0\u6709\u94b1\u5305\u3002"
+        },
+        "step3": {
+          "title": "\u70b9\u51fb\u626b\u63cf\u6309\u94ae",
+          "description": "\u5728\u60a8\u626b\u63cf\u540e\uff0c\u5c06\u51fa\u73b0\u8fde\u63a5\u63d0\u793a\uff0c\u4f9b\u60a8\u8fde\u63a5\u60a8\u7684\u94b1\u5305\u3002"
+        }
+      }
+    }
+  }
+}
+`},{"@parcel/transformer-js/src/esmodule-helpers.js":"cHUbl"}],cHUbl:[function(e,t,i){i.interopDefault=function(e){return e&&e.__esModule?e:{default:e}},i.defineInteropFlag=function(e){Object.defineProperty(e,"__esModule",{value:!0})},i.exportAll=function(e,t){return Object.keys(e).forEach(function(i){"default"===i||"__esModule"===i||t.hasOwnProperty(i)||Object.defineProperty(t,i,{enumerable:!0,get:function(){return e[i]}})}),t},i.export=function(e,t,i){Object.defineProperty(e,t,{enumerable:!0,get:i})}},{}]},[],null,"parcelRequireb5b4"),globalThis.define=t;

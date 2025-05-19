@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx-lommebok"
+  },
+  "extension_description": {
+    "message": "Følg Lynx, Utforsk Web3"
+  },
+  "wallet_balance": {
+    "message": "Balanse"
+  },
+  "token_send": {
+    "message": "Sende"
+  },
+  "token_receive": {
+    "message": "Motta"
+  },
+  "token_buy": {
+    "message": "Bytt (Kjøp)"
+  },
+  "token_history": {
+    "message": "Historie"
+  },
+  "gas_free": {
+    "message": "Gassfri"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsing"
+  },
+  "gas_free_soon": {
+    "message": "Snart!"
+  },
+  "unknown_chain": {
+    "message": "Ukjent kjede #$0"
+  },
+  "manage_wallet": {
+    "message": "Administrer Wallet"
+  },
+  "wallet_keys": {
+    "message": "Lommebok & Nøkler"
+  },
+  "connected_dapps": {
+    "message": "Tilkoblede DApps"
+  },
+  "password": {
+    "message": "Passord"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "login_out": {
+    "message": "Logg ut"
+  },
+  "login_out_tip": {
+    "message": "Denne handlingen vil slette lommeboken din. Vennligst sørg for at du har sikkerhetskopiert kontoen din før du fortsetter."
+  },
+  "back_up_your_account": {
+    "message": "Sikkerhetskopier kontoen din"
+  },
+  "understand_and_continue": {
+    "message": "Jeg forstår, fortsett"
+  },
+  "gas_price": {
+    "message": "Gasspris"
+  },
+  "switch_network": {
+    "message": "Bytt nettverk"
+  },
+  "update": {
+    "message": "Oppdater"
+  },
+  "add_network": {
+    "message": "Legg til nettverk"
+  },
+  "request_from": {
+    "message": "Forespørsel"
+  },
+  "network": {
+    "message": "Nettverk"
+  },
+  "chain_name": {
+    "message": "Kjedenavn"
+  },
+  "chain_id": {
+    "message": "Kjede-ID"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Desimaler"
+  },
+  "explorer": {
+    "message": "Utforsker"
+  },
+  "switch_network_tip": {
+    "message": "Du er i ferd med å endre ditt standard nettverk. Fortsett kun hvis du stoler på dette nettverket."
+  },
+  "update_network_tip": {
+    "message": "Denne handlingen vil oppdatere dine standard nettverksinnstillinger. Vær oppmerksom på potensielle sikkerhetsrisikoer."
+  },
+  "add_network_tip": {
+    "message": "Lynx verifiserer ikke tilpassede nettverk. Vennligst vær oppmerksom på potensielle risikoer."
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "confirm": {
+    "message": "Bekreft"
+  },
+  "want_connect_wallet": {
+    "message": "Vil koble til lommeboken din"
+  },
+  "account": {
+    "message": "Konto"
+  },
+  "approve_tip1": {
+    "message": "Tillat tilgang til din wallet-adresse, saldo og aktivitet"
+  },
+  "approve_tip2": {
+    "message": "Tillat tillatelse til å sende transaksjonsgodkjenninger"
+  },
+  "approve_tip3": {
+    "message": "Tillater ikke overføring av eiendeler uten din tillatelse"
+  },
+  "connect": {
+    "message": "koble til"
+  },
+  "export_private_key": {
+    "message": "Eksporter Privatnøkkel"
+  },
+  "select_network": {
+    "message": "Velg nettverk"
+  },
+  "nfts": {
+    "message": "NFT-er"
+  },
+  "start": {
+    "message": "START"
+  },
+  "back": {
+    "message": "Tilbake"
+  },
+  "next": {
+    "message": "Neste"
+  },
+  "enter_code": {
+    "message": "Vennligst skriv inn det 6-sifrede passordet"
+  },
+  "enter_your_code": {
+    "message": "Vennligst skriv inn passordet ditt"
+  },
+  "enter_code_again": {
+    "message": "Vennligst skriv inn 6-sifret passord på nytt"
+  },
+  "forget_password": {
+    "message": "Glemt passordet ditt?"
+  },
+  "forget_tip1": {
+    "message": "Lynx lagrer ikke kontodata og kan ikke tilbakestille passordet ditt. Du kan gjenopprette kontoen din ved å logge inn igjen."
+  },
+  "forget_tip2": {
+    "message": "Denne handlingen vil slette lommebokkontoen. Vennligst sørg for at du har sikkerhetskopiert kontoen din før du fortsetter."
+  },
+  "verify_password": {
+    "message": "Bekreft passord"
+  },
+  "set_password": {
+    "message": "Angi passord"
+  },
+  "confirm_password": {
+    "message": "Bekreft passord"
+  },
+  "address": {
+    "message": "Adresse"
+  },
+  "receive_tip": {
+    "message": "Kopier lommebokadressen for å motta midler i denne lommeboken"
+  },
+  "copied": {
+    "message": "Kopiert"
+  },
+  "gas_fee": {
+    "message": "Gas-avgift"
+  },
+  "fee_settings": {
+    "message": "Gebyrinnstillinger"
+  },
+  "base_fee": {
+    "message": "Grunnavgift"
+  },
+  "priority_fee": {
+    "message": "Prioriteringsgebyr"
+  },
+  "gas_limit": {
+    "message": "Gassgrense"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Gjennomsnitt"
+  },
+  "fast": {
+    "message": "Rask"
+  },
+  "website": {
+    "message": "Nettsted"
+  },
+  "custom": {
+    "message": "Tilpasset"
+  },
+  "transfer_request": {
+    "message": "Overføringsforespørsel"
+  },
+  "deploy_contract": {
+    "message": "Distribuere kontrakt"
+  },
+  "sender": {
+    "message": "Avsender"
+  },
+  "amount": {
+    "message": "Beløp"
+  },
+  "simulate_transaction": {
+    "message": "Simuler transaksjon"
+  },
+  "transaction": {
+    "message": "Transaksjon"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "Utilstrekkelig token-saldo"
+  },
+  "required_amount": {
+    "message": "Påkrevd beløp"
+  },
+  "insufficient_token_tip": {
+    "message": "Kontoen din har ikke nok $0-tokens til å fullføre transaksjonen."
+  },
+  "buy": {
+    "message": "Kjøp"
+  },
+  "insufficient_gas_fee": {
+    "message": "Utilstrekkelig gas-gebyr"
+  },
+  "insufficient_fee_tip": {
+    "message": "Din konto har ikke nok $0 til å dekke nettverksgebyret."
+  },
+  "required_fee": {
+    "message": "Påkrevd avgift"
+  },
+  "session": {
+    "message": "Økt"
+  },
+  "disconnect_dapp": {
+    "message": "Koble fra Dapp"
+  },
+  "remove_dapp": {
+    "message": "Fjern Dapp"
+  },
+  "signature_request": {
+    "message": "Signaturforespørsel"
+  },
+  "message": {
+    "message": "Melding"
+  },
+  "market_cap": {
+    "message": "Markedsverdi"
+  },
+  "total_supply": {
+    "message": "Totalforsyning"
+  },
+  "volume_24h": {
+    "message": "Volum 24t"
+  },
+  "max_supply": {
+    "message": "Maksimal forsyning"
+  },
+  "view_on_explorer": {
+    "message": "Vis på utforsker"
+  },
+  "transactions": {
+    "message": "Transaksjoner"
+  },
+  "assets": {
+    "message": "Eiendeler"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Balanse"
+  },
+  "email": {
+    "message": "E-post"
+  },
+  "phone_number": {
+    "message": "Telefonnummer"
+  },
+  "login_email_tip": {
+    "message": "Angi verifiseringskoden sendt til"
+  },
+  "resend_code": {
+    "message": "Send påloggingskode på nytt"
+  },
+  "verify": {
+    "message": "Bekreft"
+  },
+  "create_wallet": {
+    "message": "Opprett Din Første Lommebok"
+  },
+  "sign_in": {
+    "message": "Logg inn"
+  },
+  "create_passkey": {
+    "message": "Opprett en passnøkkel"
+  },
+  "have_passkey": {
+    "message": "Jeg har en passordnøkkel"
+  },
+  "phone_login": {
+    "message": "Telefonpålogging"
+  },
+  "context_meun_send": {
+    "message": "Send - Lynx-lommebok"
+  },
+  "context_meun_receive": {
+    "message": "Motta - Lynx-lommebok"
+  },
+  "context_meun_swap": {
+    "message": "Bytte - Lynx-lommebok"
+  },
+  "context_meun_buy": {
+    "message": "Kjøp - Lynx lommebok"
+  },
+  "selected": {
+    "message": "Valgt"
+  },
+  "search_network_or_chain": {
+    "message": "Søk nettverk eller kjede-ID"
+  },
+  "all": {
+    "message": "Alle"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnett"
+  },
+  "all_networks": {
+    "message": "Alle nettverk"
+  },
+  "chain_not_listed": {
+    "message": "Kjeden er ikke oppført?"
+  },
+  "oops": {
+    "message": "Uff da"
+  },
+  "oops_content": {
+    "message": "Vi er klar over problemet, og teamet vårt jobber med det. Takk for din tålmodighet!"
+  },
+  "go_back": {
+    "message": "Gå tilbake"
+  },
+  "saved": {
+    "message": "Lagret"
+  },
+  "let_start_celebrate": {
+    "message": "LA OSS BEGYNNE Å FEIRE"
+  },
+  "view_my_assets": {
+    "message": "Se Eiendelene Mine"
+  },
+  "received": {
+    "message": "Mottatt"
+  },
+  "sent": {
+    "message": "Sendt"
+  },
+  "swap": {
+    "message": "Bytt"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Overførsel"
+  },
+  "transaction_details": {
+    "message": "Transaksjonsdetaljer"
+  },
+  "transaction_hash": {
+    "message": "Transaksjons-ID"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "timestamp": {
+    "message": "Tidsstempel"
+  },
+  "from": {
+    "message": "Fra"
+  },
+  "to": {
+    "message": "Til"
+  },
+  "value": {
+    "message": "Verdi"
+  },
+  "transaction_fee": {
+    "message": "Transaksjonsgebyr"
+  }
+}

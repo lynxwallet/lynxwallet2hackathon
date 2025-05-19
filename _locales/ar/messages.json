@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "محفظة Lynx"
+  },
+  "extension_description": {
+    "message": "اتبع Lynx، استكشف Web3"
+  },
+  "wallet_balance": {
+    "message": "الرصيد"
+  },
+  "token_send": {
+    "message": "إرسال"
+  },
+  "token_receive": {
+    "message": "استقبال"
+  },
+  "token_buy": {
+    "message": "مبادلة (شراء)"
+  },
+  "token_history": {
+    "message": "التاريخ"
+  },
+  "gas_free": {
+    "message": "بدون رسوم Gas"
+  },
+  "gas_free_sponsorship": {
+    "message": "رعاية"
+  },
+  "gas_free_soon": {
+    "message": "قريباً!"
+  },
+  "unknown_chain": {
+    "message": "السلسلة غير معروفة #$0"
+  },
+  "manage_wallet": {
+    "message": "إدارة الوَلِيت"
+  },
+  "wallet_keys": {
+    "message": "المحفظة والمفاتيح"
+  },
+  "connected_dapps": {
+    "message": "التطبيقات اللامركزية المتصلة"
+  },
+  "password": {
+    "message": "كلمة المرور"
+  },
+  "theme": {
+    "message": "الموضوع"
+  },
+  "language": {
+    "message": "لغة"
+  },
+  "about": {
+    "message": "حول"
+  },
+  "login_out": {
+    "message": "تسجيل الخروج"
+  },
+  "login_out_tip": {
+    "message": "سيؤدي هذا الإجراء إلى حذف محفظتك. يرجى التأكد من أنك قد قمت بعمل نسخة احتياطية من حسابك قبل المتابعة."
+  },
+  "back_up_your_account": {
+    "message": "نسخ احتياطي لحسابك"
+  },
+  "understand_and_continue": {
+    "message": "أفهم، تابع"
+  },
+  "gas_price": {
+    "message": "سعر الغاز"
+  },
+  "switch_network": {
+    "message": "تبديل الشبكة"
+  },
+  "update": {
+    "message": "تحديث"
+  },
+  "add_network": {
+    "message": "إضافة شبكة"
+  },
+  "request_from": {
+    "message": "طلب"
+  },
+  "network": {
+    "message": "الشبكة"
+  },
+  "chain_name": {
+    "message": "اسم السلسلة"
+  },
+  "chain_id": {
+    "message": "معرّف السلسلة"
+  },
+  "symbol": {
+    "message": "رمز"
+  },
+  "decimals": {
+    "message": "الكسور العشرية"
+  },
+  "explorer": {
+    "message": "المستكشف"
+  },
+  "switch_network_tip": {
+    "message": "أنت على وشك تغيير شبكتك الافتراضية. تابع فقط إذا كنت تثق في هذه الشبكة."
+  },
+  "update_network_tip": {
+    "message": "سيؤدي هذا الإجراء إلى تحديث إعدادات الشبكة الافتراضية الخاصة بك. يرجى الانتباه إلى المخاطر الأمنية المحتملة."
+  },
+  "add_network_tip": {
+    "message": "لا تتحقق Lynx من الشبكات المخصصة. يُرجى الانتباه للمخاطر المحتملة."
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "confirm": {
+    "message": "تأكيد"
+  },
+  "want_connect_wallet": {
+    "message": "يرغب بالاتصال بمحفظتك"
+  },
+  "account": {
+    "message": "الحساب"
+  },
+  "approve_tip1": {
+    "message": "السماح بالوصول إلى عنوان المحفظة، الرصيد، والنشاط الخاص بك"
+  },
+  "approve_tip2": {
+    "message": "السماح بإذن لإرسال الموافقات على المعاملات"
+  },
+  "approve_tip3": {
+    "message": "لا يسمح بنقل الأصول دون إذنك"
+  },
+  "connect": {
+    "message": "اتصال"
+  },
+  "export_private_key": {
+    "message": "تصدير المفتاح الخاص"
+  },
+  "select_network": {
+    "message": "اختر الشبكة"
+  },
+  "nfts": {
+    "message": "الرموز غير القابلة للاستبدال"
+  },
+  "start": {
+    "message": "ابدأ"
+  },
+  "back": {
+    "message": "رجوع"
+  },
+  "next": {
+    "message": "التالي"
+  },
+  "enter_code": {
+    "message": "من فضلك أدخل كلمة المرور المكونة من 6 أرقام"
+  },
+  "enter_your_code": {
+    "message": "يرجى إدخال كلمة المرور الخاصة بك"
+  },
+  "enter_code_again": {
+    "message": "الرجاء إعادة إدخال كلمة المرور المكونة من 6 أرقام"
+  },
+  "forget_password": {
+    "message": "نسيت كلمة المرور؟"
+  },
+  "forget_tip1": {
+    "message": "لا يخزن Lynx بيانات الحساب ولا يمكنه إعادة تعيين كلمة المرور الخاصة بك. يمكنك استعادة حسابك عن طريق تسجيل الدخول مرة أخرى."
+  },
+  "forget_tip2": {
+    "message": "سيؤدي هذا الإجراء إلى حذف حساب المحفظة، يرجى التأكد من أنك قد قمت بعمل نسخة احتياطية من حسابك قبل المتابعة."
+  },
+  "verify_password": {
+    "message": "تحقق من كلمة المرور"
+  },
+  "set_password": {
+    "message": "تعيين كلمة المرور"
+  },
+  "confirm_password": {
+    "message": "تأكيد كلمة المرور"
+  },
+  "address": {
+    "message": "عنوان"
+  },
+  "receive_tip": {
+    "message": "انسخ عنوان المحفظة لاستلام الأموال في هذه المحفظة"
+  },
+  "copied": {
+    "message": "منسوخ"
+  },
+  "gas_fee": {
+    "message": "رسوم الغاز"
+  },
+  "fee_settings": {
+    "message": "إعدادات الرسوم"
+  },
+  "base_fee": {
+    "message": "الرسوم الأساسية"
+  },
+  "priority_fee": {
+    "message": "رسوم الأولوية"
+  },
+  "gas_limit": {
+    "message": "حد الغاز"
+  },
+  "normal": {
+    "message": "عادي"
+  },
+  "average": {
+    "message": "متوسط"
+  },
+  "fast": {
+    "message": "سريعة"
+  },
+  "website": {
+    "message": "موقع إلكتروني"
+  },
+  "custom": {
+    "message": "مخصص"
+  },
+  "transfer_request": {
+    "message": "طلب تحويل"
+  },
+  "deploy_contract": {
+    "message": "نشر العقد"
+  },
+  "sender": {
+    "message": "المرسل"
+  },
+  "amount": {
+    "message": "المبلغ"
+  },
+  "simulate_transaction": {
+    "message": "محاكاة المعاملة"
+  },
+  "transaction": {
+    "message": "معاملة"
+  },
+  "data": {
+    "message": "البيانات"
+  },
+  "insufficient_token_balance": {
+    "message": "رصيد غير كافٍ من التوكنات"
+  },
+  "required_amount": {
+    "message": "المبلغ المطلوب"
+  },
+  "insufficient_token_tip": {
+    "message": "حسابك لا يحتوي على ما يكفي من رموز $0 لإكمال العملية."
+  },
+  "buy": {
+    "message": "شراء"
+  },
+  "insufficient_gas_fee": {
+    "message": "رسوم الغاز غير كافية"
+  },
+  "insufficient_fee_tip": {
+    "message": "حسابك لا يحتوي على ما يكفي من $0 لتغطية رسوم الشبكة."
+  },
+  "required_fee": {
+    "message": "الرسوم المطلوبة"
+  },
+  "session": {
+    "message": "الجلسة"
+  },
+  "disconnect_dapp": {
+    "message": "قطع الاتصال بـ Dapp"
+  },
+  "remove_dapp": {
+    "message": "إزالة Dapp"
+  },
+  "signature_request": {
+    "message": "طلب التوقيع"
+  },
+  "message": {
+    "message": "رسالة"
+  },
+  "market_cap": {
+    "message": "القيمة السوقية"
+  },
+  "total_supply": {
+    "message": "الإجمالي المتاح"
+  },
+  "volume_24h": {
+    "message": "حجم التداول في 24 ساعة"
+  },
+  "max_supply": {
+    "message": "الإمداد الأقصى"
+  },
+  "view_on_explorer": {
+    "message": "عرض في المستكشف"
+  },
+  "transactions": {
+    "message": "المعاملات"
+  },
+  "assets": {
+    "message": "الأصول"
+  },
+  "tokens": {
+    "message": "الرموز"
+  },
+  "balance": {
+    "message": "الرصيد"
+  },
+  "email": {
+    "message": "البريد الإلكتروني"
+  },
+  "phone_number": {
+    "message": "رقم الهاتف"
+  },
+  "login_email_tip": {
+    "message": "أدخل رمز التحقق المرسل إلى"
+  },
+  "resend_code": {
+    "message": "إعادة إرسال رمز التحقق"
+  },
+  "verify": {
+    "message": "تحقق"
+  },
+  "create_wallet": {
+    "message": "إنشاء محفظتك الأولى"
+  },
+  "sign_in": {
+    "message": "تسجيل الدخول"
+  },
+  "create_passkey": {
+    "message": "إنشاء مفتاح مرور"
+  },
+  "have_passkey": {
+    "message": "لديّ مفتاح مرور"
+  },
+  "phone_login": {
+    "message": "تسجيل الدخول عبر الهاتف"
+  },
+  "context_meun_send": {
+    "message": "إرسال - محفظة Lynx"
+  },
+  "context_meun_receive": {
+    "message": "استلام - محفظة Lynx"
+  },
+  "context_meun_swap": {
+    "message": "المقايضة - محفظة Lynx"
+  },
+  "context_meun_buy": {
+    "message": "شراء - محفظة Lynx"
+  },
+  "selected": {
+    "message": "مختار"
+  },
+  "search_network_or_chain": {
+    "message": "ابحث عن الشبكة أو معرف السلسلة"
+  },
+  "all": {
+    "message": "جميع"
+  },
+  "mainnets": {
+    "message": "شبكات الرئيسية"
+  },
+  "testnets": {
+    "message": "شبكات الاختبار"
+  },
+  "all_networks": {
+    "message": "جميع الشبكات"
+  },
+  "chain_not_listed": {
+    "message": "السلسلة غير مدرجة؟"
+  },
+  "oops": {
+    "message": "أوبس"
+  },
+  "oops_content": {
+    "message": "!نحن على علم بالمشكلة وفريقنا يعمل على حلها. شكراً لصبركم"
+  },
+  "go_back": {
+    "message": "ارجع"
+  },
+  "saved": {
+    "message": "محفوظ"
+  },
+  "let_start_celebrate": {
+    "message": "لنبدأ الاحتفال"
+  },
+  "view_my_assets": {
+    "message": "عرض أصولي"
+  },
+  "received": {
+    "message": "تم استلامه"
+  },
+  "sent": {
+    "message": "أُرسِل"
+  },
+  "swap": {
+    "message": "تبديل"
+  },
+  "fiat": {
+    "message": "نقدي"
+  },
+  "transfer": {
+    "message": "تحويل"
+  },
+  "transaction_details": {
+    "message": "تفاصيل المعاملة"
+  },
+  "transaction_hash": {
+    "message": "تجزئة المعاملة"
+  },
+  "status": {
+    "message": "الحالة"
+  },
+  "timestamp": {
+    "message": "الطابع الزمني"
+  },
+  "from": {
+    "message": "من"
+  },
+  "to": {
+    "message": "إلى"
+  },
+  "value": {
+    "message": "القيمة"
+  },
+  "transaction_fee": {
+    "message": "رسوم المعاملة"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx Wallet"
+  },
+  "extension_description": {
+    "message": "Follow Lynx, Explore Web3"
+  },
+  "wallet_balance": {
+    "message": "Balance"
+  },
+  "token_send": {
+    "message": "发送"
+  },
+  "token_receive": {
+    "message": "Receive"
+  },
+  "token_buy": {
+    "message": "Swap (Buy)"
+  },
+  "token_history": {
+    "message": "History"
+  },
+  "gas_free": {
+    "message": "无Gas费"
+  },
+  "gas_free_sponsorship": {
+    "message": "Sponsorship"
+  },
+  "gas_free_soon": {
+    "message": "即将推出！"
+  },
+  "unknown_chain": {
+    "message": "Unknown chain #$0"
+  },
+  "manage_wallet": {
+    "message": "Manage Wallet"
+  },
+  "wallet_keys": {
+    "message": "钱包与密钥"
+  },
+  "connected_dapps": {
+    "message": "Connected Dapps"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "theme": {
+    "message": "主题"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "about": {
+    "message": "关于"
+  },
+  "login_out": {
+    "message": "Log Out"
+  },
+  "login_out_tip": {
+    "message": "This action will delete your wallet. Please ensure you've backed up your account before proceeding."
+  },
+  "back_up_your_account": {
+    "message": "Backup your account"
+  },
+  "understand_and_continue": {
+    "message": "I understand, continue"
+  },
+  "gas_price": {
+    "message": "Gas Price"
+  },
+  "switch_network": {
+    "message": "切换网络"
+  },
+  "update": {
+    "message": "更新"
+  },
+  "add_network": {
+    "message": "添加网络"
+  },
+  "request_from": {
+    "message": "请求"
+  },
+  "network": {
+    "message": "Network"
+  },
+  "chain_name": {
+    "message": "Chain Name"
+  },
+  "chain_id": {
+    "message": "链 ID"
+  },
+  "symbol": {
+    "message": "Symbol"
+  },
+  "decimals": {
+    "message": "Decimals"
+  },
+  "explorer": {
+    "message": "Explorer"
+  },
+  "switch_network_tip": {
+    "message": "You're about to change your default network. Only proceed if you trust this network."
+  },
+  "update_network_tip": {
+    "message": "This action will update your default network settings. Please be aware of potential security risks."
+  },
+  "add_network_tip": {
+    "message": "Lynx does not verify custom networks. Please be aware of potential risks."
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "confirm": {
+    "message": "Confirm"
+  },
+  "want_connect_wallet": {
+    "message": "Wants to connect to your wallet"
+  },
+  "account": {
+    "message": "Account"
+  },
+  "approve_tip1": {
+    "message": "Allow access to your wallet address, balance, and activity"
+  },
+  "approve_tip2": {
+    "message": "允许发送交易批准的权限"
+  },
+  "approve_tip3": {
+    "message": "Does not permit the transfer of assets without your consent"
+  },
+  "connect": {
+    "message": "连接"
+  },
+  "export_private_key": {
+    "message": "Export Private Key"
+  },
+  "select_network": {
+    "message": "Select Network"
+  },
+  "nfts": {
+    "message": "NFTs"
+  },
+  "start": {
+    "message": "开始"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "next": {
+    "message": "下一个"
+  },
+  "enter_code": {
+    "message": "请输入六位数密码"
+  },
+  "enter_your_code": {
+    "message": "Please enter your password"
+  },
+  "enter_code_again": {
+    "message": "Please re-enter the 6-digit PIN."
+  },
+  "forget_password": {
+    "message": "Forgot your password?"
+  },
+  "forget_tip1": {
+    "message": "Lynx doesn't store account data and can't reset your password. You can restore your account by signing in again."
+  },
+  "forget_tip2": {
+    "message": "This action will delete your wallet account. Please ensure you have backed up your account before proceeding."
+  },
+  "verify_password": {
+    "message": "Verify Password"
+  },
+  "set_password": {
+    "message": "Set Password"
+  },
+  "confirm_password": {
+    "message": "Confirmar Palavra-passe"
+  },
+  "address": {
+    "message": "Address"
+  },
+  "receive_tip": {
+    "message": "Copy the wallet address to receive funds in this wallet"
+  },
+  "copied": {
+    "message": "复制"
+  },
+  "gas_fee": {
+    "message": "Gas Fee"
+  },
+  "fee_settings": {
+    "message": "费用设置"
+  },
+  "base_fee": {
+    "message": "基准费用"
+  },
+  "priority_fee": {
+    "message": "Priority Fee"
+  },
+  "gas_limit": {
+    "message": "Gas Limit"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "average": {
+    "message": "Average"
+  },
+  "fast": {
+    "message": "Fast"
+  },
+  "website": {
+    "message": "Website"
+  },
+  "custom": {
+    "message": "自定义"
+  },
+  "transfer_request": {
+    "message": "转账请求"
+  },
+  "deploy_contract": {
+    "message": "部署合约"
+  },
+  "sender": {
+    "message": "Sender"
+  },
+  "amount": {
+    "message": "Amount"
+  },
+  "simulate_transaction": {
+    "message": "模拟交易"
+  },
+  "transaction": {
+    "message": "Transaction"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "insufficient_token_balance": {
+    "message": "代币余额不足"
+  },
+  "required_amount": {
+    "message": "Required Amount"
+  },
+  "insufficient_token_tip": {
+    "message": "Your account doesn't have enough $0 tokens to complete the transaction."
+  },
+  "buy": {
+    "message": "Purchase"
+  },
+  "insufficient_gas_fee": {
+    "message": "Insufficient gas fee"
+  },
+  "insufficient_fee_tip": {
+    "message": "Your account doesn't have enough $0 to cover the network fee."
+  },
+  "required_fee": {
+    "message": "Required Fee"
+  },
+  "session": {
+    "message": "Session"
+  },
+  "disconnect_dapp": {
+    "message": "断开 Dapp"
+  },
+  "remove_dapp": {
+    "message": "Remove Dapp"
+  },
+  "signature_request": {
+    "message": "Signature Request"
+  },
+  "message": {
+    "message": "Message"
+  },
+  "market_cap": {
+    "message": "市值"
+  },
+  "total_supply": {
+    "message": "总供应量"
+  },
+  "volume_24h": {
+    "message": "24h Volume"
+  },
+  "max_supply": {
+    "message": "最大供应量"
+  },
+  "view_on_explorer": {
+    "message": "View on Explorer"
+  },
+  "transactions": {
+    "message": "Transactions"
+  },
+  "assets": {
+    "message": "Assets"
+  },
+  "tokens": {
+    "message": "Tokens"
+  },
+  "balance": {
+    "message": "Balance"
+  },
+  "email": {
+    "message": "电子邮件"
+  },
+  "phone_number": {
+    "message": "Phone Number"
+  },
+  "login_email_tip": {
+    "message": "Enter the verification code sent to"
+  },
+  "resend_code": {
+    "message": "Resend verification code"
+  },
+  "verify": {
+    "message": "Verify"
+  },
+  "create_wallet": {
+    "message": "Create Your First Wallet"
+  },
+  "sign_in": {
+    "message": "Sign in"
+  },
+  "create_passkey": {
+    "message": "Create a Passkey"
+  },
+  "have_passkey": {
+    "message": "I have a Passkey"
+  },
+  "phone_login": {
+    "message": "Phone Login"
+  },
+  "context_meun_send": {
+    "message": "发送 - Lynx 钱包"
+  },
+  "context_meun_receive": {
+    "message": "Receive - Lynx wallet"
+  },
+  "context_meun_swap": {
+    "message": "Swap - Lynx wallet"
+  },
+  "context_meun_buy": {
+    "message": "Buy - Lynx wallet"
+  },
+  "selected": {
+    "message": "Selected"
+  },
+  "search_network_or_chain": {
+    "message": "Search Network or Chain ID"
+  },
+  "all": {
+    "message": "All"
+  },
+  "mainnets": {
+    "message": "Mainnets"
+  },
+  "testnets": {
+    "message": "Testnets"
+  },
+  "all_networks": {
+    "message": "All Networks"
+  },
+  "chain_not_listed": {
+    "message": "未列出的链?"
+  },
+  "oops": {
+    "message": "抱歉"
+  },
+  "oops_content": {
+    "message": "We're aware of the issue and our team is on it. Thanks for your patience!"
+  },
+  "go_back": {
+    "message": "Go Back"
+  },
+  "saved": {
+    "message": "Saved"
+  },
+  "let_start_celebrate": {
+    "message": "LET'S START CELEBRATING"
+  },
+  "view_my_assets": {
+    "message": "View My Assets"
+  },
+  "received": {
+    "message": "Received"
+  },
+  "sent": {
+    "message": "Sent"
+  },
+  "swap": {
+    "message": "Swap"
+  },
+  "fiat": {
+    "message": "Fiat"
+  },
+  "transfer": {
+    "message": "Transfer"
+  },
+  "transaction_details": {
+    "message": "Transaction Details"
+  },
+  "transaction_hash": {
+    "message": "交易哈希"
+  },
+  "status": {
+    "message": "状态"
+  },
+  "timestamp": {
+    "message": "时间戳"
+  },
+  "from": {
+    "message": "From"
+  },
+  "to": {
+    "message": "To"
+  },
+  "value": {
+    "message": "Value"
+  },
+  "transaction_fee": {
+    "message": "Transaction Fee"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "extension_name": {
+    "message": "Lynx वॉलेट"
+  },
+  "extension_description": {
+    "message": "Lynx का अनुसरण करें, Web3 का अन्वेषण करें।"
+  },
+  "wallet_balance": {
+    "message": "शेष राशि"
+  },
+  "token_send": {
+    "message": "भेजें"
+  },
+  "token_receive": {
+    "message": "प्राप्त करें"
+  },
+  "token_buy": {
+    "message": "स्वैप (खरीदें)"
+  },
+  "token_history": {
+    "message": "इतिहास"
+  },
+  "gas_free": {
+    "message": "गैस-मुक्त"
+  },
+  "gas_free_sponsorship": {
+    "message": "प्रायोजन"
+  },
+  "gas_free_soon": {
+    "message": "जल्द!"
+  },
+  "unknown_chain": {
+    "message": "अज्ञात चेन #$0"
+  },
+  "manage_wallet": {
+    "message": "वॉलेट प्रबंधित करें"
+  },
+  "wallet_keys": {
+    "message": "वॉलेट और कुंजी"
+  },
+  "connected_dapps": {
+    "message": "कनेक्टेड DApps"
+  },
+  "password": {
+    "message": "कुंजिका"
+  },
+  "theme": {
+    "message": "थीम"
+  },
+  "language": {
+    "message": "भाषा"
+  },
+  "about": {
+    "message": "के बारे में"
+  },
+  "login_out": {
+    "message": "लॉग आउट"
+  },
+  "login_out_tip": {
+    "message": "यह कार्रवाई आपका वॉलेट हटा देगी। जारी रखने से पहले कृपया सुनिश्चित करें कि आपने अपने खाते का बैकअप ले लिया है।"
+  },
+  "back_up_your_account": {
+    "message": "अपने खाते का बैकअप लें"
+  },
+  "understand_and_continue": {
+    "message": "मुझे समझ आ गया, जारी रखें।"
+  },
+  "gas_price": {
+    "message": "गैस मूल्य"
+  },
+  "switch_network": {
+    "message": "नेटवर्क बदलें"
+  },
+  "update": {
+    "message": "अपडेट करें"
+  },
+  "add_network": {
+    "message": "नेटवर्क जोड़ें"
+  },
+  "request_from": {
+    "message": "अनुरोध"
+  },
+  "network": {
+    "message": "नेटवर्क"
+  },
+  "chain_name": {
+    "message": "चेन का नाम"
+  },
+  "chain_id": {
+    "message": "चेन आईडी"
+  },
+  "symbol": {
+    "message": "प्रतीक"
+  },
+  "decimals": {
+    "message": "दशमलव"
+  },
+  "explorer": {
+    "message": "अन्वेषक"
+  },
+  "switch_network_tip": {
+    "message": "आप अपना डिफ़ॉल्ट नेटवर्क बदलने वाले हैं। केवल तभी आगे बढ़ें जब आप इस नेटवर्क पर भरोसा करते हैं।"
+  },
+  "update_network_tip": {
+    "message": "इस क्रिया से आपके डिफॉल्ट नेटवर्क सेटिंग्स को अपडेट किया जाएगा। कृपया संभावित सुरक्षा जोखिमों से अवगत रहें।"
+  },
+  "add_network_tip": {
+    "message": "Lynx कस्टम नेटवर्क की जांच नहीं करता है। कृपया संभावित जोखिमों से अवगत रहें।"
+  },
+  "cancel": {
+    "message": "रद्द करें"
+  },
+  "confirm": {
+    "message": "पुष्टि करें"
+  },
+  "want_connect_wallet": {
+    "message": "आपके वॉलेट से कनेक्ट होना चाहता है"
+  },
+  "account": {
+    "message": "खाता"
+  },
+  "approve_tip1": {
+    "message": "अपने वॉलेट पते, बैलेंस और गतिविधि तक पहुंच की अनुमति दें"
+  },
+  "approve_tip2": {
+    "message": "लेन-देन अनुमोदन भेजने की अनुमति दें"
+  },
+  "approve_tip3": {
+    "message": "बिना आपकी अनुमति के परिसंपत्तियों का हस्तांतरण नहीं करने देता"
+  },
+  "connect": {
+    "message": "कनेक्ट करें"
+  },
+  "export_private_key": {
+    "message": "निजी कुंजी निर्यात करें"
+  },
+  "select_network": {
+    "message": "नेटवर्क चुनें"
+  },
+  "nfts": {
+    "message": "एनएफटी्स"
+  },
+  "start": {
+    "message": "प्रारंभ करें"
+  },
+  "back": {
+    "message": "वापस"
+  },
+  "next": {
+    "message": "अगला"
+  },
+  "enter_code": {
+    "message": "कृपया 6-अंकों का पासवर्ड दर्ज करें"
+  },
+  "enter_your_code": {
+    "message": "कृपया अपना पासवर्ड दर्ज करें"
+  },
+  "enter_code_again": {
+    "message": "कृपया 6-अंकों का पासवर्ड पुनः दर्ज करें।"
+  },
+  "forget_password": {
+    "message": "क्या आप अपना पासवर्ड भूल गए हैं?"
+  },
+  "forget_tip1": {
+    "message": "Lynx खाता डेटा संग्रहीत नहीं करता है और आपका पासवर्ड रीसेट नहीं कर सकता। आप फिर से साइन इन करके अपना खाता पुनर्स्थापित कर सकते हैं।"
+  },
+  "forget_tip2": {
+    "message": "यह कार्रवाई वॉलेट खाता हटा देगी, कृपया आगे बढ़ने से पहले सुनिश्चित करें कि आपने अपने खाते का बैकअप ले लिया है।"
+  },
+  "verify_password": {
+    "message": "पासवर्ड की पुष्टि करें"
+  },
+  "set_password": {
+    "message": "पासवर्ड सेट करें"
+  },
+  "confirm_password": {
+    "message": "पासवर्ड की पुष्टि करें"
+  },
+  "address": {
+    "message": "पता"
+  },
+  "receive_tip": {
+    "message": "इस वॉलेट में फंड प्राप्त करने के लिए वॉलेट एड्रेस कॉपी करें।"
+  },
+  "copied": {
+    "message": "कॉपी किया गया"
+  },
+  "gas_fee": {
+    "message": "गैस शुल्क"
+  },
+  "fee_settings": {
+    "message": "शुल्क सेटिंग्स"
+  },
+  "base_fee": {
+    "message": "आधार शुल्क"
+  },
+  "priority_fee": {
+    "message": "प्राथमिकता शुल्क"
+  },
+  "gas_limit": {
+    "message": "गैस लिमिट"
+  },
+  "normal": {
+    "message": "सामान्य"
+  },
+  "average": {
+    "message": "औसत"
+  },
+  "fast": {
+    "message": "तेज़"
+  },
+  "website": {
+    "message": "वेबसाइट"
+  },
+  "custom": {
+    "message": "कस्टम"
+  },
+  "transfer_request": {
+    "message": "स्थानांतरण अनुरोध"
+  },
+  "deploy_contract": {
+    "message": "स्मार्ट अनुबंध तैनात करें"
+  },
+  "sender": {
+    "message": "प्रेषक"
+  },
+  "amount": {
+    "message": "राशि"
+  },
+  "simulate_transaction": {
+    "message": "लेन-देन का अनुकरण करें"
+  },
+  "transaction": {
+    "message": "लेन-देन"
+  },
+  "data": {
+    "message": "डेटा"
+  },
+  "insufficient_token_balance": {
+    "message": "पर्याप्त टोकन बैलेंस नहीं है।"
+  },
+  "required_amount": {
+    "message": "आवश्यक राशि"
+  },
+  "insufficient_token_tip": {
+    "message": "आपके खाते में लेन-देन पूरा करने के लिए पर्याप्त $0 टोकन्स नहीं हैं।"
+  },
+  "buy": {
+    "message": "खरीदें"
+  },
+  "insufficient_gas_fee": {
+    "message": "अपर्याप्त गैस शुल्क"
+  },
+  "insufficient_fee_tip": {
+    "message": "आपके खाते में नेटवर्क शुल्क को कवर करने के लिए पर्याप्त $0 नहीं है।"
+  },
+  "required_fee": {
+    "message": "आवश्यक शुल्क"
+  },
+  "session": {
+    "message": "सत्र"
+  },
+  "disconnect_dapp": {
+    "message": "Dapp को डिस्कनेक्ट करें"
+  },
+  "remove_dapp": {
+    "message": "Dapp हटाएँ"
+  },
+  "signature_request": {
+    "message": "हस्ताक्षर अनुरोध"
+  },
+  "message": {
+    "message": "संदेश"
+  },
+  "market_cap": {
+    "message": "मार्केट कैप"
+  },
+  "total_supply": {
+    "message": "कुल आपूर्ति"
+  },
+  "volume_24h": {
+    "message": "24 घंटे वॉल्यूम"
+  },
+  "max_supply": {
+    "message": "अधिकतम आपूर्ति"
+  },
+  "view_on_explorer": {
+    "message": "एक्सप्लोरर पर देखें"
+  },
+  "transactions": {
+    "message": "लेनदेन"
+  },
+  "assets": {
+    "message": "संपत्ति"
+  },
+  "tokens": {
+    "message": "टोकन्स"
+  },
+  "balance": {
+    "message": "शेष राशि"
+  },
+  "email": {
+    "message": "ईमेल"
+  },
+  "phone_number": {
+    "message": "फ़ोन नंबर"
+  },
+  "login_email_tip": {
+    "message": "भेजे गए सत्यापन कोड को दर्ज करें"
+  },
+  "resend_code": {
+    "message": "सत्यापन कोड पुनः भेजें"
+  },
+  "verify": {
+    "message": "सत्यापित करें"
+  },
+  "create_wallet": {
+    "message": "अपना पहला वॉलेट बनाएं"
+  },
+  "sign_in": {
+    "message": "साइन इन करें"
+  },
+  "create_passkey": {
+    "message": "पासकी बनाएं"
+  },
+  "have_passkey": {
+    "message": "मेरे पास एक पासकी है।"
+  },
+  "phone_login": {
+    "message": "फोन लॉगिन"
+  },
+  "context_meun_send": {
+    "message": "भेजें - Lynx वॉलेट"
+  },
+  "context_meun_receive": {
+    "message": "प्राप्त करें - Lynx वॉलेट"
+  },
+  "context_meun_swap": {
+    "message": "स्वैप - Lynx वॉलेट"
+  },
+  "context_meun_buy": {
+    "message": "खरीदें - Lynx वॉलेट"
+  },
+  "selected": {
+    "message": "चयनित"
+  },
+  "search_network_or_chain": {
+    "message": "नेटवर्क या चेन आईडी खोजें"
+  },
+  "all": {
+    "message": "सभी"
+  },
+  "mainnets": {
+    "message": "मेननेट्स"
+  },
+  "testnets": {
+    "message": "टेस्टनेट्स"
+  },
+  "all_networks": {
+    "message": "सभी नेटवर्क"
+  },
+  "chain_not_listed": {
+    "message": "चेन सूचीबद्ध नहीं है?"
+  },
+  "oops": {
+    "message": "ओह"
+  },
+  "oops_content": {
+    "message": "हमें समस्या की जानकारी है और हमारी टीम इस पर काम कर रही है। आपके धैर्य के लिए धन्यवाद!"
+  },
+  "go_back": {
+    "message": "वापस जाएं"
+  },
+  "saved": {
+    "message": "सहेजा गया"
+  },
+  "let_start_celebrate": {
+    "message": "आइए जश्न मनाना शुरू करें"
+  },
+  "view_my_assets": {
+    "message": "मेरी संपत्ति देखें"
+  },
+  "received": {
+    "message": "प्राप्त"
+  },
+  "sent": {
+    "message": "भेजा गया"
+  },
+  "swap": {
+    "message": "स्वैप"
+  },
+  "fiat": {
+    "message": "फिएट"
+  },
+  "transfer": {
+    "message": "स्थानांतरण"
+  },
+  "transaction_details": {
+    "message": "लेनदेन विवरण"
+  },
+  "transaction_hash": {
+    "message": "लेनदेन हैश"
+  },
+  "status": {
+    "message": "स्थिति"
+  },
+  "timestamp": {
+    "message": "टाइमस्टैम्प"
+  },
+  "from": {
+    "message": "से"
+  },
+  "to": {
+    "message": "तक"
+  },
+  "value": {
+    "message": "मूल्य"
+  },
+  "transaction_fee": {
+    "message": "लेन-देन शुल्क"
+  }
+}
